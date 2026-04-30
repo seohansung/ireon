@@ -1,0 +1,2280 @@
+[
+  {
+    "entity_id": "absolute advantage",
+    "title": "absolute advantage",
+    "slug": "absolute-advantage",
+    "lang": "en",
+    "url": "/en/entity/absolute-advantage/",
+    "intro": "[absolute advantage|absolute advantage] refers to a situation where a country can produce more of a good than another country.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison"
+    ],
+    "keywords": [
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "absolute advantage"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "aggregate demand",
+    "title": "aggregate demand",
+    "slug": "aggregate-demand",
+    "lang": "en",
+    "url": "/en/entity/aggregate-demand/",
+    "intro": "[aggregate demand|aggregate demand] refers to the total demand for goods and services in an economy.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Examples",
+      "Examples of Flexible Enough",
+      "Examples of Say Law"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Examples of Flexible Enough",
+      "Examples of Say Law",
+      "Mechanism",
+      "aggregate demand"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "aggregate production function",
+    "title": "aggregate production function",
+    "slug": "aggregate-production-function",
+    "lang": "en",
+    "url": "/en/entity/aggregate-production-function/",
+    "intro": "[aggregate production function|aggregate production function] is a model that holds technology constant, illustrating the relationship between capital deepening and output.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Effects on Output Measured",
+      "Effects on Physical Capital",
+      "Examples of Neoclassical Growth"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Effects on Output Measured",
+      "Effects on Physical Capital",
+      "Examples",
+      "Examples of Neoclassical Growth",
+      "Mechanism",
+      "aggregate production function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "aggregate supply",
+    "title": "aggregate supply",
+    "slug": "aggregate-supply",
+    "lang": "en",
+    "url": "/en/entity/aggregate-supply/",
+    "intro": "[aggregate supply|aggregate supply] [aggregate supply] is a key component of the aggregate demand/aggregate supply model.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Constraints",
+      "Price Level Constraints"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Price Level Constraints",
+      "aggregate supply"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "automatic stabilizer",
+    "title": "automatic stabilizer",
+    "slug": "automatic-stabilizer",
+    "lang": "en",
+    "url": "/en/entity/automatic-stabilizer/",
+    "intro": "[automatic stabilizer|automatic stabilizer] refers to mechanisms that automatically adjust government spending and taxation in response to economic conditions.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Comparison",
+      "Examples",
+      "Constraints",
+      "Budget Deficit"
+    ],
+    "keywords": [
+      "Budget Deficit",
+      "Comparison",
+      "Constraints",
+      "Definition",
+      "Examples",
+      "Mechanism",
+      "automatic stabilizer"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "balanced budget",
+    "title": "balanced budget",
+    "slug": "balanced-budget",
+    "lang": "en",
+    "url": "/en/entity/balanced-budget/",
+    "intro": "[balanced budget|balanced budget] refers to proposals requiring annual equality between government spending and taxes.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Constraints",
+      "Effects on Fiscal Policy",
+      "Budget Amendment"
+    ],
+    "keywords": [
+      "Budget Amendment",
+      "Comparison",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Effects on Fiscal Policy",
+      "Mechanism",
+      "balanced budget"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "bank regulation",
+    "title": "bank regulation",
+    "slug": "bank-regulation",
+    "lang": "en",
+    "url": "/en/entity/bank-regulation/",
+    "intro": "[bank regulation|bank regulation] refers to measures designed to maintain banks' solvency by avoiding excessive risk.",
+    "section_titles": [
+      "Definition",
+      "Effects",
+      "Constraints",
+      "Monetary Policy Mechanism",
+      "Effects on Federal Reserve",
+      "Central Bank Mechanism"
+    ],
+    "keywords": [
+      "Central Bank Mechanism",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Effects on Federal Reserve",
+      "Monetary Policy Mechanism",
+      "bank regulation"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "base year",
+    "title": "base year",
+    "slug": "base-year",
+    "lang": "en",
+    "url": "/en/entity/base-year/",
+    "intro": "[base year|base year] The base year is the year whose prices are used to compute real statistics.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Price Index Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Price Index Mechanism",
+      "base year"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "bilateral monopoly",
+    "title": "bilateral monopoly",
+    "slug": "bilateral-monopoly",
+    "lang": "en",
+    "url": "/en/entity/bilateral-monopoly/",
+    "intro": "[bilateral monopoly|bilateral monopoly] refers to a labor market scenario where a union represents the supply side and a monopsony exists on the demand side.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Applications",
+      "Labor Market"
+    ],
+    "keywords": [
+      "Applications",
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Labor Market",
+      "Mechanism",
+      "bilateral monopoly"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "building block",
+    "title": "building block",
+    "slug": "building-block",
+    "lang": "en",
+    "url": "/en/entity/building-block/",
+    "intro": "[building block|building block] [building block] is a foundational element of the Keynesian diagnosis.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Voluntary Exchange",
+      "Keynesian View Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Keynesian View Mechanism",
+      "Mechanism",
+      "Voluntary Exchange",
+      "building block"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "comparative advantage",
+    "title": "comparative advantage",
+    "slug": "comparative-advantage",
+    "lang": "en",
+    "url": "/en/entity/comparative-advantage/",
+    "intro": "[comparative advantage|comparative advantage] refers to a nation's ability to produce a good or service at a lower opportunity cost than other countries.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison"
+    ],
+    "keywords": [
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "comparative advantage"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "corporate governance",
+    "title": "corporate governance",
+    "slug": "corporate-governance",
+    "lang": "en",
+    "url": "/en/entity/corporate-governance/",
+    "intro": "[corporate governance|corporate governance] refers to the name economists give to the institutions tasked with overseeing top executives.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Examples",
+      "Large Shareholder"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Large Shareholder",
+      "Mechanism",
+      "corporate governance"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "currency",
+    "title": "currency",
+    "slug": "currency",
+    "lang": "en",
+    "url": "/en/entity/currency/",
+    "intro": "A merged currency currency signifies that a nation has relinquished control over its domestic monetary policy.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples of Money Supply",
+      "Exchange Rate Mechanism",
+      "Global Economy Mechanism"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Examples of Money Supply",
+      "Exchange Rate Mechanism",
+      "Global Economy Mechanism",
+      "Mechanism",
+      "currency"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "deadweight loss",
+    "title": "deadweight loss",
+    "slug": "deadweight-loss",
+    "lang": "en",
+    "url": "/en/entity/deadweight-loss/",
+    "intro": "[deadweight loss|deadweight loss] is loss in total surplus that occurs when the economy produces at an inefficient quantity.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "deadweight loss"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "demand and supply",
+    "title": "demand and supply",
+    "slug": "demand-and-supply",
+    "lang": "en",
+    "url": "/en/entity/demand-and-supply/",
+    "intro": "[demand and supply|demand and supply] is a foundational concept in economics that uses two-dimensional diagrams with price and quantity as axes to represent demand and supply curves.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Supply Curve",
+      "Supply Framework Mechanism"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "Supply Curve",
+      "Supply Framework Mechanism",
+      "demand and supply"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "dollar value",
+    "title": "dollar value",
+    "slug": "dollar-value",
+    "lang": "en",
+    "url": "/en/entity/dollar-value/",
+    "intro": "[dollar value|dollar value] The dollar value of outstanding Treasury bonds represents the federal government's total debt.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Treasury Bond",
+      "Productivity Per Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Productivity Per Mechanism",
+      "Treasury Bond",
+      "dollar value"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "economic growth",
+    "title": "economic growth",
+    "slug": "economic-growth",
+    "lang": "en",
+    "url": "/en/entity/economic-growth/",
+    "intro": "[economic growth|economic growth] refers to rapid and sustained increases in a country's economic output.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Effects on Diagram Long-run",
+      "Examples of Human Capital"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Effects on Diagram Long-run",
+      "Examples",
+      "Examples of Human Capital",
+      "Mechanism",
+      "economic growth"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "efficiency",
+    "title": "efficiency",
+    "slug": "efficiency",
+    "lang": "en",
+    "url": "/en/entity/efficiency/",
+    "intro": "The production possibilities frontier illustrates two kinds of efficiency: productive efficiency and allocative efficiency.",
+    "section_titles": [
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Effects on Allocative Efficiency",
+      "Allocative Efficiency",
+      "Producer Supply"
+    ],
+    "keywords": [
+      "Allocative Efficiency",
+      "Comparison",
+      "Effects",
+      "Effects on Allocative Efficiency",
+      "Mechanism",
+      "Producer Supply",
+      "efficiency"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "elasticity",
+    "title": "elasticity",
+    "slug": "elasticity",
+    "lang": "en",
+    "url": "/en/entity/elasticity/",
+    "intro": "elasticity Economists calculate elasticity along a demand or supply curve by using the average percent change in both quantity and price.",
+    "section_titles": [
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Effects on Constant Unitary",
+      "Zero Change"
+    ],
+    "keywords": [
+      "Comparison",
+      "Effects",
+      "Effects on Constant Unitary",
+      "Mechanism",
+      "Zero Change",
+      "elasticity"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "election",
+    "title": "election",
+    "slug": "election",
+    "lang": "en",
+    "url": "/en/entity/election/",
+    "intro": "election The theory of rational ignorance posits that voters will recognize their single vote's negligible impact on election outcomes.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Examples",
+      "Examples of Donald Election",
+      "Voting System Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Examples of Donald Election",
+      "Mechanism",
+      "Voting System Mechanism",
+      "election"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "even those",
+    "title": "even those",
+    "slug": "even-those",
+    "lang": "en",
+    "url": "/en/entity/even-those/",
+    "intro": "[even those|even those] [even those] refers to individuals who maintain employment despite economic changes.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "even those"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "exchange rate",
+    "title": "exchange rate",
+    "slug": "exchange-rate",
+    "lang": "en",
+    "url": "/en/entity/exchange-rate/",
+    "intro": "[exchange rate|exchange rate] [exchange rate] refers to the value of one currency in terms of another.",
+    "section_titles": [
+      "Definition",
+      "Effects",
+      "Examples",
+      "Foreign Exchange Mechanism",
+      "Pegged Exchange",
+      "Effects on Hard Peg"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Effects on Hard Peg",
+      "Examples",
+      "Foreign Exchange Mechanism",
+      "Pegged Exchange",
+      "exchange rate"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "exchange rate policy",
+    "title": "exchange rate policy",
+    "slug": "exchange-rate-policy",
+    "lang": "en",
+    "url": "/en/entity/exchange-rate-policy/",
+    "intro": "[exchange rate policy|exchange rate policy] refers to a nation's strategy for managing currency values.",
+    "section_titles": [
+      "Definition",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Constraints",
+      "Pegged Exchange Constraints",
+      "Pegged Exchange"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Pegged Exchange",
+      "Pegged Exchange Constraints",
+      "exchange rate policy"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "expenditure",
+    "title": "expenditure",
+    "slug": "expenditure",
+    "lang": "en",
+    "url": "/en/entity/expenditure/",
+    "intro": "expenditure refers to spending that affects the equilibrium level of GDP.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Effects on Aggregate Expenditure",
+      "Expenditure Multiplier",
+      "Aggregate Expenditure"
+    ],
+    "keywords": [
+      "Aggregate Expenditure",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Effects on Aggregate Expenditure",
+      "Expenditure Multiplier",
+      "Mechanism",
+      "expenditure"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "financial capital",
+    "title": "financial capital",
+    "slug": "financial-capital",
+    "lang": "en",
+    "url": "/en/entity/financial-capital/",
+    "intro": "[financial capital|financial capital] refers to the supply of funds available for investment.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Supply Curve",
+      "Effects on Fiscal Policy",
+      "Financial Investment"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Effects on Fiscal Policy",
+      "Examples",
+      "Financial Investment",
+      "Mechanism",
+      "Supply Curve",
+      "financial capital"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "fiscal policy",
+    "title": "fiscal policy",
+    "slug": "fiscal-policy",
+    "lang": "en",
+    "url": "/en/entity/fiscal-policy/",
+    "intro": "[fiscal policy|fiscal policy] refers to the strategic use of government spending and taxation to shape economic growth and stability across different periods.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects on Money Quantity",
+      "Aggregate Demand Mechanism",
+      "Government Spending Mechanism"
+    ],
+    "keywords": [
+      "Aggregate Demand Mechanism",
+      "Causes",
+      "Definition",
+      "Effects on Money Quantity",
+      "Government Spending Mechanism",
+      "Mechanism",
+      "fiscal policy"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "five unit",
+    "title": "five unit",
+    "slug": "five-unit",
+    "lang": "en",
+    "url": "/en/entity/five-unit/",
+    "intro": "[five unit|five unit] results in losses or negative profits for the firm at this level of quantity and output.",
+    "section_titles": [
+      "Effects",
+      "Examples",
+      "Total Revenue Mechanism",
+      "Effects on Output Level"
+    ],
+    "keywords": [
+      "Effects",
+      "Effects on Output Level",
+      "Examples",
+      "Total Revenue Mechanism",
+      "five unit"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "fixed input",
+    "title": "fixed input",
+    "slug": "fixed-input",
+    "lang": "en",
+    "url": "/en/entity/fixed-input/",
+    "intro": "[fixed input|fixed input] Fixed inputs are entities that cannot easily be adjusted within a short time period.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Examples"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "fixed input"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "foreign direct investment",
+    "title": "foreign direct investment",
+    "slug": "foreign-direct-investment",
+    "lang": "en",
+    "url": "/en/entity/foreign-direct-investment/",
+    "intro": "[foreign direct investment|foreign direct investment] [foreign direct investment] refers to purchasing a firm in another country or establishing a new enterprise there, typically involving at least ten percent ownership.",
+    "section_titles": [
+      "Definition",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Constraints",
+      "Comparison with Ten Percent",
+      "Foreign Exchange"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Comparison with Ten Percent",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Foreign Exchange",
+      "foreign direct investment"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "globalization",
+    "title": "globalization",
+    "slug": "globalization",
+    "lang": "en",
+    "url": "/en/entity/globalization/",
+    "intro": "globalization refers to the expanding cultural, political, and economic connections between people around the world, a trend that has been observed in recent decades.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Public Policy",
+      "Examples of Greater Competition"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Examples of Greater Competition",
+      "Mechanism",
+      "Public Policy",
+      "globalization"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "government borrowing",
+    "title": "government borrowing",
+    "slug": "government-borrowing",
+    "lang": "en",
+    "url": "/en/entity/government-borrowing/",
+    "intro": "[government borrowing|government borrowing] refers to the difference between government spending (G) and net taxes (T), which equals the budget deficit in any given year.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Constraints",
+      "Interest Payment",
+      "Interest Rate Mechanism",
+      "Effects on Crowding Out"
+    ],
+    "keywords": [
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Effects on Crowding Out",
+      "Interest Payment",
+      "Interest Rate Mechanism",
+      "Mechanism",
+      "government borrowing"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "government spending",
+    "title": "government spending",
+    "slug": "government-spending",
+    "lang": "en",
+    "url": "/en/entity/government-spending/",
+    "intro": "[government spending|government spending] refers to the allocation of financial resources by public authorities to provide goods and services.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Aggregate Demand Mechanism"
+    ],
+    "keywords": [
+      "Aggregate Demand Mechanism",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "government spending"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "gross domestic product",
+    "title": "gross domestic product",
+    "slug": "gross-domestic-product",
+    "lang": "en",
+    "url": "/en/entity/gross-domestic-product/",
+    "intro": "[gross domestic product|gross domestic product] operates through integration with national accounts, which track economic activities and its components.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Mechanism",
+      "gross domestic product"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "gross national product",
+    "title": "gross national product",
+    "slug": "gross-national-product",
+    "lang": "en",
+    "url": "/en/entity/gross-national-product/",
+    "intro": "[gross national product|gross national product] is one of the closest cousins of GDP.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Applications",
+      "Examples"
+    ],
+    "keywords": [
+      "Applications",
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "gross national product"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "immigration",
+    "title": "immigration",
+    "slug": "immigration",
+    "lang": "en",
+    "url": "/en/entity/immigration/",
+    "intro": "immigration refers to the movement of people across borders, raising difficult policy questions.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "High Tech Mechanism"
+    ],
+    "keywords": [
+      "Comparison",
+      "Definition",
+      "Effects",
+      "High Tech Mechanism",
+      "Mechanism",
+      "immigration"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "income elasticity",
+    "title": "income elasticity",
+    "slug": "income-elasticity",
+    "lang": "en",
+    "url": "/en/entity/income-elasticity/",
+    "intro": "[income elasticity|income elasticity] refers to the responsiveness of demand to changes in income.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Examples",
+      "Percentage Change Mechanism",
+      "Larger Shift"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Larger Shift",
+      "Mechanism",
+      "Percentage Change Mechanism",
+      "income elasticity"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "indifference curve",
+    "title": "indifference curve",
+    "slug": "indifference-curve",
+    "lang": "en",
+    "url": "/en/entity/indifference-curve/",
+    "intro": "[indifference curve|indifference curve] is a graphical representation showing combinations of two goods that provide equal utility.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Examples",
+      "Examples of Household Choice",
+      "Comparison with Greater Level"
+    ],
+    "keywords": [
+      "Comparison",
+      "Comparison with Greater Level",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Examples of Household Choice",
+      "Mechanism",
+      "indifference curve"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "industry structure",
+    "title": "industry structure",
+    "slug": "industry-structure",
+    "lang": "en",
+    "url": "/en/entity/industry-structure/",
+    "intro": "The mechanism of [industry structure|industry structure] involves the interplay between production processes and cost structures.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Mechanism",
+      "industry structure"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "inflation",
+    "title": "inflation",
+    "slug": "inflation",
+    "lang": "en",
+    "url": "/en/entity/inflation/",
+    "intro": "inflation means that we perceive price signals more vaguely, like a radio program received with considerable static.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Consumer Price Mechanism",
+      "Perceive Price",
+      "Inflation Rate Mechanism"
+    ],
+    "keywords": [
+      "Consumer Price Mechanism",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Inflation Rate Mechanism",
+      "Mechanism",
+      "Perceive Price",
+      "inflation"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "insurance",
+    "title": "insurance",
+    "slug": "insurance",
+    "lang": "en",
+    "url": "/en/entity/insurance/",
+    "intro": "insurance is a method of sharing risk.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Automobile Insurance Mechanism"
+    ],
+    "keywords": [
+      "Automobile Insurance Mechanism",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "insurance"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "intermediate zone",
+    "title": "intermediate zone",
+    "slug": "intermediate-zone",
+    "lang": "en",
+    "url": "/en/entity/intermediate-zone/",
+    "intro": "[intermediate zone|intermediate zone] refers to the curved section of the SRAS curve located between the Keynesian and neoclassical zones.",
+    "section_titles": [
+      "Definition",
+      "Causes",
+      "Effects",
+      "Applications",
+      "Examples",
+      "Constraints",
+      "Keynesian Zone"
+    ],
+    "keywords": [
+      "Applications",
+      "Causes",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Keynesian Zone",
+      "intermediate zone"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "international trade",
+    "title": "international trade",
+    "slug": "international-trade",
+    "lang": "en",
+    "url": "/en/entity/international-trade/",
+    "intro": "[international trade|international trade] refers to the exchange of goods and services between countries.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "international trade"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "intra",
+    "title": "intra",
+    "slug": "intra",
+    "lang": "en",
+    "url": "/en/entity/intra/",
+    "intro": "intra [intra] refers to trade of goods within the same industry between countries.",
+    "section_titles": [
+      "Definition",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Constraints",
+      "Effects on Intra-industry Trade",
+      "High Proportion"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Effects on Intra-industry Trade",
+      "High Proportion",
+      "intra"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "keynesian perspective",
+    "title": "keynesian perspective",
+    "slug": "keynesian-perspective",
+    "lang": "en",
+    "url": "/en/entity/keynesian-perspective/",
+    "intro": "[keynesian perspective|keynesian perspective] introduced the Phillips curve and derived it from the aggregate supply curve.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Neoclassical Perspective Mechanism",
+      "Effects on Aggregate Demand",
+      "Aggregate Demand"
+    ],
+    "keywords": [
+      "Aggregate Demand",
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Aggregate Demand",
+      "Mechanism",
+      "Neoclassical Perspective Mechanism",
+      "keynesian perspective"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "labor market",
+    "title": "labor market",
+    "slug": "labor-market",
+    "lang": "en",
+    "url": "/en/entity/labor-market/",
+    "intro": "[labor market|labor market] refers to the term economists apply to encompass all different labor-related markets.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Demand Law Mechanism",
+      "Labor Quantity Mechanism"
+    ],
+    "keywords": [
+      "Definition",
+      "Demand Law Mechanism",
+      "Effects",
+      "Examples",
+      "Labor Quantity Mechanism",
+      "Mechanism",
+      "labor market"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "labor productivity",
+    "title": "labor productivity",
+    "slug": "labor-productivity",
+    "lang": "en",
+    "url": "/en/entity/labor-productivity/",
+    "intro": "[labor productivity|labor productivity] measures the value generated by each employed person relative to the input they contribute.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Examples",
+      "Healthy Climate Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Healthy Climate Mechanism",
+      "Mechanism",
+      "labor productivity"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "labor supply",
+    "title": "labor supply",
+    "slug": "labor-supply",
+    "lang": "en",
+    "url": "/en/entity/labor-supply/",
+    "intro": "[labor supply|labor supply] refers to the quantity of hours worked by individuals.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Percentage Change"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Percentage Change",
+      "labor supply"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "long run",
+    "title": "long run",
+    "slug": "long-run",
+    "lang": "en",
+    "url": "/en/entity/long-run/",
+    "intro": "[long run|long run] refers to a timeframe in economics where the firm's decisions are not constrained by fixed inputs.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Effects on Market Structure",
+      "Effects on Energy Elasticity",
+      "Firm Specifics"
+    ],
+    "keywords": [
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Effects on Energy Elasticity",
+      "Effects on Market Structure",
+      "Firm Specifics",
+      "Mechanism",
+      "long run"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "low risk",
+    "title": "low risk",
+    "slug": "low-risk",
+    "lang": "en",
+    "url": "/en/entity/low-risk/",
+    "intro": "[low risk|low risk] [low risk] refers to investments with low rate of return but high liquidity, typically showing actual returns that are fairly close to expected rates year after year.",
+    "section_titles": [
+      "Definition",
+      "Effects",
+      "Examples"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Examples",
+      "low risk"
+    ],
+    "render_mode": "minimal"
+  },
+  {
+    "entity_id": "macroeconomic perspective",
+    "title": "macroeconomic perspective",
+    "slug": "macroeconomic-perspective",
+    "lang": "en",
+    "url": "/en/entity/macroeconomic-perspective/",
+    "intro": "[macroeconomic perspective|macroeconomic perspective] [macroeconomic perspective] refers to the analysis of services as intangible things consumers purchase, such as healthcare or entertainment.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Gdp Deflator"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Gdp Deflator",
+      "Mechanism",
+      "macroeconomic perspective"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "march 2013",
+    "title": "march 2013",
+    "slug": "march-2013",
+    "lang": "en",
+    "url": "/en/entity/march-2013/",
+    "intro": "[march 2013|march 2013] [march 2013] marked the release of the most recent impact statement by the Nebraska Department of State.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Mechanism",
+      "march 2013"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "marginal utility",
+    "title": "marginal utility",
+    "slug": "marginal-utility",
+    "lang": "en",
+    "url": "/en/entity/marginal-utility/",
+    "intro": "[marginal utility|marginal utility] refers to the additional utility gained from consuming one more unit of a good.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Utility Jos"
+    ],
+    "keywords": [
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Utility Jos",
+      "marginal utility"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "monetary policy",
+    "title": "monetary policy",
+    "slug": "monetary-policy",
+    "lang": "en",
+    "url": "/en/entity/monetary-policy/",
+    "intro": "[monetary policy|monetary policy] Monetary policy involves a sequence of actions initiated by the central bank.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Interest Rate",
+      "Interest Rate Causes",
+      "Interest Rate"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Effects on Interest Rate",
+      "Interest Rate",
+      "Interest Rate Causes",
+      "Mechanism",
+      "monetary policy"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "monopolistic competition",
+    "title": "monopolistic competition",
+    "slug": "monopolistic-competition",
+    "lang": "en",
+    "url": "/en/entity/monopolistic-competition/",
+    "intro": "[monopolistic competition|monopolistic competition] refers to a market where many firms sell differentiated products.",
+    "section_titles": [
+      "Definition",
+      "Effects",
+      "Comparison",
+      "Examples",
+      "Constraints"
+    ],
+    "keywords": [
+      "Comparison",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Examples",
+      "monopolistic competition"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "monopoly",
+    "title": "monopoly",
+    "slug": "monopoly",
+    "lang": "en",
+    "url": "/en/entity/monopoly/",
+    "intro": "monopoly arises when a single firm sells a product for which there are no close substitutes.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Examples",
+      "Effects on Price Taker",
+      "Effects on Total Quantity"
+    ],
+    "keywords": [
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Effects on Price Taker",
+      "Effects on Total Quantity",
+      "Examples",
+      "Mechanism",
+      "monopoly"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "neoclassical perspective",
+    "title": "neoclassical perspective",
+    "slug": "neoclassical-perspective",
+    "lang": "en",
+    "url": "/en/entity/neoclassical-perspective/",
+    "intro": "[neoclassical perspective|neoclassical perspective] [neoclassical perspective] refers to a framework that examines economic phenomena, particularly highlighting that the short-run scenario is only the beginning of a chain of events.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Chain Beginning"
+    ],
+    "keywords": [
+      "Causes",
+      "Chain Beginning",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "neoclassical perspective"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "oligopoly",
+    "title": "oligopoly",
+    "slug": "oligopoly",
+    "lang": "en",
+    "url": "/en/entity/oligopoly/",
+    "intro": "oligopoly is a situation where a few firms sell most or all of the goods in a market.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Examples",
+      "Market Structure",
+      "Examples of Auto Industry"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Examples of Auto Industry",
+      "Market Structure",
+      "Mechanism",
+      "oligopoly"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "one more unit",
+    "title": "one more unit",
+    "slug": "one-more-unit",
+    "lang": "en",
+    "url": "/en/entity/one-more-unit/",
+    "intro": "[one more unit|one more unit] Marginal cost refers to the cost incurred from producing one more unit of output.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Marginal Cost",
+      "Firm Marginal Mechanism",
+      "Producing Cost"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Firm Marginal Mechanism",
+      "Marginal Cost",
+      "Mechanism",
+      "Producing Cost",
+      "one more unit"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "one reason",
+    "title": "one reason",
+    "slug": "one-reason",
+    "lang": "en",
+    "url": "/en/entity/one-reason/",
+    "intro": "[one reason|one reason] refers to the situation where Canadian workers earn slightly less compared to other countries, particularly in sectors like healthcare and insurance where costs are not tied to employment.",
+    "section_titles": [
+      "Definition",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Examples",
+      "Suffer Decline"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Suffer Decline",
+      "one reason"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "one variable",
+    "title": "one variable",
+    "slug": "one-variable",
+    "lang": "en",
+    "url": "/en/entity/one-variable/",
+    "intro": "[one variable|one variable] Elasticity is a concept in economics that quantifies how responsive one variable is to changes in another variable.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Variable Change Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Variable Change Mechanism",
+      "one variable"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "one year'",
+    "title": "one year'",
+    "slug": "one-year",
+    "lang": "en",
+    "url": "/en/entity/one-year/",
+    "intro": "[one year'|one year'] [one year'] refers to a period of one year, specifically noted in the context of bond payments where the expected payment one year from now is $1,080, including the final interest payment and repayment of the original $1,000.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "one year'"
+    ],
+    "render_mode": "minimal"
+  },
+  {
+    "entity_id": "perceived demand curve",
+    "title": "perceived demand curve",
+    "slug": "perceived-demand-curve",
+    "lang": "en",
+    "url": "/en/entity/perceived-demand-curve/",
+    "intro": "[perceived demand curve|perceived demand curve] The perceived demand curve for a monopolistically competitive firm is downward-sloping, which shows it is a price maker and allows selection of price and quantity.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Vertical Line Mechanism",
+      "Calculate Total Mechanism"
+    ],
+    "keywords": [
+      "Calculate Total Mechanism",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Vertical Line Mechanism",
+      "perceived demand curve"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "perfect competition",
+    "title": "perfect competition",
+    "slug": "perfect-competition",
+    "lang": "en",
+    "url": "/en/entity/perfect-competition/",
+    "intro": "[perfect competition|perfect competition] refers to a market structure where many sellers offer identical products, ensuring easy entry and exiting for firms.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Marginal Revenue",
+      "Price Taker Mechanism",
+      "Easy Entry"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Easy Entry",
+      "Effects",
+      "Effects on Marginal Revenue",
+      "Mechanism",
+      "Price Taker Mechanism",
+      "perfect competition"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "phillips curve",
+    "title": "phillips curve",
+    "slug": "phillips-curve",
+    "lang": "en",
+    "url": "/en/entity/phillips-curve/",
+    "intro": "[phillips curve|phillips curve] [phillips curve] describes the inverse relationship between inflation and unemployment in the short run.",
+    "section_titles": [
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Constraints",
+      "Aggregate Supply Causes",
+      "Downward-sloping Curve"
+    ],
+    "keywords": [
+      "Aggregate Supply Causes",
+      "Causes",
+      "Comparison",
+      "Constraints",
+      "Downward-sloping Curve",
+      "Effects",
+      "phillips curve"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "policy implication",
+    "title": "policy implication",
+    "slug": "policy-implication",
+    "lang": "en",
+    "url": "/en/entity/policy-implication/",
+    "intro": "[policy implication|policy implication] refers to the clear requirement that government needs to step in and close the gap.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Applications",
+      "Increasing Spending"
+    ],
+    "keywords": [
+      "Applications",
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Increasing Spending",
+      "Mechanism",
+      "policy implication"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "pollution",
+    "title": "pollution",
+    "slug": "pollution",
+    "lang": "en",
+    "url": "/en/entity/pollution/",
+    "intro": "A pollution charge is a tax imposed on the quantity of pollution that a firm emits.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Environmental Protection Mechanism",
+      "Pollution Charge",
+      "Effects on External Cost"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Effects on External Cost",
+      "Environmental Protection Mechanism",
+      "Examples",
+      "Mechanism",
+      "Pollution Charge",
+      "pollution"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "pork barrel spending",
+    "title": "pork barrel spending",
+    "slug": "pork-barrel-spending",
+    "lang": "en",
+    "url": "/en/entity/pork-barrel-spending/",
+    "intro": "[pork barrel spending|pork barrel spending] Logrolling involves legislators agreeing to vote for a package of unrelated laws they individually favor.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Mechanism",
+      "pork barrel spending"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "poverty",
+    "title": "poverty",
+    "slug": "poverty",
+    "lang": "en",
+    "url": "/en/entity/poverty/",
+    "intro": "poverty is characterized by significantly higher rates among females, Hispanics, and African Americans compared to Whites.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Constraints",
+      "African American",
+      "Poverty Trap Mechanism"
+    ],
+    "keywords": [
+      "African American",
+      "Comparison",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Poverty Trap Mechanism",
+      "poverty"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "poverty trap",
+    "title": "poverty trap",
+    "slug": "poverty-trap",
+    "lang": "en",
+    "url": "/en/entity/poverty-trap/",
+    "intro": "[poverty trap|poverty trap] [poverty trap] refers to a situation where economic gains from work are diminished by additional costs.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Constraints"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "poverty trap"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "present discounted value",
+    "title": "present discounted value",
+    "slug": "present-discounted-value",
+    "lang": "en",
+    "url": "/en/entity/present-discounted-value/",
+    "intro": "[present discounted value|present discounted value] is a widely used analytical tool outside the world of finance.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Comparison",
+      "Comparison with Physical Capital",
+      "Effects on Physical Capital"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Comparison with Physical Capital",
+      "Definition",
+      "Effects on Physical Capital",
+      "Mechanism",
+      "present discounted value"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "price ceiling",
+    "title": "price ceiling",
+    "slug": "price-ceiling",
+    "lang": "en",
+    "url": "/en/entity/price-ceiling/",
+    "intro": "[price ceiling|price ceiling] refers to a legal maximum price set for some good or service, which determines the highest amount one pays.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Constraints",
+      "Legal Maximum"
+    ],
+    "keywords": [
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Legal Maximum",
+      "Mechanism",
+      "price ceiling"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "price elasticity",
+    "title": "price elasticity",
+    "slug": "price-elasticity",
+    "lang": "en",
+    "url": "/en/entity/price-elasticity/",
+    "intro": "Cross-price elasticity of demand measures the percentage change in quantity demanded of a good relative to the percentage change in the price of a related good.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Percentage Change",
+      "Cross Price Mechanism",
+      "Percent Change"
+    ],
+    "keywords": [
+      "Causes",
+      "Cross Price Mechanism",
+      "Effects",
+      "Mechanism",
+      "Percent Change",
+      "Percentage Change",
+      "price elasticity"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "price floor",
+    "title": "price floor",
+    "slug": "price-floor",
+    "lang": "en",
+    "url": "/en/entity/price-floor/",
+    "intro": "[price floor|price floor] A price floor represents the legally mandated minimum price for a good or service.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Constraints",
+      "Falling Below Constraints",
+      "Lowest Price"
+    ],
+    "keywords": [
+      "Causes",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Falling Below Constraints",
+      "Lowest Price",
+      "Mechanism",
+      "price floor"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "producer surplu",
+    "title": "producer surplu",
+    "slug": "producer-surplu",
+    "lang": "en",
+    "url": "/en/entity/producer-surplu/",
+    "intro": "[producer surplu|producer surplu] [producer surplu] with trade is represented as the area of a triangle formed by specific points.",
+    "section_titles": [
+      "Mechanism",
+      "Comparison",
+      "Examples",
+      "Point Trade Mechanism",
+      "Examples of Point Trade",
+      "Comparison with Equilibrium Quantity"
+    ],
+    "keywords": [
+      "Comparison",
+      "Comparison with Equilibrium Quantity",
+      "Examples",
+      "Examples of Point Trade",
+      "Mechanism",
+      "Point Trade Mechanism",
+      "producer surplu"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "production possibilities frontier",
+    "title": "production possibilities frontier",
+    "slug": "production-possibilities-frontier",
+    "lang": "en",
+    "url": "/en/entity/production-possibilities-frontier/",
+    "intro": "[production possibilities frontier|production possibilities frontier] The production possibilities frontier is a diagram representing the maximum output combinations of two goods an economy can achieve given its resources and technology.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Constraints",
+      "Consumption Budget"
+    ],
+    "keywords": [
+      "Causes",
+      "Constraints",
+      "Consumption Budget",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "production possibilities frontier"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "productive efficiency",
+    "title": "productive efficiency",
+    "slug": "productive-efficiency",
+    "lang": "en",
+    "url": "/en/entity/productive-efficiency/",
+    "intro": "[productive efficiency|productive efficiency] refers to the state where, given the available inputs and technology, it is impossible to produce more of one good without reducing another.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Constraints",
+      "Allocative Efficiency Mechanism",
+      "Effects on Perfect Competition",
+      "Effects on Allocative Efficiency"
+    ],
+    "keywords": [
+      "Allocative Efficiency Mechanism",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Effects on Allocative Efficiency",
+      "Effects on Perfect Competition",
+      "Mechanism",
+      "productive efficiency"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "restricting import",
+    "title": "restricting import",
+    "slug": "restricting-import",
+    "lang": "en",
+    "url": "/en/entity/restricting-import/",
+    "intro": "[restricting import|restricting import] refers to the practice of limiting the flow of goods into a country.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "restricting import"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "ricardian equivalence",
+    "title": "ricardian equivalence",
+    "slug": "ricardian-equivalence",
+    "lang": "en",
+    "url": "/en/entity/ricardian-equivalence/",
+    "intro": "[ricardian equivalence|ricardian equivalence] [ricardian equivalence] refers to the idea that private saving adjusts to offset any changes in the government budget.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Offset Exactly"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Offset Exactly",
+      "ricardian equivalence"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "scarcity",
+    "title": "scarcity",
+    "slug": "scarcity",
+    "lang": "en",
+    "url": "/en/entity/scarcity/",
+    "intro": "scarcity refers to situations where human wants for goods and services surpass the available supply.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "scarcity"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "short run",
+    "title": "short run",
+    "slug": "short-run",
+    "lang": "en",
+    "url": "/en/entity/short-run/",
+    "intro": "[short run|short run] refers to a period of time in which at least some factors of production are fixed.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Constraints",
+      "Effects on Long-run Average"
+    ],
+    "keywords": [
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Effects on Long-run Average",
+      "Mechanism",
+      "short run"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "stronger dollar",
+    "title": "stronger dollar",
+    "slug": "stronger-dollar",
+    "lang": "en",
+    "url": "/en/entity/stronger-dollar/",
+    "intro": "[stronger dollar|stronger dollar] refers to a situation where the U.S.",
+    "section_titles": [
+      "Definition",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Examples",
+      "Investment Abroad",
+      "People Working"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Investment Abroad",
+      "People Working",
+      "stronger dollar"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "supply side",
+    "title": "supply side",
+    "slug": "supply-side",
+    "lang": "en",
+    "url": "/en/entity/supply-side/",
+    "intro": "[supply side|supply side] refers to entities in the foreign exchange market seeking to convert earnings from U.S.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Constraints",
+      "Bilateral Monopoly"
+    ],
+    "keywords": [
+      "Bilateral Monopoly",
+      "Causes",
+      "Comparison",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "supply side"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "taxation",
+    "title": "taxation",
+    "slug": "taxation",
+    "lang": "en",
+    "url": "/en/entity/taxation/",
+    "intro": "taxation Taxation is a core component of fiscal policy, which involves government decisions on spending, borrowing, and taxation.",
+    "section_titles": [
+      "Definition",
+      "Causes",
+      "Effects",
+      "Fiscal Policy",
+      "Fiscal Policy Mechanism",
+      "Macroeconomic Policy"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Fiscal Policy",
+      "Fiscal Policy Mechanism",
+      "Macroeconomic Policy",
+      "taxation"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "trade balance",
+    "title": "trade balance",
+    "slug": "trade-balance",
+    "lang": "en",
+    "url": "/en/entity/trade-balance/",
+    "intro": "[trade balance|trade balance] refers to the difference between exports and imports.",
+    "section_titles": [
+      "Definition",
+      "Causes",
+      "Effects",
+      "Merchandise Trade Mechanism",
+      "Merchandise Trade"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Merchandise Trade",
+      "Merchandise Trade Mechanism",
+      "trade balance"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "trade policy",
+    "title": "trade policy",
+    "slug": "trade-policy",
+    "lang": "en",
+    "url": "/en/entity/trade-policy/",
+    "intro": "[trade policy|trade policy] affects the ability of countries to set independent trade rules outside free trade associations.",
+    "section_titles": [
+      "Causes",
+      "Effects",
+      "Constraints",
+      "Free Trade Constraints",
+      "Effects on Free Trade"
+    ],
+    "keywords": [
+      "Causes",
+      "Constraints",
+      "Effects",
+      "Effects on Free Trade",
+      "Free Trade Constraints",
+      "trade policy"
+    ],
+    "render_mode": "normal"
+  },
+  {
+    "entity_id": "tradeoff",
+    "title": "tradeoff",
+    "slug": "tradeoff",
+    "lang": "en",
+    "url": "/en/entity/tradeoff/",
+    "intro": "tradeoff A tradeoff arises for all countries, whether high-income or low-income, and whether their economies are market-oriented or command-oriented.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Supply Curve Mechanism",
+      "Examples of Indifference Curve"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Examples",
+      "Examples of Indifference Curve",
+      "Mechanism",
+      "Supply Curve Mechanism",
+      "tradeoff"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "unemployment",
+    "title": "unemployment",
+    "slug": "unemployment",
+    "lang": "en",
+    "url": "/en/entity/unemployment/",
+    "intro": "unemployment refers to the state of being without a job during periods of recession and depression, when unemployment is high.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Constraints"
+    ],
+    "keywords": [
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "unemployment"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "voting cycle",
+    "title": "voting cycle",
+    "slug": "voting-cycle",
+    "lang": "en",
+    "url": "/en/entity/voting-cycle/",
+    "intro": "[voting cycle|voting cycle] occurs in a situation with at least three choices.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Applications",
+      "Examples"
+    ],
+    "keywords": [
+      "Applications",
+      "Causes",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "voting cycle"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "zero elasticity",
+    "title": "zero elasticity",
+    "slug": "zero-elasticity",
+    "lang": "en",
+    "url": "/en/entity/zero-elasticity/",
+    "intro": "[zero elasticity|zero elasticity] refers to the extreme case where a percentage change in price, no matter how large, results in zero change in quantity.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Applications",
+      "Examples",
+      "Effects on Constant Unitary"
+    ],
+    "keywords": [
+      "Applications",
+      "Definition",
+      "Effects",
+      "Effects on Constant Unitary",
+      "Examples",
+      "Mechanism",
+      "zero elasticity"
+    ],
+    "render_mode": "rich"
+  }
+]

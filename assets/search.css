@@ -1,0 +1,41 @@
+
+/* Ireon Search CSS */
+
+#search-input {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+#search-results {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.search-item {
+  padding: 12px;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  background: #fafafa;
+}
+
+.search-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #222;
+}
+
+.search-title:hover {
+  text-decoration: underline;
+}
+
+.search-intro {
+  font-size: 14px;
+  color: #555;
+  margin-top: 6px;
+}
