@@ -1,351 +1,39 @@
 [
   {
-    "entity_id": "absolute advantage",
-    "title": "absolute advantage",
-    "slug": "absolute-advantage",
+    "entity_id": "absolute value function",
+    "title": "absolute value function",
+    "slug": "absolute-value-function",
     "lang": "en",
-    "url": "/en/entity/absolute-advantage/",
-    "intro": "[absolute advantage|absolute advantage] refers to a situation where a country can produce more of a good than another country.",
+    "url": "/en/entity/absolute-value-function/",
+    "intro": "[absolute value function|absolute value function] is a mathematical function that quantifies the distance of a number from zero on a number line.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Effects",
-      "Comparison"
+      "Comparison",
+      "Examples",
+      "Examples of Toolkit Function",
+      "Following Range Mechanism"
     ],
     "keywords": [
       "Comparison",
-      "Definition",
-      "Effects",
-      "Mechanism",
-      "absolute advantage"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "aggregate demand",
-    "title": "aggregate demand",
-    "slug": "aggregate-demand",
-    "lang": "en",
-    "url": "/en/entity/aggregate-demand/",
-    "intro": "[aggregate demand|aggregate demand] refers to the total demand for goods and services in an economy.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Examples",
-      "Examples of Flexible Enough",
-      "Examples of Say Law"
-    ],
-    "keywords": [
-      "Causes",
       "Definition",
       "Effects",
       "Examples",
-      "Examples of Flexible Enough",
-      "Examples of Say Law",
+      "Examples of Toolkit Function",
+      "Following Range Mechanism",
       "Mechanism",
-      "aggregate demand"
+      "absolute value function"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "aggregate production function",
-    "title": "aggregate production function",
-    "slug": "aggregate-production-function",
+    "entity_id": "algebraic equation",
+    "title": "algebraic equation",
+    "slug": "algebraic-equation",
     "lang": "en",
-    "url": "/en/entity/aggregate-production-function/",
-    "intro": "[aggregate production function|aggregate production function] is a model that holds technology constant, illustrating the relationship between capital deepening and output.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Examples",
-      "Effects on Output Measured",
-      "Effects on Physical Capital",
-      "Examples of Neoclassical Growth"
-    ],
-    "keywords": [
-      "Definition",
-      "Effects",
-      "Effects on Output Measured",
-      "Effects on Physical Capital",
-      "Examples",
-      "Examples of Neoclassical Growth",
-      "Mechanism",
-      "aggregate production function"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "aggregate supply",
-    "title": "aggregate supply",
-    "slug": "aggregate-supply",
-    "lang": "en",
-    "url": "/en/entity/aggregate-supply/",
-    "intro": "[aggregate supply|aggregate supply] [aggregate supply] is a key component of the aggregate demand/aggregate supply model.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Comparison",
-      "Constraints",
-      "Price Level Constraints"
-    ],
-    "keywords": [
-      "Causes",
-      "Comparison",
-      "Constraints",
-      "Definition",
-      "Effects",
-      "Mechanism",
-      "Price Level Constraints",
-      "aggregate supply"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "automatic stabilizer",
-    "title": "automatic stabilizer",
-    "slug": "automatic-stabilizer",
-    "lang": "en",
-    "url": "/en/entity/automatic-stabilizer/",
-    "intro": "[automatic stabilizer|automatic stabilizer] refers to mechanisms that automatically adjust government spending and taxation in response to economic conditions.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Comparison",
-      "Examples",
-      "Constraints",
-      "Budget Deficit"
-    ],
-    "keywords": [
-      "Budget Deficit",
-      "Comparison",
-      "Constraints",
-      "Definition",
-      "Examples",
-      "Mechanism",
-      "automatic stabilizer"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "balanced budget",
-    "title": "balanced budget",
-    "slug": "balanced-budget",
-    "lang": "en",
-    "url": "/en/entity/balanced-budget/",
-    "intro": "[balanced budget|balanced budget] refers to proposals requiring annual equality between government spending and taxes.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Comparison",
-      "Constraints",
-      "Effects on Fiscal Policy",
-      "Budget Amendment"
-    ],
-    "keywords": [
-      "Budget Amendment",
-      "Comparison",
-      "Constraints",
-      "Definition",
-      "Effects",
-      "Effects on Fiscal Policy",
-      "Mechanism",
-      "balanced budget"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "bank regulation",
-    "title": "bank regulation",
-    "slug": "bank-regulation",
-    "lang": "en",
-    "url": "/en/entity/bank-regulation/",
-    "intro": "[bank regulation|bank regulation] refers to measures designed to maintain banks' solvency by avoiding excessive risk.",
-    "section_titles": [
-      "Definition",
-      "Effects",
-      "Constraints",
-      "Monetary Policy Mechanism",
-      "Effects on Federal Reserve",
-      "Central Bank Mechanism"
-    ],
-    "keywords": [
-      "Central Bank Mechanism",
-      "Constraints",
-      "Definition",
-      "Effects",
-      "Effects on Federal Reserve",
-      "Monetary Policy Mechanism",
-      "bank regulation"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "base year",
-    "title": "base year",
-    "slug": "base-year",
-    "lang": "en",
-    "url": "/en/entity/base-year/",
-    "intro": "[base year|base year] The base year is the year whose prices are used to compute real statistics.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Price Index Mechanism"
-    ],
-    "keywords": [
-      "Causes",
-      "Definition",
-      "Effects",
-      "Mechanism",
-      "Price Index Mechanism",
-      "base year"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "bilateral monopoly",
-    "title": "bilateral monopoly",
-    "slug": "bilateral-monopoly",
-    "lang": "en",
-    "url": "/en/entity/bilateral-monopoly/",
-    "intro": "[bilateral monopoly|bilateral monopoly] refers to a labor market scenario where a union represents the supply side and a monopsony exists on the demand side.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Comparison",
-      "Applications",
-      "Labor Market"
-    ],
-    "keywords": [
-      "Applications",
-      "Causes",
-      "Comparison",
-      "Definition",
-      "Effects",
-      "Labor Market",
-      "Mechanism",
-      "bilateral monopoly"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "building block",
-    "title": "building block",
-    "slug": "building-block",
-    "lang": "en",
-    "url": "/en/entity/building-block/",
-    "intro": "[building block|building block] [building block] is a foundational element of the Keynesian diagnosis.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Comparison",
-      "Voluntary Exchange",
-      "Keynesian View Mechanism"
-    ],
-    "keywords": [
-      "Causes",
-      "Comparison",
-      "Definition",
-      "Effects",
-      "Keynesian View Mechanism",
-      "Mechanism",
-      "Voluntary Exchange",
-      "building block"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "comparative advantage",
-    "title": "comparative advantage",
-    "slug": "comparative-advantage",
-    "lang": "en",
-    "url": "/en/entity/comparative-advantage/",
-    "intro": "[comparative advantage|comparative advantage] refers to a nation's ability to produce a good or service at a lower opportunity cost than other countries.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Comparison"
-    ],
-    "keywords": [
-      "Comparison",
-      "Definition",
-      "Effects",
-      "Mechanism",
-      "comparative advantage"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "corporate governance",
-    "title": "corporate governance",
-    "slug": "corporate-governance",
-    "lang": "en",
-    "url": "/en/entity/corporate-governance/",
-    "intro": "[corporate governance|corporate governance] refers to the name economists give to the institutions tasked with overseeing top executives.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Examples",
-      "Large Shareholder"
-    ],
-    "keywords": [
-      "Causes",
-      "Definition",
-      "Effects",
-      "Examples",
-      "Large Shareholder",
-      "Mechanism",
-      "corporate governance"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "currency",
-    "title": "currency",
-    "slug": "currency",
-    "lang": "en",
-    "url": "/en/entity/currency/",
-    "intro": "A merged currency currency signifies that a nation has relinquished control over its domestic monetary policy.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Examples of Money Supply",
-      "Exchange Rate Mechanism",
-      "Global Economy Mechanism"
-    ],
-    "keywords": [
-      "Definition",
-      "Effects",
-      "Examples of Money Supply",
-      "Exchange Rate Mechanism",
-      "Global Economy Mechanism",
-      "Mechanism",
-      "currency"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "deadweight loss",
-    "title": "deadweight loss",
-    "slug": "deadweight-loss",
-    "lang": "en",
-    "url": "/en/entity/deadweight-loss/",
-    "intro": "[deadweight loss|deadweight loss] is loss in total surplus that occurs when the economy produces at an inefficient quantity.",
+    "url": "/en/entity/algebraic-equation/",
+    "intro": "[algebraic equation|algebraic equation] The algebraic equation is defined as a mathematical expression involving variables and coefficients.",
     "section_titles": [
       "Definition",
       "Mechanism",
@@ -357,175 +45,393 @@
       "Definition",
       "Effects",
       "Mechanism",
-      "deadweight loss"
+      "algebraic equation"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "demand and supply",
-    "title": "demand and supply",
-    "slug": "demand-and-supply",
+    "entity_id": "algebraic operation",
+    "title": "algebraic operation",
+    "slug": "algebraic-operation",
     "lang": "en",
-    "url": "/en/entity/demand-and-supply/",
-    "intro": "[demand and supply|demand and supply] is a foundational concept in economics that uses two-dimensional diagrams with price and quantity as axes to represent demand and supply curves.",
+    "url": "/en/entity/algebraic-operation/",
+    "intro": "Function composition allows [algebraic operation|algebraic operation] to combine existing functions through a structured process.",
+    "section_titles": [
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Combine Existing Mechanism",
+      "Examples of Carry Out",
+      "Function Composition Mechanism"
+    ],
+    "keywords": [
+      "Combine Existing Mechanism",
+      "Effects",
+      "Examples",
+      "Examples of Carry Out",
+      "Function Composition Mechanism",
+      "Mechanism",
+      "algebraic operation"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "angle measure",
+    "title": "angle measure",
+    "slug": "angle-measure",
+    "lang": "en",
+    "url": "/en/entity/angle-measure/",
+    "intro": "[angle measure|angle measure] This brings us to our new angle measure.",
+    "section_titles": [
+      "Mechanism",
+      "Applications",
+      "Examples",
+      "New Angle Mechanism"
+    ],
+    "keywords": [
+      "Applications",
+      "Examples",
+      "Mechanism",
+      "New Angle Mechanism",
+      "angle measure"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "angular speed",
+    "title": "angular speed",
+    "slug": "angular-speed",
+    "lang": "en",
+    "url": "/en/entity/angular-speed/",
+    "intro": "[angular speed|angular speed] is a measurement that quantifies the rate of angular rotation per unit time.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Effects",
       "Examples",
-      "Supply Curve",
-      "Supply Framework Mechanism"
+      "Angular Rotation",
+      "Linear Definition Mechanism",
+      "Measurement Found"
     ],
     "keywords": [
+      "Angular Rotation",
       "Definition",
       "Effects",
       "Examples",
+      "Linear Definition Mechanism",
+      "Measurement Found",
       "Mechanism",
-      "Supply Curve",
-      "Supply Framework Mechanism",
-      "demand and supply"
+      "angular speed"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "dollar value",
-    "title": "dollar value",
-    "slug": "dollar-value",
+    "entity_id": "annual percentage yield",
+    "title": "annual percentage yield",
+    "slug": "annual-percentage-yield",
     "lang": "en",
-    "url": "/en/entity/dollar-value/",
-    "intro": "[dollar value|dollar value] The dollar value of outstanding Treasury bonds represents the federal government's total debt.",
+    "url": "/en/entity/annual-percentage-yield/",
+    "intro": "[annual percentage yield|annual percentage yield] is a representation of the actual interest rate earned on a compounding account.",
+    "section_titles": [
+      "Definition",
+      "Comparison",
+      "Applications",
+      "Constraints",
+      "Actual Interest",
+      "Actual Interest Constraints",
+      "Investment Account"
+    ],
+    "keywords": [
+      "Actual Interest",
+      "Actual Interest Constraints",
+      "Applications",
+      "Comparison",
+      "Constraints",
+      "Definition",
+      "Investment Account",
+      "annual percentage yield"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "base b",
+    "title": "base b",
+    "slug": "base-b",
+    "lang": "en",
+    "url": "/en/entity/base-b/",
+    "intro": "[base b|base b] The logarithm function with base b is defined for all positive real numbers, excluding zero.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Log Base",
+      "Effects on Logarithmic Expression",
+      "Logarithm Function"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Log Base",
+      "Effects on Logarithmic Expression",
+      "Logarithm Function",
+      "Mechanism",
+      "base b"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "base e",
+    "title": "base e",
+    "slug": "base-e",
+    "lang": "en",
+    "url": "/en/entity/base-e/",
+    "intro": "[base e|base e] is the base of natural logarithms, which are important in calculus and some scientific applications.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Base Logarithm",
+      "Effects on New Base",
+      "Evaluate Exponential Mechanism"
+    ],
+    "keywords": [
+      "Base Logarithm",
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on New Base",
+      "Evaluate Exponential Mechanism",
+      "Mechanism",
+      "base e"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "basic function",
+    "title": "basic function",
+    "slug": "basic-function",
+    "lang": "en",
+    "url": "/en/entity/basic-function/",
+    "intro": "[basic function|basic function] is the standard form used to determine graph transformations from y = x 2.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Constraints"
+    ],
+    "keywords": [
+      "Causes",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "basic function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "binomial theorem",
+    "title": "binomial theorem",
+    "slug": "binomial-theorem",
+    "lang": "en",
+    "url": "/en/entity/binomial-theorem/",
+    "intro": "[binomial theorem|binomial theorem] is a formula used to expand binomials raised to a power.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Expression Cannot"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Expression Cannot",
+      "Mechanism",
+      "binomial theorem"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "carrying capacity",
+    "title": "carrying capacity",
+    "slug": "carrying-capacity",
+    "lang": "en",
+    "url": "/en/entity/carrying-capacity/",
+    "intro": "[carrying capacity|carrying capacity] is the limiting value, sometimes called the carrying capacity, of the model.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Constraints",
+      "Intersect Feature Mechanism",
+      "Limiting Value",
+      "Nearest Whole",
+      "Sometime Called"
+    ],
+    "keywords": [
+      "Constraints",
+      "Definition",
+      "Intersect Feature Mechanism",
+      "Limiting Value",
+      "Mechanism",
+      "Nearest Whole",
+      "Sometime Called",
+      "carrying capacity"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "cartesian form",
+    "title": "cartesian form",
+    "slug": "cartesian-form",
+    "lang": "en",
+    "url": "/en/entity/cartesian-form/",
+    "intro": "The Cartesian form is defined as x = y 2 − 4 y + 5.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Constraints",
+      "Effects on Polar Equation",
+      "Polar Equation Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Effects on Polar Equation",
+      "Mechanism",
+      "Polar Equation Mechanism",
+      "cartesian form"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "celsius temperature",
+    "title": "celsius temperature",
+    "slug": "celsius-temperature",
+    "lang": "en",
+    "url": "/en/entity/celsius-temperature/",
+    "intro": "The [celsius temperature|celsius temperature] is a unit of temperature measurement.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Comparison",
+      "Celsiu Temperature",
+      "Fahrenheit Temperature Mechanism",
+      "Inverse Function Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Celsiu Temperature",
+      "Comparison",
+      "Definition",
+      "Fahrenheit Temperature Mechanism",
+      "Inverse Function Mechanism",
+      "Mechanism",
+      "celsius temperature"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "central angle",
+    "title": "central angle",
+    "slug": "central-angle",
+    "lang": "en",
+    "url": "/en/entity/central-angle/",
+    "intro": "[central angle|central angle] is an angle formed at the center of a circle by two radii.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Causes",
       "Effects",
       "Comparison",
-      "Treasury Bond",
-      "Productivity Per Mechanism"
+      "Angle Formed",
+      "Circle Arc"
     ],
     "keywords": [
+      "Angle Formed",
       "Causes",
+      "Circle Arc",
       "Comparison",
       "Definition",
       "Effects",
       "Mechanism",
-      "Productivity Per Mechanism",
-      "Treasury Bond",
-      "dollar value"
+      "central angle"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "economic growth",
-    "title": "economic growth",
-    "slug": "economic-growth",
+    "entity_id": "common base",
+    "title": "common base",
+    "slug": "common-base",
     "lang": "en",
-    "url": "/en/entity/economic-growth/",
-    "intro": "[economic growth|economic growth] refers to rapid and sustained increases in a country's economic output.",
+    "url": "/en/entity/common-base/",
+    "intro": "[common base|common base] is the base of an exponential expression that remains constant across terms.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Effects",
       "Examples",
-      "Effects on Diagram Long-run",
-      "Examples of Human Capital"
+      "Effects on Exponential Expression",
+      "Effects on Same Base",
+      "Rewrite Each Mechanism"
     ],
     "keywords": [
       "Definition",
       "Effects",
-      "Effects on Diagram Long-run",
+      "Effects on Exponential Expression",
+      "Effects on Same Base",
       "Examples",
-      "Examples of Human Capital",
       "Mechanism",
-      "economic growth"
+      "Rewrite Each Mechanism",
+      "common base"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "efficiency",
-    "title": "efficiency",
-    "slug": "efficiency",
+    "entity_id": "common logarithm",
+    "title": "common logarithm",
+    "slug": "common-logarithm",
     "lang": "en",
-    "url": "/en/entity/efficiency/",
-    "intro": "The production possibilities frontier illustrates two kinds of efficiency: productive efficiency and allocative efficiency.",
-    "section_titles": [
-      "Mechanism",
-      "Effects",
-      "Comparison",
-      "Effects on Allocative Efficiency",
-      "Allocative Efficiency",
-      "Producer Supply"
-    ],
-    "keywords": [
-      "Allocative Efficiency",
-      "Comparison",
-      "Effects",
-      "Effects on Allocative Efficiency",
-      "Mechanism",
-      "Producer Supply",
-      "efficiency"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "elasticity",
-    "title": "elasticity",
-    "slug": "elasticity",
-    "lang": "en",
-    "url": "/en/entity/elasticity/",
-    "intro": "elasticity Economists calculate elasticity along a demand or supply curve by using the average percent change in both quantity and price.",
-    "section_titles": [
-      "Mechanism",
-      "Effects",
-      "Comparison",
-      "Effects on Constant Unitary",
-      "Zero Change"
-    ],
-    "keywords": [
-      "Comparison",
-      "Effects",
-      "Effects on Constant Unitary",
-      "Mechanism",
-      "Zero Change",
-      "elasticity"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "election",
-    "title": "election",
-    "slug": "election",
-    "lang": "en",
-    "url": "/en/entity/election/",
-    "intro": "election The theory of rational ignorance posits that voters will recognize their single vote's negligible impact on election outcomes.",
+    "url": "/en/entity/common-logarithm/",
+    "intro": "[common logarithm|common logarithm] is a logarithm with base 10.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Causes",
       "Effects",
-      "Examples",
-      "Examples of Donald Election",
-      "Voting System Mechanism"
+      "Base- Logarithm Causes",
+      "Form Log Mechanism",
+      "Logarithm Base Causes"
     ],
     "keywords": [
+      "Base- Logarithm Causes",
       "Causes",
       "Definition",
       "Effects",
-      "Examples",
-      "Examples of Donald Election",
+      "Form Log Mechanism",
+      "Logarithm Base Causes",
       "Mechanism",
-      "Voting System Mechanism",
-      "election"
+      "common logarithm"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "even those",
-    "title": "even those",
-    "slug": "even-those",
+    "entity_id": "common ratio",
+    "title": "common ratio",
+    "slug": "common-ratio",
     "lang": "en",
-    "url": "/en/entity/even-those/",
-    "intro": "[even those|even those] [even those] refers to individuals who maintain employment despite economic changes.",
+    "url": "/en/entity/common-ratio/",
+    "intro": "[common ratio|common ratio] is a numerical factor consistently multiplied to generate subsequent terms in a sequence.",
     "section_titles": [
       "Definition",
       "Mechanism",
@@ -537,175 +443,247 @@
       "Definition",
       "Effects",
       "Mechanism",
-      "even those"
+      "common ratio"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "exchange rate",
-    "title": "exchange rate",
-    "slug": "exchange-rate",
+    "entity_id": "composite function",
+    "title": "composite function",
+    "slug": "composite-function",
     "lang": "en",
-    "url": "/en/entity/exchange-rate/",
-    "intro": "[exchange rate|exchange rate] [exchange rate] refers to the value of one currency in terms of another.",
+    "url": "/en/entity/composite-function/",
+    "intro": "[composite function|composite function] is a function formed by combining two or more functions in sequence.",
     "section_titles": [
       "Definition",
+      "Mechanism",
       "Effects",
       "Examples",
-      "Foreign Exchange Mechanism",
-      "Pegged Exchange",
-      "Effects on Hard Peg"
+      "Composite Domain Mechanism",
+      "Evaluate Composite Mechanism",
+      "Input Set"
     ],
     "keywords": [
+      "Composite Domain Mechanism",
       "Definition",
       "Effects",
-      "Effects on Hard Peg",
+      "Evaluate Composite Mechanism",
       "Examples",
-      "Foreign Exchange Mechanism",
-      "Pegged Exchange",
-      "exchange rate"
+      "Input Set",
+      "Mechanism",
+      "composite function"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "exchange rate policy",
-    "title": "exchange rate policy",
-    "slug": "exchange-rate-policy",
+    "entity_id": "consecutive term",
+    "title": "consecutive term",
+    "slug": "consecutive-term",
     "lang": "en",
-    "url": "/en/entity/exchange-rate-policy/",
-    "intro": "[exchange rate policy|exchange rate policy] refers to a nation's strategy for managing currency values.",
+    "url": "/en/entity/consecutive-term/",
+    "intro": "[consecutive term|consecutive term] The sequence follows a pattern where each term is multiplied by a common ratio of 0.1.",
     "section_titles": [
-      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
       "Causes",
       "Effects",
-      "Comparison",
+      "Mechanism",
+      "consecutive term"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "constant function",
+    "title": "constant function",
+    "slug": "constant-function",
+    "lang": "en",
+    "url": "/en/entity/constant-function/",
+    "intro": "[constant function|constant function] is a function where every input maps to the same output value.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Absolute Value Mechanism",
+      "Effects on Linear Function",
+      "Linear Function Causes"
+    ],
+    "keywords": [
+      "Absolute Value Mechanism",
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Linear Function",
+      "Linear Function Causes",
+      "Mechanism",
+      "constant function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "constant ratio",
+    "title": "constant ratio",
+    "slug": "constant-ratio",
+    "lang": "en",
+    "url": "/en/entity/constant-ratio/",
+    "intro": "[constant ratio|constant ratio] is the ratio between two consecutive terms in a geometric sequence, known as the common ratio.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Both Geometric Causes",
+      "Both Geometric Mechanism",
+      "Full Circumference Mechanism"
+    ],
+    "keywords": [
+      "Both Geometric Causes",
+      "Both Geometric Mechanism",
+      "Causes",
+      "Definition",
+      "Effects",
+      "Full Circumference Mechanism",
+      "Mechanism",
+      "constant ratio"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "constant speed",
+    "title": "constant speed",
+    "slug": "constant-speed",
+    "lang": "en",
+    "url": "/en/entity/constant-speed/",
+    "intro": "The train's distance from the station is determined by the time it moves at [constant speed|constant speed] and its initial distance from the station.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Examples",
+      "Level Surface Mechanism",
+      "Time Function",
+      "Train Distance"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Examples",
+      "Level Surface Mechanism",
+      "Mechanism",
+      "Time Function",
+      "Train Distance",
+      "constant speed"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "constant term",
+    "title": "constant term",
+    "slug": "constant-term",
+    "lang": "en",
+    "url": "/en/entity/constant-term/",
+    "intro": "[constant term|constant term] is the constant value in a polynomial expression.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "constant term"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "coordinate pair",
+    "title": "coordinate pair",
+    "slug": "coordinate-pair",
+    "lang": "en",
+    "url": "/en/entity/coordinate-pair/",
+    "intro": "[coordinate pair|coordinate pair] A coordinate pair consists of two numbers, where the first number represents the x-coordinate and the second number represents the y-coordinate.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Examples",
       "Constraints",
-      "Pegged Exchange Constraints",
-      "Pegged Exchange"
+      "Inverse Function Causes",
+      "Inverse Function Mechanism"
     ],
     "keywords": [
       "Causes",
-      "Comparison",
       "Constraints",
       "Definition",
-      "Effects",
-      "Pegged Exchange",
-      "Pegged Exchange Constraints",
-      "exchange rate policy"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "expenditure",
-    "title": "expenditure",
-    "slug": "expenditure",
-    "lang": "en",
-    "url": "/en/entity/expenditure/",
-    "intro": "expenditure refers to spending that affects the equilibrium level of GDP.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Comparison",
-      "Effects on Aggregate Expenditure",
-      "Expenditure Multiplier",
-      "Aggregate Expenditure"
-    ],
-    "keywords": [
-      "Aggregate Expenditure",
-      "Comparison",
-      "Definition",
-      "Effects",
-      "Effects on Aggregate Expenditure",
-      "Expenditure Multiplier",
-      "Mechanism",
-      "expenditure"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "financial capital",
-    "title": "financial capital",
-    "slug": "financial-capital",
-    "lang": "en",
-    "url": "/en/entity/financial-capital/",
-    "intro": "[financial capital|financial capital] refers to the supply of funds available for investment.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
       "Examples",
-      "Supply Curve",
-      "Effects on Fiscal Policy",
-      "Financial Investment"
-    ],
-    "keywords": [
-      "Definition",
-      "Effects",
-      "Effects on Fiscal Policy",
-      "Examples",
-      "Financial Investment",
+      "Inverse Function Causes",
+      "Inverse Function Mechanism",
       "Mechanism",
-      "Supply Curve",
-      "financial capital"
+      "coordinate pair"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "fiscal policy",
-    "title": "fiscal policy",
-    "slug": "fiscal-policy",
+    "entity_id": "corresponding output value",
+    "title": "corresponding output value",
+    "slug": "corresponding-output-value",
     "lang": "en",
-    "url": "/en/entity/fiscal-policy/",
-    "intro": "[fiscal policy|fiscal policy] refers to the strategic use of government spending and taxation to shape economic growth and stability across different periods.",
+    "url": "/en/entity/corresponding-output-value/",
+    "intro": "[corresponding output value|corresponding output value] The function's graph consists of discrete points when defined for only a few input values.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Causes",
-      "Effects on Money Quantity",
-      "Aggregate Demand Mechanism",
-      "Government Spending Mechanism"
+      "Effects",
+      "Examples",
+      "Effects on Y- Intercept",
+      "Y- Intercept Causes"
     ],
     "keywords": [
-      "Aggregate Demand Mechanism",
       "Causes",
       "Definition",
-      "Effects on Money Quantity",
-      "Government Spending Mechanism",
+      "Effects",
+      "Effects on Y- Intercept",
+      "Examples",
       "Mechanism",
-      "fiscal policy"
+      "Y- Intercept Causes",
+      "corresponding output value"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "five unit",
-    "title": "five unit",
-    "slug": "five-unit",
+    "entity_id": "corresponding range",
+    "title": "corresponding range",
+    "slug": "corresponding-range",
     "lang": "en",
-    "url": "/en/entity/five-unit/",
-    "intro": "[five unit|five unit] results in losses or negative profits for the firm at this level of quantity and output.",
+    "url": "/en/entity/corresponding-range/",
+    "intro": "The corresponding range is identified through specific criteria.",
     "section_titles": [
+      "Mechanism",
       "Effects",
-      "Examples",
-      "Total Revenue Mechanism",
-      "Effects on Output Level"
+      "Constraints"
     ],
     "keywords": [
+      "Constraints",
       "Effects",
-      "Effects on Output Level",
-      "Examples",
-      "Total Revenue Mechanism",
-      "five unit"
+      "Mechanism",
+      "corresponding range"
     ],
-    "render_mode": "rich"
+    "render_mode": "normal"
   },
   {
-    "entity_id": "fixed input",
-    "title": "fixed input",
-    "slug": "fixed-input",
+    "entity_id": "counterclockwise direction",
+    "title": "counterclockwise direction",
+    "slug": "counterclockwise-direction",
     "lang": "en",
-    "url": "/en/entity/fixed-input/",
-    "intro": "[fixed input|fixed input] Fixed inputs are entities that cannot easily be adjusted within a short time period.",
+    "url": "/en/entity/counterclockwise-direction/",
+    "intro": "[counterclockwise direction|counterclockwise direction] The counterclockwise direction is used to measure angles in a polar coordinate system.",
     "section_titles": [
       "Definition",
       "Mechanism",
@@ -719,652 +697,2328 @@
       "Effects",
       "Examples",
       "Mechanism",
-      "fixed input"
+      "counterclockwise direction"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "foreign direct investment",
-    "title": "foreign direct investment",
-    "slug": "foreign-direct-investment",
+    "entity_id": "cube root",
+    "title": "cube root",
+    "slug": "cube-root",
     "lang": "en",
-    "url": "/en/entity/foreign-direct-investment/",
-    "intro": "[foreign direct investment|foreign direct investment] [foreign direct investment] refers to purchasing a firm in another country or establishing a new enterprise there, typically involving at least ten percent ownership.",
-    "section_titles": [
-      "Definition",
-      "Causes",
-      "Effects",
-      "Comparison",
-      "Constraints",
-      "Comparison with Ten Percent",
-      "Foreign Exchange"
-    ],
-    "keywords": [
-      "Causes",
-      "Comparison",
-      "Comparison with Ten Percent",
-      "Constraints",
-      "Definition",
-      "Effects",
-      "Foreign Exchange",
-      "foreign direct investment"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "globalization",
-    "title": "globalization",
-    "slug": "globalization",
-    "lang": "en",
-    "url": "/en/entity/globalization/",
-    "intro": "globalization refers to the expanding cultural, political, and economic connections between people around the world, a trend that has been observed in recent decades.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Public Policy",
-      "Examples of Greater Competition"
-    ],
-    "keywords": [
-      "Definition",
-      "Effects",
-      "Examples of Greater Competition",
-      "Mechanism",
-      "Public Policy",
-      "globalization"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "government borrowing",
-    "title": "government borrowing",
-    "slug": "government-borrowing",
-    "lang": "en",
-    "url": "/en/entity/government-borrowing/",
-    "intro": "[government borrowing|government borrowing] refers to the difference between government spending (G) and net taxes (T), which equals the budget deficit in any given year.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Constraints",
-      "Interest Payment",
-      "Interest Rate Mechanism",
-      "Effects on Crowding Out"
-    ],
-    "keywords": [
-      "Constraints",
-      "Definition",
-      "Effects",
-      "Effects on Crowding Out",
-      "Interest Payment",
-      "Interest Rate Mechanism",
-      "Mechanism",
-      "government borrowing"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "government spending",
-    "title": "government spending",
-    "slug": "government-spending",
-    "lang": "en",
-    "url": "/en/entity/government-spending/",
-    "intro": "[government spending|government spending] refers to the allocation of financial resources by public authorities to provide goods and services.",
+    "url": "/en/entity/cube-root/",
+    "intro": "[cube root|cube root] [cube root] is a power function with a fractional exponent of 1/3.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Effects",
       "Examples",
-      "Aggregate Demand Mechanism"
+      "Cube Range Mechanism",
+      "Examples of Cube Range",
+      "Power Function"
     ],
     "keywords": [
-      "Aggregate Demand Mechanism",
+      "Cube Range Mechanism",
       "Definition",
       "Effects",
       "Examples",
+      "Examples of Cube Range",
       "Mechanism",
-      "government spending"
+      "Power Function",
+      "cube root"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "gross domestic product",
-    "title": "gross domestic product",
-    "slug": "gross-domestic-product",
+    "entity_id": "decibels d",
+    "title": "decibels d",
+    "slug": "decibels-d",
     "lang": "en",
-    "url": "/en/entity/gross-domestic-product/",
-    "intro": "[gross domestic product|gross domestic product] operates through integration with national accounts, which track economic activities and its components.",
+    "url": "/en/entity/decibels-d/",
+    "intro": "[decibels d|decibels d] is a unit used to measure sound intensity, defined by the equation D = 10 log ( I I 0 ).",
     "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Sound Intensity",
+      "Sound Intensity Causes",
+      "Sound Intensity Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Sound Intensity",
+      "Sound Intensity Causes",
+      "Sound Intensity Mechanism",
+      "decibels d"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "decreasing function",
+    "title": "decreasing function",
+    "slug": "decreasing-function",
+    "lang": "en",
+    "url": "/en/entity/decreasing-function/",
+    "intro": "[decreasing function|decreasing function] refers to a function where the slope is negative.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Examples",
+      "Average Rate Mechanism",
+      "Open Interval"
+    ],
+    "keywords": [
+      "Average Rate Mechanism",
+      "Causes",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "Open Interval",
+      "decreasing function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "depression",
+    "title": "depression",
+    "slug": "depression",
+    "lang": "en",
+    "url": "/en/entity/depression/",
+    "intro": "depression An angle of depression is the acute angle formed between a horizontal line and the line of sight from an observer to an object below.",
+    "section_titles": [
+      "Definition",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Acute Angle",
+      "Depression Angle",
+      "Effects on Depression Angle"
+    ],
+    "keywords": [
+      "Acute Angle",
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Depression Angle",
+      "Effects",
+      "Effects on Depression Angle",
+      "depression"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "directed line segment",
+    "title": "directed line segment",
+    "slug": "directed-line-segment",
+    "lang": "en",
+    "url": "/en/entity/directed-line-segment/",
+    "intro": "[directed line segment|directed line segment] A directed line segment is a vector defined by an initial point and a terminal point.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Constraints",
+      "Vector Think"
+    ],
+    "keywords": [
+      "Causes",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Vector Think",
+      "directed line segment"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "distance formula",
+    "title": "distance formula",
+    "slug": "distance-formula",
+    "lang": "en",
+    "url": "/en/entity/distance-formula/",
+    "intro": "[distance formula|distance formula] is a mathematical formula used to find the distance between two points in a coordinate plane.",
+    "section_titles": [
+      "Definition",
       "Mechanism",
       "Causes",
       "Effects"
     ],
     "keywords": [
       "Causes",
+      "Definition",
       "Effects",
       "Mechanism",
-      "gross domestic product"
+      "distance formula"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "gross national product",
-    "title": "gross national product",
-    "slug": "gross-national-product",
+    "entity_id": "distributive property",
+    "title": "distributive property",
+    "slug": "distributive-property",
     "lang": "en",
-    "url": "/en/entity/gross-national-product/",
-    "intro": "[gross national product|gross national product] is one of the closest cousins of GDP.",
+    "url": "/en/entity/distributive-property/",
+    "intro": "[distributive property|distributive property] states that the product of a factor times a sum equals the sum of the factor multiplied by each term in the sum.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Causes",
       "Effects",
-      "Comparison",
-      "Applications",
-      "Examples"
-    ],
-    "keywords": [
-      "Applications",
-      "Causes",
-      "Comparison",
-      "Definition",
-      "Effects",
-      "Examples",
-      "Mechanism",
-      "gross national product"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "immigration",
-    "title": "immigration",
-    "slug": "immigration",
-    "lang": "en",
-    "url": "/en/entity/immigration/",
-    "intro": "immigration refers to the movement of people across borders, raising difficult policy questions.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Comparison",
-      "High Tech Mechanism"
-    ],
-    "keywords": [
-      "Comparison",
-      "Definition",
-      "Effects",
-      "High Tech Mechanism",
-      "Mechanism",
-      "immigration"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "income elasticity",
-    "title": "income elasticity",
-    "slug": "income-elasticity",
-    "lang": "en",
-    "url": "/en/entity/income-elasticity/",
-    "intro": "[income elasticity|income elasticity] refers to the responsiveness of demand to changes in income.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Examples",
-      "Percentage Change Mechanism",
-      "Larger Shift"
+      "Effects on Multiply Back",
+      "Factor Time"
     ],
     "keywords": [
       "Causes",
       "Definition",
       "Effects",
-      "Examples",
-      "Larger Shift",
+      "Effects on Multiply Back",
+      "Factor Time",
       "Mechanism",
-      "Percentage Change Mechanism",
-      "income elasticity"
+      "distributive property"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "indifference curve",
-    "title": "indifference curve",
-    "slug": "indifference-curve",
+    "entity_id": "double angle",
+    "title": "double angle",
+    "slug": "double-angle",
     "lang": "en",
-    "url": "/en/entity/indifference-curve/",
-    "intro": "[indifference curve|indifference curve] is a graphical representation showing combinations of two goods that provide equal utility.",
+    "url": "/en/entity/double-angle/",
+    "intro": "[double angle|double angle] Using the Pythagorean properties, we can expand the double-angle formula for cosine and derive two additional variations.",
     "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Comparison",
-      "Examples",
-      "Examples of Household Choice",
-      "Comparison with Greater Level"
-    ],
-    "keywords": [
-      "Comparison",
-      "Comparison with Greater Level",
-      "Definition",
-      "Effects",
-      "Examples",
-      "Examples of Household Choice",
-      "Mechanism",
-      "indifference curve"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "industry structure",
-    "title": "industry structure",
-    "slug": "industry-structure",
-    "lang": "en",
-    "url": "/en/entity/industry-structure/",
-    "intro": "The mechanism of [industry structure|industry structure] involves the interplay between production processes and cost structures.",
-    "section_titles": [
-      "Mechanism",
-      "Causes",
-      "Effects"
-    ],
-    "keywords": [
-      "Causes",
-      "Effects",
-      "Mechanism",
-      "industry structure"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "inflation",
-    "title": "inflation",
-    "slug": "inflation",
-    "lang": "en",
-    "url": "/en/entity/inflation/",
-    "intro": "inflation means that we perceive price signals more vaguely, like a radio program received with considerable static.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Examples",
-      "Consumer Price Mechanism",
-      "Perceive Price",
-      "Inflation Rate Mechanism"
-    ],
-    "keywords": [
-      "Consumer Price Mechanism",
-      "Definition",
-      "Effects",
-      "Examples",
-      "Inflation Rate Mechanism",
-      "Mechanism",
-      "Perceive Price",
-      "inflation"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "insurance",
-    "title": "insurance",
-    "slug": "insurance",
-    "lang": "en",
-    "url": "/en/entity/insurance/",
-    "intro": "insurance is a method of sharing risk.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Examples",
-      "Automobile Insurance Mechanism"
-    ],
-    "keywords": [
-      "Automobile Insurance Mechanism",
-      "Definition",
-      "Effects",
-      "Examples",
-      "Mechanism",
-      "insurance"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "intermediate zone",
-    "title": "intermediate zone",
-    "slug": "intermediate-zone",
-    "lang": "en",
-    "url": "/en/entity/intermediate-zone/",
-    "intro": "[intermediate zone|intermediate zone] refers to the curved section of the SRAS curve located between the Keynesian and neoclassical zones.",
-    "section_titles": [
-      "Definition",
-      "Causes",
-      "Effects",
-      "Applications",
-      "Examples",
-      "Constraints",
-      "Keynesian Zone"
-    ],
-    "keywords": [
-      "Applications",
-      "Causes",
-      "Constraints",
-      "Definition",
-      "Effects",
-      "Examples",
-      "Keynesian Zone",
-      "intermediate zone"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "international trade",
-    "title": "international trade",
-    "slug": "international-trade",
-    "lang": "en",
-    "url": "/en/entity/international-trade/",
-    "intro": "[international trade|international trade] refers to the exchange of goods and services between countries.",
-    "section_titles": [
-      "Definition",
       "Mechanism",
       "Effects",
       "Examples"
     ],
     "keywords": [
-      "Definition",
       "Effects",
       "Examples",
       "Mechanism",
-      "international trade"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "intra",
-    "title": "intra",
-    "slug": "intra",
-    "lang": "en",
-    "url": "/en/entity/intra/",
-    "intro": "intra [intra] refers to trade of goods within the same industry between countries.",
-    "section_titles": [
-      "Definition",
-      "Causes",
-      "Effects",
-      "Comparison",
-      "Constraints",
-      "Effects on Intra-industry Trade",
-      "High Proportion"
-    ],
-    "keywords": [
-      "Causes",
-      "Comparison",
-      "Constraints",
-      "Definition",
-      "Effects",
-      "Effects on Intra-industry Trade",
-      "High Proportion",
-      "intra"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "keynesian perspective",
-    "title": "keynesian perspective",
-    "slug": "keynesian-perspective",
-    "lang": "en",
-    "url": "/en/entity/keynesian-perspective/",
-    "intro": "[keynesian perspective|keynesian perspective] introduced the Phillips curve and derived it from the aggregate supply curve.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Neoclassical Perspective Mechanism",
-      "Effects on Aggregate Demand",
-      "Aggregate Demand"
-    ],
-    "keywords": [
-      "Aggregate Demand",
-      "Causes",
-      "Definition",
-      "Effects",
-      "Effects on Aggregate Demand",
-      "Mechanism",
-      "Neoclassical Perspective Mechanism",
-      "keynesian perspective"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "labor market",
-    "title": "labor market",
-    "slug": "labor-market",
-    "lang": "en",
-    "url": "/en/entity/labor-market/",
-    "intro": "[labor market|labor market] refers to the term economists apply to encompass all different labor-related markets.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Examples",
-      "Demand Law Mechanism",
-      "Labor Quantity Mechanism"
-    ],
-    "keywords": [
-      "Definition",
-      "Demand Law Mechanism",
-      "Effects",
-      "Examples",
-      "Labor Quantity Mechanism",
-      "Mechanism",
-      "labor market"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "labor productivity",
-    "title": "labor productivity",
-    "slug": "labor-productivity",
-    "lang": "en",
-    "url": "/en/entity/labor-productivity/",
-    "intro": "[labor productivity|labor productivity] measures the value generated by each employed person relative to the input they contribute.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Examples",
-      "Healthy Climate Mechanism"
-    ],
-    "keywords": [
-      "Causes",
-      "Definition",
-      "Effects",
-      "Examples",
-      "Healthy Climate Mechanism",
-      "Mechanism",
-      "labor productivity"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "labor supply",
-    "title": "labor supply",
-    "slug": "labor-supply",
-    "lang": "en",
-    "url": "/en/entity/labor-supply/",
-    "intro": "[labor supply|labor supply] refers to the quantity of hours worked by individuals.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Percentage Change"
-    ],
-    "keywords": [
-      "Causes",
-      "Definition",
-      "Effects",
-      "Mechanism",
-      "Percentage Change",
-      "labor supply"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "long run",
-    "title": "long run",
-    "slug": "long-run",
-    "lang": "en",
-    "url": "/en/entity/long-run/",
-    "intro": "[long run|long run] refers to a timeframe in economics where the firm's decisions are not constrained by fixed inputs.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Comparison",
-      "Effects on Market Structure",
-      "Effects on Energy Elasticity",
-      "Firm Specifics"
-    ],
-    "keywords": [
-      "Comparison",
-      "Definition",
-      "Effects",
-      "Effects on Energy Elasticity",
-      "Effects on Market Structure",
-      "Firm Specifics",
-      "Mechanism",
-      "long run"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "low risk",
-    "title": "low risk",
-    "slug": "low-risk",
-    "lang": "en",
-    "url": "/en/entity/low-risk/",
-    "intro": "[low risk|low risk] [low risk] refers to investments with low rate of return but high liquidity, typically showing actual returns that are fairly close to expected rates year after year.",
-    "section_titles": [
-      "Definition",
-      "Effects",
-      "Examples"
-    ],
-    "keywords": [
-      "Definition",
-      "Effects",
-      "Examples",
-      "low risk"
+      "double angle"
     ],
     "render_mode": "minimal"
   },
   {
-    "entity_id": "macroeconomic perspective",
-    "title": "macroeconomic perspective",
-    "slug": "macroeconomic-perspective",
+    "entity_id": "elimination",
+    "title": "elimination",
+    "slug": "elimination",
     "lang": "en",
-    "url": "/en/entity/macroeconomic-perspective/",
-    "intro": "[macroeconomic perspective|macroeconomic perspective] [macroeconomic perspective] refers to the analysis of services as intangible things consumers purchase, such as healthcare or entertainment.",
+    "url": "/en/entity/elimination/",
+    "intro": "elimination is a method used to solve systems of two equations in two variables by eliminating one variable.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "elimination"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "end behavior",
+    "title": "end behavior",
+    "slug": "end-behavior",
+    "lang": "en",
+    "url": "/en/entity/end-behavior/",
+    "intro": "[end behavior|end behavior] refers to the behavior of a polynomial function as x approaches positive or negative infinity.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Causes",
       "Effects",
+      "Identify End Mechanism",
+      "Lead Coefficient Causes",
+      "Odd Degree"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Identify End Mechanism",
+      "Lead Coefficient Causes",
+      "Mechanism",
+      "Odd Degree",
+      "end behavior"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "equal increment",
+    "title": "equal increment",
+    "slug": "equal-increment",
+    "lang": "en",
+    "url": "/en/entity/equal-increment/",
+    "intro": "[equal increment|equal increment] For exponential growth, equal increments in input lead to a constant multiplicative rate of change.",
+    "section_titles": [
+      "Causes",
+      "Effects",
+      "Constant Multiplicative Causes",
+      "Effects on Constant Multiplicative",
+      "Effects on Output Whenever"
+    ],
+    "keywords": [
+      "Causes",
+      "Constant Multiplicative Causes",
+      "Effects",
+      "Effects on Constant Multiplicative",
+      "Effects on Output Whenever",
+      "equal increment"
+    ],
+    "render_mode": "normal"
+  },
+  {
+    "entity_id": "equation form",
+    "title": "equation form",
+    "slug": "equation-form",
+    "lang": "en",
+    "url": "/en/entity/equation-form/",
+    "intro": "[equation form|equation form] To write a function in equation form, one must express its algebraic formula.",
+    "section_titles": [
+      "Mechanism",
+      "Applications",
+      "Examples",
+      "Applications in Function Written",
+      "Examples of Function Written",
+      "Given Function Mechanism"
+    ],
+    "keywords": [
+      "Applications",
+      "Applications in Function Written",
+      "Examples",
+      "Examples of Function Written",
+      "Given Function Mechanism",
+      "Mechanism",
+      "equation form"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "even function",
+    "title": "even function",
+    "slug": "even-function",
+    "lang": "en",
+    "url": "/en/entity/even-function/",
+    "intro": "[even function|even function] is a function where f(−x) = f(x).",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Cosine Function Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Cosine Function Mechanism",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "even function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "even integer",
+    "title": "even integer",
+    "slug": "even-integer",
+    "lang": "en",
+    "url": "/en/entity/even-integer/",
+    "intro": "[even integer|even integer] represents the difference between the number of sign changes in f(−x) and the actual count of negative real zeros of a polynomial function.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
       "Comparison",
-      "Gdp Deflator"
+      "Negative Real",
+      "Positive Real Mechanism",
+      "Sign Change"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Mechanism",
+      "Negative Real",
+      "Positive Real Mechanism",
+      "Sign Change",
+      "even integer"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "even root",
+    "title": "even root",
+    "slug": "even-root",
+    "lang": "en",
+    "url": "/en/entity/even-root/",
+    "intro": "[even root|even root] is a number resulting from taking an even root of a negative number.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Examples",
+      "Effects on Cannot Include",
+      "Examples of Function Written"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Cannot Include",
+      "Examples",
+      "Examples of Function Written",
+      "Mechanism",
+      "even root"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "exactly one element",
+    "title": "exactly one element",
+    "slug": "exactly-one-element",
+    "lang": "en",
+    "url": "/en/entity/exactly-one-element/",
+    "intro": "[exactly one element|exactly one element] In the given example, the domain { even, odd } is not paired with exactly one element in the range { 1 , 2 , 3 , 4 , 5 } .",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Examples",
+      "Each Element",
+      "Five Natural",
+      "Function Notation Mechanism",
+      "Number Double"
+    ],
+    "keywords": [
+      "Definition",
+      "Each Element",
+      "Examples",
+      "Five Natural",
+      "Function Notation Mechanism",
+      "Mechanism",
+      "Number Double",
+      "exactly one element"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "excluded value",
+    "title": "excluded value",
+    "slug": "excluded-value",
+    "lang": "en",
+    "url": "/en/entity/excluded-value/",
+    "intro": "The excluded values are 6 and 0.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison"
     ],
     "keywords": [
       "Causes",
       "Comparison",
       "Definition",
       "Effects",
-      "Gdp Deflator",
       "Mechanism",
-      "macroeconomic perspective"
+      "excluded value"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "march 2013",
-    "title": "march 2013",
-    "slug": "march-2013",
+    "entity_id": "exponential decay",
+    "title": "exponential decay",
+    "slug": "exponential-decay",
     "lang": "en",
-    "url": "/en/entity/march-2013/",
-    "intro": "[march 2013|march 2013] [march 2013] marked the release of the most recent impact statement by the Nebraska Department of State.",
+    "url": "/en/entity/exponential-decay/",
+    "intro": "[exponential decay|exponential decay] is a process where a quantity decreases by a constant multiplicative factor over equal time intervals.",
     "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Constant Multiplicative",
+      "Exponent Base Mechanism",
+      "Percent Decrease"
+    ],
+    "keywords": [
+      "Causes",
+      "Constant Multiplicative",
+      "Definition",
+      "Effects",
+      "Exponent Base Mechanism",
+      "Mechanism",
+      "Percent Decrease",
+      "exponential decay"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "exponential decay function",
+    "title": "exponential decay function",
+    "slug": "exponential-decay-function",
+    "lang": "en",
+    "url": "/en/entity/exponential-decay-function/",
+    "intro": "[exponential decay function|exponential decay function] is a mathematical function where the base of the exponent is a value between 0 and 1, describing a decrease in quantity over time with the exponent representing the rate of decay.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Exponent Base"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Exponent Base",
+      "Mechanism",
+      "exponential decay function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "exponential expression",
+    "title": "exponential expression",
+    "slug": "exponential-expression",
+    "lang": "en",
+    "url": "/en/entity/exponential-expression/",
+    "intro": "[exponential expression|exponential expression] An exponential expression involves exponents, which are also referred to as powers.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Examples",
+      "Larger Exponent Mechanism",
+      "Rewrite Each Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Larger Exponent Mechanism",
+      "Mechanism",
+      "Rewrite Each Mechanism",
+      "exponential expression"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "exponential form",
+    "title": "exponential form",
+    "slug": "exponential-form",
+    "lang": "en",
+    "url": "/en/entity/exponential-form/",
+    "intro": "[exponential form|exponential form] [exponential form] represents equations where variables are exponents, specifically expressed as b m = M and b n = N .",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Comparison with Earthquake Magnitude",
+      "Logarithmic Equation Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Comparison with Earthquake Magnitude",
+      "Definition",
+      "Effects",
+      "Logarithmic Equation Mechanism",
+      "Mechanism",
+      "exponential form"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "exponential function",
+    "title": "exponential function",
+    "slug": "exponential-function",
+    "lang": "en",
+    "url": "/en/entity/exponential-function/",
+    "intro": "[exponential function|exponential function] is a mathematical function where a positive constant (base) is raised to a variable exponent.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "exponential function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "exponential growth",
+    "title": "exponential growth",
+    "slug": "exponential-growth",
+    "lang": "en",
+    "url": "/en/entity/exponential-growth/",
+    "intro": "[exponential growth|exponential growth] is a pattern of growth where the quantity increases by a constant percentage over equal time intervals.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Constant Multiplicative",
+      "Effects on Constant Multiplicative",
+      "Original Value"
+    ],
+    "keywords": [
+      "Causes",
+      "Constant Multiplicative",
+      "Definition",
+      "Effects",
+      "Effects on Constant Multiplicative",
+      "Mechanism",
+      "Original Value",
+      "exponential growth"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "exponential growth model",
+    "title": "exponential growth model",
+    "slug": "exponential-growth-model",
+    "lang": "en",
+    "url": "/en/entity/exponential-growth-model/",
+    "intro": "[exponential growth model|exponential growth model] [exponential growth model] is a model that assumes continuous growth at a constant rate.",
+    "section_titles": [
+      "Definition",
+      "Causes",
+      "Effects",
+      "Constraints",
+      "Effects on Use Model",
+      "Use Model",
+      "Use Model Constraints"
+    ],
+    "keywords": [
+      "Causes",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Effects on Use Model",
+      "Use Model",
+      "Use Model Constraints",
+      "exponential growth model"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "factored form",
+    "title": "factored form",
+    "slug": "factored-form",
+    "lang": "en",
+    "url": "/en/entity/factored-form/",
+    "intro": "[factored form|factored form] The factored form represents an expression written as a product of its factors.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Cube Write Mechanism",
+      "Effects on Polynomial Function",
+      "So Factored"
+    ],
+    "keywords": [
+      "Causes",
+      "Cube Write Mechanism",
+      "Definition",
+      "Effects",
+      "Effects on Polynomial Function",
+      "Mechanism",
+      "So Factored",
+      "factored form"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "fahrenheit temperature",
+    "title": "fahrenheit temperature",
+    "slug": "fahrenheit-temperature",
+    "lang": "en",
+    "url": "/en/entity/fahrenheit-temperature/",
+    "intro": "The [fahrenheit temperature|fahrenheit temperature] is expressed as a linear function of Celsius temperature, denoted as F(C).",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Comparison with Since Evaluation",
+      "Inverse Function Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Comparison with Since Evaluation",
+      "Definition",
+      "Effects",
+      "Inverse Function Mechanism",
+      "Mechanism",
+      "fahrenheit temperature"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "ferris wheel",
+    "title": "ferris wheel",
+    "slug": "ferris-wheel",
+    "lang": "en",
+    "url": "/en/entity/ferris-wheel/",
+    "intro": "[ferris wheel|ferris wheel] is a structure with a diameter of 25 meters.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Ferri Wheel",
+      "Ferri Wheel Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Ferri Wheel",
+      "Ferri Wheel Mechanism",
+      "Mechanism",
+      "ferris wheel"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "fibonacci sequence",
+    "title": "fibonacci sequence",
+    "slug": "fibonacci-sequence",
+    "lang": "en",
+    "url": "/en/entity/fibonacci-sequence/",
+    "intro": "[fibonacci sequence|fibonacci sequence] is a sequence where each term is the sum of the two preceding terms.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Famou Sequence",
+      "Natural World"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Famou Sequence",
+      "Mechanism",
+      "Natural World",
+      "fibonacci sequence"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "fixed line",
+    "title": "fixed line",
+    "slug": "fixed-line",
+    "lang": "en",
+    "url": "/en/entity/fixed-line/",
+    "intro": "[fixed line|fixed line] In the context of a parabola, the fixed point is referred to as the focus, while the fixed line is termed the directrix.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Fixed Point"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Fixed Point",
+      "Mechanism",
+      "fixed line"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "function composition",
+    "title": "function composition",
+    "slug": "function-composition",
+    "lang": "en",
+    "url": "/en/entity/function-composition/",
+    "intro": "[function composition|function composition] is the process of combining two or more functions to create a new function, where the output of one function serves as the input for the next.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Combine Existing",
+      "Effects on Given Function",
+      "Examples of Inside Function"
+    ],
+    "keywords": [
+      "Combine Existing",
+      "Definition",
+      "Effects",
+      "Effects on Given Function",
+      "Examples",
+      "Examples of Inside Function",
+      "Mechanism",
+      "function composition"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "function notation",
+    "title": "function notation",
+    "slug": "function-notation",
+    "lang": "en",
+    "url": "/en/entity/function-notation/",
+    "intro": "[function notation|function notation] is a shorthand method for relating input to output in the form y = f(x).",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Applications",
+      "Examples",
+      "Represent Function",
+      "Shorthand Method"
+    ],
+    "keywords": [
+      "Applications",
+      "Causes",
+      "Definition",
+      "Examples",
+      "Mechanism",
+      "Represent Function",
+      "Shorthand Method",
+      "function notation"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "function value",
+    "title": "function value",
+    "slug": "function-value",
+    "lang": "en",
+    "url": "/en/entity/function-value/",
+    "intro": "The function value at that point represents a local maximum or minimum.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Constraints",
+      "Local Maximum",
+      "Local Minimum"
+    ],
+    "keywords": [
+      "Causes",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Local Maximum",
+      "Local Minimum",
+      "Mechanism",
+      "function value"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "grade point average",
+    "title": "grade point average",
+    "slug": "grade-point-average",
+    "lang": "en",
+    "url": "/en/entity/grade-point-average/",
+    "intro": "[grade point average|grade point average] The grade point average is a function of the percent grade earned.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Examples",
+      "Effects on Percent Grade",
+      "Percent Grade"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Percent Grade",
+      "Examples",
+      "Mechanism",
+      "Percent Grade",
+      "grade point average"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "graphing calculator",
+    "title": "graphing calculator",
+    "slug": "graphing-calculator",
+    "lang": "en",
+    "url": "/en/entity/graphing-calculator/",
+    "intro": "[graphing calculator|graphing calculator] is a tool used for the following exercises.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Examples",
+      "Comparison with Tangent Function",
+      "Effects on Depending Upon"
+    ],
+    "keywords": [
+      "Comparison",
+      "Comparison with Tangent Function",
+      "Definition",
+      "Effects",
+      "Effects on Depending Upon",
+      "Examples",
+      "Mechanism",
+      "graphing calculator"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "ground speed",
+    "title": "ground speed",
+    "slug": "ground-speed",
+    "lang": "en",
+    "url": "/en/entity/ground-speed/",
+    "intro": "[ground speed|ground speed] refers to the speed of an object relative to the ground.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Comparison",
+      "Approximately Mile",
+      "Comparison with Plane Relative",
+      "Mile Per"
+    ],
+    "keywords": [
+      "Approximately Mile",
+      "Causes",
+      "Comparison",
+      "Comparison with Plane Relative",
+      "Definition",
+      "Mechanism",
+      "Mile Per",
+      "ground speed"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "highest exponent",
+    "title": "highest exponent",
+    "slug": "highest-exponent",
+    "lang": "en",
+    "url": "/en/entity/highest-exponent/",
+    "intro": "[highest exponent|highest exponent] refers to the maximum power of a variable in an equation.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Polynomial Degree",
+      "Polynomial Degree Causes",
+      "Polynomial Degree Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Polynomial Degree",
+      "Mechanism",
+      "Polynomial Degree Causes",
+      "Polynomial Degree Mechanism",
+      "highest exponent"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "highest power",
+    "title": "highest power",
+    "slug": "highest-power",
+    "lang": "en",
+    "url": "/en/entity/highest-power/",
+    "intro": "[highest power|highest power] refers to the highest exponent of a variable in a polynomial.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Polynomial Function Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Polynomial Function Mechanism",
+      "highest power"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "horizontal compression",
+    "title": "horizontal compression",
+    "slug": "horizontal-compression",
+    "lang": "en",
+    "url": "/en/entity/horizontal-compression/",
+    "intro": "[horizontal compression|horizontal compression] refers to a horizontal compression by a factor of 1 5 of the graph of f.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Function Description Mechanism",
+      "Horizontal Transformation"
+    ],
+    "keywords": [
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Function Description Mechanism",
+      "Horizontal Transformation",
+      "Mechanism",
+      "horizontal compression"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "horizontal distance",
+    "title": "horizontal distance",
+    "slug": "horizontal-distance",
+    "lang": "en",
+    "url": "/en/entity/horizontal-distance/",
+    "intro": "[horizontal distance|horizontal distance] is defined as the horizontal component of a point's position in a plane.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Examples",
+      "Degree Angle Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Degree Angle Mechanism",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "horizontal distance"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "horizontal line",
+    "title": "horizontal line",
+    "slug": "horizontal-line",
+    "lang": "en",
+    "url": "/en/entity/horizontal-line/",
+    "intro": "[horizontal line|horizontal line] A horizontal line is a straight line that runs parallel to the x-axis in a coordinate plane.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Line Defined",
+      "Zero Slope"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Line Defined",
+      "Mechanism",
+      "Zero Slope",
+      "horizontal line"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "horizontal line test",
+    "title": "horizontal line test",
+    "slug": "horizontal-line-test",
+    "lang": "en",
+    "url": "/en/entity/horizontal-line-test/",
+    "intro": "[horizontal line test|horizontal line test] The horizontal line test is a method used to determine if a graph represents a one-to-one function.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Effects on Function Graph",
+      "Whether Function"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Effects on Function Graph",
+      "Examples",
+      "Mechanism",
+      "Whether Function",
+      "horizontal line test"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "horizontal shift",
+    "title": "horizontal shift",
+    "slug": "horizontal-shift",
+    "lang": "en",
+    "url": "/en/entity/horizontal-shift/",
+    "intro": "[horizontal shift|horizontal shift] A horizontal shift occurs when a constant is added to or subtracted from the input.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Next Transformation Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Next Transformation Mechanism",
+      "horizontal shift"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "increasing function",
+    "title": "increasing function",
+    "slug": "increasing-function",
+    "lang": "en",
+    "url": "/en/entity/increasing-function/",
+    "intro": "[increasing function|increasing function] is a function where for any two points a and b in its domain with b > a, the function satisfies f(b) > f(a).",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Examples",
+      "Average Rate Mechanism",
+      "Open Interval"
+    ],
+    "keywords": [
+      "Average Rate Mechanism",
+      "Causes",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "Open Interval",
+      "increasing function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "infinite sequence",
+    "title": "infinite sequence",
+    "slug": "infinite-sequence",
+    "lang": "en",
+    "url": "/en/entity/infinite-sequence/",
+    "intro": "[infinite sequence|infinite sequence] [infinite sequence] is a sequence with an infinite number of terms.",
+    "section_titles": [
+      "Definition",
+      "Causes",
+      "Effects",
+      "Constraints",
+      "Infinite Sery",
+      "Number Set",
+      "Term Sum"
+    ],
+    "keywords": [
+      "Causes",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Infinite Sery",
+      "Number Set",
+      "Term Sum",
+      "infinite sequence"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "initial or starting value",
+    "title": "initial or starting value",
+    "slug": "initial-or-starting-value",
+    "lang": "en",
+    "url": "/en/entity/initial-or-starting-value/",
+    "intro": "[initial or starting value|initial or starting value] The entity denotes the initial or starting value of a function, specifically when the input x equals 0.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Applications"
+    ],
+    "keywords": [
+      "Applications",
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "initial or starting value"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "initial value",
+    "title": "initial value",
+    "slug": "initial-value",
+    "lang": "en",
+    "url": "/en/entity/initial-value/",
+    "intro": "[initial value|initial value] serves as the initial value for the function, representing the starting point of the model with y = a.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Decay Rate Mechanism",
+      "Linear Function Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Decay Rate Mechanism",
+      "Definition",
+      "Effects",
+      "Linear Function Mechanism",
+      "Mechanism",
+      "initial value"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "input quantity",
+    "title": "input quantity",
+    "slug": "input-quantity",
+    "lang": "en",
+    "url": "/en/entity/input-quantity/",
+    "intro": "[input quantity|input quantity] The input quantity along the horizontal axis is defined as 'years,' represented by the variable t.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Function Output",
+      "Function Output Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Function Output",
+      "Function Output Mechanism",
+      "Mechanism",
+      "input quantity"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "inside function",
+    "title": "inside function",
+    "slug": "inside-function",
+    "lang": "en",
+    "url": "/en/entity/inside-function/",
+    "intro": "[inside function|inside function] When the inside function is a trigonometric function, only specific combinations yield exact expressions.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Examples",
+      "Input Value Mechanism",
+      "Inverse Trigonometric",
+      "Trigonometric Function"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Examples",
+      "Input Value Mechanism",
+      "Inverse Trigonometric",
+      "Mechanism",
+      "Trigonometric Function",
+      "inside function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "interval notation",
+    "title": "interval notation",
+    "slug": "interval-notation",
+    "lang": "en",
+    "url": "/en/entity/interval-notation/",
+    "intro": "[interval notation|interval notation] is a method to represent domains and solutions using numerical intervals.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Effects on Function Domain"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Effects on Function Domain",
+      "Examples",
+      "Mechanism",
+      "interval notation"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "inverse function",
+    "title": "inverse function",
+    "slug": "inverse-function",
+    "lang": "en",
+    "url": "/en/entity/inverse-function/",
+    "intro": "[inverse function|inverse function] [inverse function] is a function that reverses the effect of another function, effectively undoing its action.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Examples of Original Function",
+      "Horizontal Extent Mechanism",
+      "Vertical Extent Mechanism"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Examples",
+      "Examples of Original Function",
+      "Horizontal Extent Mechanism",
+      "Mechanism",
+      "Vertical Extent Mechanism",
+      "inverse function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "inverse sine",
+    "title": "inverse sine",
+    "slug": "inverse-sine",
+    "lang": "en",
+    "url": "/en/entity/inverse-sine/",
+    "intro": "[inverse sine|inverse sine] [inverse sine] is a function that reverses the sine function, often called arcsine.",
+    "section_titles": [
+      "Definition",
       "Mechanism",
       "Causes",
       "Effects"
     ],
     "keywords": [
       "Causes",
+      "Definition",
       "Effects",
       "Mechanism",
-      "march 2013"
+      "inverse sine"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "marginal utility",
-    "title": "marginal utility",
-    "slug": "marginal-utility",
+    "entity_id": "inverse trigonometric function",
+    "title": "inverse trigonometric function",
+    "slug": "inverse-trigonometric-function",
     "lang": "en",
-    "url": "/en/entity/marginal-utility/",
-    "intro": "[marginal utility|marginal utility] refers to the additional utility gained from consuming one more unit of a good.",
+    "url": "/en/entity/inverse-trigonometric-function/",
+    "intro": "[inverse trigonometric function|inverse trigonometric function] [inverse trigonometric function] refers to functions that reverse the effect of trigonometric functions.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Applications",
+      "Examples",
+      "Special Input Mechanism"
+    ],
+    "keywords": [
+      "Applications",
+      "Causes",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "Special Input Mechanism",
+      "inverse trigonometric function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "inverse variation",
+    "title": "inverse variation",
+    "slug": "inverse-variation",
+    "lang": "en",
+    "url": "/en/entity/inverse-variation/",
+    "intro": "[inverse variation|inverse variation] Inverse variation describes a relationship where one quantity is a constant divided by another quantity.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Comparison",
+      "Examples",
+      "Constant Divided",
+      "Constant Divided Mechanism",
+      "General Formula"
+    ],
+    "keywords": [
+      "Comparison",
+      "Constant Divided",
+      "Constant Divided Mechanism",
+      "Definition",
+      "Examples",
+      "General Formula",
+      "Mechanism",
+      "inverse variation"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "investment account",
+    "title": "investment account",
+    "slug": "investment-account",
+    "lang": "en",
+    "url": "/en/entity/investment-account/",
+    "intro": "[investment account|investment account] is a financial tool used to hold and grow money through investments.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Comparison",
+      "Constraints",
+      "Nominal Rate Causes",
+      "Nominal Rate Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Constraints",
+      "Definition",
+      "Mechanism",
+      "Nominal Rate Causes",
+      "Nominal Rate Mechanism",
+      "investment account"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "leading coefficient",
+    "title": "leading coefficient",
+    "slug": "leading-coefficient",
+    "lang": "en",
+    "url": "/en/entity/leading-coefficient/",
+    "intro": "[leading coefficient|leading coefficient] The leading coefficient refers to the coefficient of the highest degree term in a polynomial equation.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Bringing Down Mechanism",
+      "Effects on Quadratic Equation"
+    ],
+    "keywords": [
+      "Bringing Down Mechanism",
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Quadratic Equation",
+      "Mechanism",
+      "leading coefficient"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "leading term",
+    "title": "leading term",
+    "slug": "leading-term",
+    "lang": "en",
+    "url": "/en/entity/leading-term/",
+    "intro": "[leading term|leading term] The leading term is 0.2 x 3, which identifies it as a degree 3 polynomial.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Polynomial Function",
+      "Polynomial Function Causes",
+      "Polynomial Function Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Polynomial Function",
+      "Mechanism",
+      "Polynomial Function Causes",
+      "Polynomial Function Mechanism",
+      "leading term"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "least possible degree",
+    "title": "least possible degree",
+    "slug": "least-possible-degree",
+    "lang": "en",
+    "url": "/en/entity/least-possible-degree/",
+    "intro": "The term [least possible degree|least possible degree] refers to the minimum level of measurement required for a given context.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "least possible degree"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "linear",
+    "title": "linear",
+    "slug": "linear",
+    "lang": "en",
+    "url": "/en/entity/linear/",
+    "intro": "linear is a function whose graph is a straight line.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Linear Function",
+      "Linear Function",
+      "Linear Function Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Linear Function",
+      "Linear Function",
+      "Linear Function Mechanism",
+      "Mechanism",
+      "linear"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "linear regression",
+    "title": "linear regression",
+    "slug": "linear-regression",
+    "lang": "en",
+    "url": "/en/entity/linear-regression/",
+    "intro": "[linear regression|linear regression] is a method that uses least squares to determine the line which best fits the data.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Determine Function",
+      "Input Data Mechanism",
+      "Least Square"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Determine Function",
+      "Input Data Mechanism",
+      "Least Square",
+      "Mechanism",
+      "linear regression"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "linear speed",
+    "title": "linear speed",
+    "slug": "linear-speed",
+    "lang": "en",
+    "url": "/en/entity/linear-speed/",
+    "intro": "[linear speed|linear speed] refers to the rate at which an object moves along a straight path.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Effects",
       "Comparison",
-      "Utility Jos"
+      "Angular Speed Mechanism",
+      "Linear Definition Mechanism",
+      "Measurement Found"
     ],
     "keywords": [
+      "Angular Speed Mechanism",
       "Comparison",
       "Definition",
       "Effects",
+      "Linear Definition Mechanism",
+      "Measurement Found",
       "Mechanism",
-      "Utility Jos",
-      "marginal utility"
+      "linear speed"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "monetary policy",
-    "title": "monetary policy",
-    "slug": "monetary-policy",
+    "entity_id": "local extrema",
+    "title": "local extrema",
+    "slug": "local-extrema",
     "lang": "en",
-    "url": "/en/entity/monetary-policy/",
-    "intro": "[monetary policy|monetary policy] Monetary policy involves a sequence of actions initiated by the central bank.",
+    "url": "/en/entity/local-extrema/",
+    "intro": "[local extrema|local extrema] are points on a function's graph where the function reaches a local maximum or minimum within a specific interval defined by vertical asymptotes.",
     "section_titles": [
+      "Definition",
       "Mechanism",
       "Causes",
       "Effects",
-      "Effects on Interest Rate",
-      "Interest Rate Causes",
-      "Interest Rate"
+      "Effects on Formal Definition",
+      "Given Local",
+      "Vertical Asymptote"
     ],
     "keywords": [
       "Causes",
+      "Definition",
       "Effects",
-      "Effects on Interest Rate",
-      "Interest Rate",
-      "Interest Rate Causes",
+      "Effects on Formal Definition",
+      "Given Local",
       "Mechanism",
-      "monetary policy"
+      "Vertical Asymptote",
+      "local extrema"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "monopolistic competition",
-    "title": "monopolistic competition",
-    "slug": "monopolistic-competition",
+    "entity_id": "local maxima",
+    "title": "local maxima",
+    "slug": "local-maxima",
     "lang": "en",
-    "url": "/en/entity/monopolistic-competition/",
-    "intro": "[monopolistic competition|monopolistic competition] refers to a market where many firms sell differentiated products.",
+    "url": "/en/entity/local-maxima/",
+    "intro": "[local maxima|local maxima] are values of a function where the function reaches a peak relative to its neighboring points.",
     "section_titles": [
       "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Locate Local Mechanism",
+      "Together Local"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Locate Local Mechanism",
+      "Mechanism",
+      "Together Local",
+      "local maxima"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "local maximum",
+    "title": "local maximum",
+    "slug": "local-maximum",
+    "lang": "en",
+    "url": "/en/entity/local-maximum/",
+    "intro": "[local maximum|local maximum] is the y-coordinate at x = 1, which is 2.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Comparison with Relative Maximum",
+      "Less Negative",
+      "Output Value"
+    ],
+    "keywords": [
+      "Comparison",
+      "Comparison with Relative Maximum",
+      "Definition",
+      "Effects",
+      "Less Negative",
+      "Mechanism",
+      "Output Value",
+      "local maximum"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "local minimum",
+    "title": "local minimum",
+    "slug": "local-minimum",
+    "lang": "en",
+    "url": "/en/entity/local-minimum/",
+    "intro": "[local minimum|local minimum] refers to the y-coordinate at x = −1, which is −2.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Comparison with Relative Maximum"
+    ],
+    "keywords": [
+      "Comparison",
+      "Comparison with Relative Maximum",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "local minimum"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "logarithm function",
+    "title": "logarithm function",
+    "slug": "logarithm-function",
+    "lang": "en",
+    "url": "/en/entity/logarithm-function/",
+    "intro": "[logarithm function|logarithm function] is a mathematical function that maps positive real numbers to real numbers.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Comparison"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Mechanism",
+      "logarithm function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "logarithmic function",
+    "title": "logarithmic function",
+    "slug": "logarithmic-function",
+    "lang": "en",
+    "url": "/en/entity/logarithmic-function/",
+    "intro": "[logarithmic function|logarithmic function] is the inverse of an exponential function.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Constraints",
+      "Exponential Function",
+      "Value Set Mechanism"
+    ],
+    "keywords": [
+      "Comparison",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Exponential Function",
+      "Mechanism",
+      "Value Set Mechanism",
+      "logarithmic function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "logarithmic model",
+    "title": "logarithmic model",
+    "slug": "logarithmic-model",
+    "lang": "en",
+    "url": "/en/entity/logarithmic-model/",
+    "intro": "[logarithmic model|logarithmic model] is a mathematical model defined by the equation h ( p ) = 67.682 − 5.792 ln ( p ).",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Statplot Feature Mechanism"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "Statplot Feature Mechanism",
+      "logarithmic model"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "long division",
+    "title": "long division",
+    "slug": "long-division",
+    "lang": "en",
+    "url": "/en/entity/long-division/",
+    "intro": "[long division|long division] [long division] involves dividing polynomials through a structured process.",
+    "section_titles": [
+      "Mechanism",
+      "Comparison",
+      "Examples"
+    ],
+    "keywords": [
+      "Comparison",
+      "Examples",
+      "Mechanism",
+      "long division"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "lowest point",
+    "title": "lowest point",
+    "slug": "lowest-point",
+    "lang": "en",
+    "url": "/en/entity/lowest-point/",
+    "intro": "[lowest point|lowest point] refers to the minimum value of a function.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Effects on Absolute Minimum",
+      "Global Maximum"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Effects on Absolute Minimum",
+      "Global Maximum",
+      "Mechanism",
+      "lowest point"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "matrix multiplication",
+    "title": "matrix multiplication",
+    "slug": "matrix-multiplication",
+    "lang": "en",
+    "url": "/en/entity/matrix-multiplication/",
+    "intro": "[matrix multiplication|matrix multiplication] is a binary operation that satisfies both associative and distributive properties.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "matrix multiplication"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "maximum or minimum value",
+    "title": "maximum or minimum value",
+    "slug": "maximum-or-minimum-value",
+    "lang": "en",
+    "url": "/en/entity/maximum-or-minimum-value/",
+    "intro": "[maximum or minimum value|maximum or minimum value] The maximum or minimum value of a quadratic function corresponds to the output at its vertex.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Absolute Maximum Mechanism",
+      "Effects on Quadratic Function",
+      "Quadratic Function"
+    ],
+    "keywords": [
+      "Absolute Maximum Mechanism",
+      "Definition",
+      "Effects",
+      "Effects on Quadratic Function",
+      "Examples",
+      "Mechanism",
+      "Quadratic Function",
+      "maximum or minimum value"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "maximum value",
+    "title": "maximum value",
+    "slug": "maximum-value",
+    "lang": "en",
+    "url": "/en/entity/maximum-value/",
+    "intro": "The maximum value of a quadratic function corresponds to its vertex's y-coordinate, representing the minimum or maximum.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Quadratic Function",
+      "Quadratic Function Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Quadratic Function",
+      "Quadratic Function Mechanism",
+      "maximum value"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "mirror image",
+    "title": "mirror image",
+    "slug": "mirror-image",
+    "lang": "en",
+    "url": "/en/entity/mirror-image/",
+    "intro": "[mirror image|mirror image] A mirror image is a reflection that produces a mirrored version of the original graph, either horizontally or vertically.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Every Point Mechanism",
+      "Horizontal Reflection",
+      "New Graph",
+      "Vertical Reflection"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Every Point Mechanism",
+      "Horizontal Reflection",
+      "Mechanism",
+      "New Graph",
+      "Vertical Reflection",
+      "mirror image"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "multiply row",
+    "title": "multiply row",
+    "slug": "multiply-row",
+    "lang": "en",
+    "url": "/en/entity/multiply-row/",
+    "intro": "[multiply row|multiply row] is the operation of multiplying an entire row by a scalar value.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Next Step"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Next Step",
+      "multiply row"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "negative angle",
+    "title": "negative angle",
+    "slug": "negative-angle",
+    "lang": "en",
+    "url": "/en/entity/negative-angle/",
+    "intro": "[negative angle|negative angle] A negative angle is an angle measured clockwise from the positive x-axis.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
       "Effects",
       "Comparison",
       "Examples",
+      "Measured Clockwise"
+    ],
+    "keywords": [
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Measured Clockwise",
+      "Mechanism",
+      "negative angle"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "negative reciprocal",
+    "title": "negative reciprocal",
+    "slug": "negative-reciprocal",
+    "lang": "en",
+    "url": "/en/entity/negative-reciprocal/",
+    "intro": "[negative reciprocal|negative reciprocal] [negative reciprocal] refers to the relationship between the slopes of two lines where one slope is the negative of the reciprocal of the other.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Constraints",
+      "Line Perpendicular Mechanism",
+      "Line Slope",
+      "Line Slope Mechanism"
+    ],
+    "keywords": [
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Line Perpendicular Mechanism",
+      "Line Slope",
+      "Line Slope Mechanism",
+      "Mechanism",
+      "negative reciprocal"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "negative value",
+    "title": "negative value",
+    "slug": "negative-value",
+    "lang": "en",
+    "url": "/en/entity/negative-value/",
+    "intro": "[negative value|negative value] describes the profit function's behavior where negative values occur before x = 50,000.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Graph Crosses Mechanism",
+      "Profit Function Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Graph Crosses Mechanism",
+      "Mechanism",
+      "Profit Function Mechanism",
+      "negative value"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "no restriction",
+    "title": "no restriction",
+    "slug": "no-restriction",
+    "lang": "en",
+    "url": "/en/entity/no-restriction/",
+    "intro": "[no restriction|no restriction] The function f(x) = x^3 has an unrestricted domain because every real number has a cube root.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Applications",
+      "Examples"
+    ],
+    "keywords": [
+      "Applications",
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "no restriction"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "no solution",
+    "title": "no solution",
+    "slug": "no-solution",
+    "lang": "en",
+    "url": "/en/entity/no-solution/",
+    "intro": "[no solution|no solution] A system with no solution is graphically represented by three planes that lack a common point.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Examples",
+      "Absolute Value Causes",
+      "Graphically System"
+    ],
+    "keywords": [
+      "Absolute Value Causes",
+      "Causes",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Graphically System",
+      "Mechanism",
+      "no solution"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "non-negative integer",
+    "title": "non-negative integer",
+    "slug": "non-negative-integer",
+    "lang": "en",
+    "url": "/en/entity/non-negative-integer/",
+    "intro": "The entity [non-negative integer|non-negative integer] represents the exponent of the variable in a term of a polynomial function.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Polynomial Function",
+      "Power Function Mechanism",
+      "Term Coefficient"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Polynomial Function",
+      "Power Function Mechanism",
+      "Term Coefficient",
+      "non-negative integer"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "odd function",
+    "title": "odd function",
+    "slug": "odd-function",
+    "lang": "en",
+    "url": "/en/entity/odd-function/",
+    "intro": "[odd function|odd function] [odd function] is a function where f(−x) = −f(x), and its graph is symmetric about the origin.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Cosine Respectively Causes",
+      "Odd Quotient Causes"
+    ],
+    "keywords": [
+      "Causes",
+      "Cosine Respectively Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Odd Quotient Causes",
+      "odd function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "one equation",
+    "title": "one equation",
+    "slug": "one-equation",
+    "lang": "en",
+    "url": "/en/entity/one-equation/",
+    "intro": "[one equation|one equation] The equation is set equal to zero, requiring only one equation to be written.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Expression Inside Mechanism"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Examples",
+      "Expression Inside Mechanism",
+      "Mechanism",
+      "one equation"
+    ],
+    "render_mode": "normal"
+  },
+  {
+    "entity_id": "one function",
+    "title": "one function",
+    "slug": "one-function",
+    "lang": "en",
+    "url": "/en/entity/one-function/",
+    "intro": "[one function|one function] A one-to-one function is a function in which each output value corresponds to exactly one input value.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "One-to-one Function",
+      "One-to-one Function Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "One-to-one Function",
+      "One-to-one Function Mechanism",
+      "one function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "one half",
+    "title": "one half",
+    "slug": "one-half",
+    "lang": "en",
+    "url": "/en/entity/one-half/",
+    "intro": "[one half|one half] is one-half the diameter, equivalent to a radius of 2.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "one half"
+    ],
+    "render_mode": "minimal"
+  },
+  {
+    "entity_id": "one hour",
+    "title": "one hour",
+    "slug": "one-hour",
+    "lang": "en",
+    "url": "/en/entity/one-hour/",
+    "intro": "[one hour|one hour] After one hour (t = 1), the population doubles from 10 to 20.",
+    "section_titles": [
+      "Mechanism",
+      "Effects",
+      "Digital Film"
+    ],
+    "keywords": [
+      "Digital Film",
+      "Effects",
+      "Mechanism",
+      "one hour"
+    ],
+    "render_mode": "minimal"
+  },
+  {
+    "entity_id": "one line",
+    "title": "one line",
+    "slug": "one-line",
+    "lang": "en",
+    "url": "/en/entity/one-line/",
+    "intro": "[one line|one line] The slope of one line is the negative reciprocal of the other.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Line Slope",
+      "Line Slope Causes",
+      "Negative Reciprocal"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Line Slope",
+      "Line Slope Causes",
+      "Mechanism",
+      "Negative Reciprocal",
+      "one line"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "one method",
+    "title": "one method",
+    "slug": "one-method",
+    "lang": "en",
+    "url": "/en/entity/one-method/",
+    "intro": "[one method|one method] One method involves augmenting the 3×3 matrix by repeating the first two columns to form a 3×5 matrix.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Giving Matrix"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Giving Matrix",
+      "Mechanism",
+      "one method"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "one quantity",
+    "title": "one quantity",
+    "slug": "one-quantity",
+    "lang": "en",
+    "url": "/en/entity/one-quantity/",
+    "intro": "[one quantity|one quantity] Direct variation describes a relationship where one quantity is a constant multiplied by another quantity.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Constant Divided",
+      "Constant Multiplied",
+      "Constant Multiplied Mechanism"
+    ],
+    "keywords": [
+      "Constant Divided",
+      "Constant Multiplied",
+      "Constant Multiplied Mechanism",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "one quantity"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "one side",
+    "title": "one side",
+    "slug": "one-side",
+    "lang": "en",
+    "url": "/en/entity/one-side/",
+    "intro": "[one side|one side] refers to a side of an equation that is simplified to match the other side.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
       "Constraints"
     ],
     "keywords": [
@@ -1372,142 +3026,8 @@
       "Constraints",
       "Definition",
       "Effects",
-      "Examples",
-      "monopolistic competition"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "monopoly",
-    "title": "monopoly",
-    "slug": "monopoly",
-    "lang": "en",
-    "url": "/en/entity/monopoly/",
-    "intro": "monopoly arises when a single firm sells a product for which there are no close substitutes.",
-    "section_titles": [
-      "Definition",
       "Mechanism",
-      "Effects",
-      "Comparison",
-      "Examples",
-      "Effects on Price Taker",
-      "Effects on Total Quantity"
-    ],
-    "keywords": [
-      "Comparison",
-      "Definition",
-      "Effects",
-      "Effects on Price Taker",
-      "Effects on Total Quantity",
-      "Examples",
-      "Mechanism",
-      "monopoly"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "neoclassical perspective",
-    "title": "neoclassical perspective",
-    "slug": "neoclassical-perspective",
-    "lang": "en",
-    "url": "/en/entity/neoclassical-perspective/",
-    "intro": "[neoclassical perspective|neoclassical perspective] [neoclassical perspective] refers to a framework that examines economic phenomena, particularly highlighting that the short-run scenario is only the beginning of a chain of events.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Chain Beginning"
-    ],
-    "keywords": [
-      "Causes",
-      "Chain Beginning",
-      "Definition",
-      "Effects",
-      "Mechanism",
-      "neoclassical perspective"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "oligopoly",
-    "title": "oligopoly",
-    "slug": "oligopoly",
-    "lang": "en",
-    "url": "/en/entity/oligopoly/",
-    "intro": "oligopoly is a situation where a few firms sell most or all of the goods in a market.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Examples",
-      "Market Structure",
-      "Examples of Auto Industry"
-    ],
-    "keywords": [
-      "Causes",
-      "Definition",
-      "Effects",
-      "Examples",
-      "Examples of Auto Industry",
-      "Market Structure",
-      "Mechanism",
-      "oligopoly"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "one more unit",
-    "title": "one more unit",
-    "slug": "one-more-unit",
-    "lang": "en",
-    "url": "/en/entity/one-more-unit/",
-    "intro": "[one more unit|one more unit] Marginal cost refers to the cost incurred from producing one more unit of output.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Marginal Cost",
-      "Firm Marginal Mechanism",
-      "Producing Cost"
-    ],
-    "keywords": [
-      "Causes",
-      "Definition",
-      "Effects",
-      "Firm Marginal Mechanism",
-      "Marginal Cost",
-      "Mechanism",
-      "Producing Cost",
-      "one more unit"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "one reason",
-    "title": "one reason",
-    "slug": "one-reason",
-    "lang": "en",
-    "url": "/en/entity/one-reason/",
-    "intro": "[one reason|one reason] refers to the situation where Canadian workers earn slightly less compared to other countries, particularly in sectors like healthcare and insurance where costs are not tied to employment.",
-    "section_titles": [
-      "Definition",
-      "Causes",
-      "Effects",
-      "Comparison",
-      "Examples",
-      "Suffer Decline"
-    ],
-    "keywords": [
-      "Causes",
-      "Comparison",
-      "Definition",
-      "Effects",
-      "Examples",
-      "Suffer Decline",
-      "one reason"
+      "one side"
     ],
     "render_mode": "rich"
   },
@@ -1517,449 +3037,939 @@
     "slug": "one-variable",
     "lang": "en",
     "url": "/en/entity/one-variable/",
-    "intro": "[one variable|one variable] Elasticity is a concept in economics that quantifies how responsive one variable is to changes in another variable.",
+    "intro": "[one variable|one variable] The degree of a polynomial in one variable is determined by the highest exponent of that variable.",
     "section_titles": [
       "Definition",
       "Mechanism",
-      "Causes",
       "Effects",
-      "Comparison",
-      "Variable Change Mechanism"
+      "Examples",
+      "Effects on Equation Resulting",
+      "Highest Exponent",
+      "Linear Equation Mechanism"
     ],
     "keywords": [
-      "Causes",
-      "Comparison",
       "Definition",
       "Effects",
+      "Effects on Equation Resulting",
+      "Examples",
+      "Highest Exponent",
+      "Linear Equation Mechanism",
       "Mechanism",
-      "Variable Change Mechanism",
       "one variable"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "one year'",
-    "title": "one year'",
-    "slug": "one-year",
+    "entity_id": "one-to-one function",
+    "title": "one-to-one function",
+    "slug": "one-to-one-function",
     "lang": "en",
-    "url": "/en/entity/one-year/",
-    "intro": "[one year'|one year'] [one year'] refers to a period of one year, specifically noted in the context of bond payments where the expected payment one year from now is $1,080, including the final interest payment and repayment of the original $1,000.",
+    "url": "/en/entity/one-to-one-function/",
+    "intro": "[one-to-one function|one-to-one function] A one-to-one function is a function where each output value corresponds to exactly one input value.",
     "section_titles": [
       "Definition",
-      "Mechanism",
-      "Effects"
-    ],
-    "keywords": [
-      "Definition",
-      "Effects",
-      "Mechanism",
-      "one year'"
-    ],
-    "render_mode": "minimal"
-  },
-  {
-    "entity_id": "perceived demand curve",
-    "title": "perceived demand curve",
-    "slug": "perceived-demand-curve",
-    "lang": "en",
-    "url": "/en/entity/perceived-demand-curve/",
-    "intro": "[perceived demand curve|perceived demand curve] The perceived demand curve for a monopolistically competitive firm is downward-sloping, which shows it is a price maker and allows selection of price and quantity.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Comparison",
-      "Vertical Line Mechanism",
-      "Calculate Total Mechanism"
-    ],
-    "keywords": [
-      "Calculate Total Mechanism",
-      "Comparison",
-      "Definition",
-      "Effects",
-      "Mechanism",
-      "Vertical Line Mechanism",
-      "perceived demand curve"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "perfect competition",
-    "title": "perfect competition",
-    "slug": "perfect-competition",
-    "lang": "en",
-    "url": "/en/entity/perfect-competition/",
-    "intro": "[perfect competition|perfect competition] refers to a market structure where many sellers offer identical products, ensuring easy entry and exiting for firms.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Effects on Marginal Revenue",
-      "Price Taker Mechanism",
-      "Easy Entry"
-    ],
-    "keywords": [
-      "Causes",
-      "Definition",
-      "Easy Entry",
-      "Effects",
-      "Effects on Marginal Revenue",
-      "Mechanism",
-      "Price Taker Mechanism",
-      "perfect competition"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "phillips curve",
-    "title": "phillips curve",
-    "slug": "phillips-curve",
-    "lang": "en",
-    "url": "/en/entity/phillips-curve/",
-    "intro": "[phillips curve|phillips curve] [phillips curve] describes the inverse relationship between inflation and unemployment in the short run.",
-    "section_titles": [
-      "Causes",
-      "Effects",
-      "Comparison",
-      "Constraints",
-      "Aggregate Supply Causes",
-      "Downward-sloping Curve"
-    ],
-    "keywords": [
-      "Aggregate Supply Causes",
-      "Causes",
-      "Comparison",
-      "Constraints",
-      "Downward-sloping Curve",
-      "Effects",
-      "phillips curve"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "policy implication",
-    "title": "policy implication",
-    "slug": "policy-implication",
-    "lang": "en",
-    "url": "/en/entity/policy-implication/",
-    "intro": "[policy implication|policy implication] refers to the clear requirement that government needs to step in and close the gap.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Comparison",
-      "Applications",
-      "Increasing Spending"
-    ],
-    "keywords": [
-      "Applications",
-      "Causes",
-      "Comparison",
-      "Definition",
-      "Effects",
-      "Increasing Spending",
-      "Mechanism",
-      "policy implication"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "pollution",
-    "title": "pollution",
-    "slug": "pollution",
-    "lang": "en",
-    "url": "/en/entity/pollution/",
-    "intro": "A pollution charge is a tax imposed on the quantity of pollution that a firm emits.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Examples",
-      "Environmental Protection Mechanism",
-      "Pollution Charge",
-      "Effects on External Cost"
-    ],
-    "keywords": [
-      "Definition",
-      "Effects",
-      "Effects on External Cost",
-      "Environmental Protection Mechanism",
-      "Examples",
-      "Mechanism",
-      "Pollution Charge",
-      "pollution"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "pork barrel spending",
-    "title": "pork barrel spending",
-    "slug": "pork-barrel-spending",
-    "lang": "en",
-    "url": "/en/entity/pork-barrel-spending/",
-    "intro": "[pork barrel spending|pork barrel spending] Logrolling involves legislators agreeing to vote for a package of unrelated laws they individually favor.",
-    "section_titles": [
       "Mechanism",
       "Causes",
       "Effects"
     ],
     "keywords": [
       "Causes",
+      "Definition",
       "Effects",
       "Mechanism",
-      "pork barrel spending"
+      "one-to-one function"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "poverty",
-    "title": "poverty",
-    "slug": "poverty",
+    "entity_id": "open interval",
+    "title": "open interval",
+    "slug": "open-interval",
     "lang": "en",
-    "url": "/en/entity/poverty/",
-    "intro": "poverty is characterized by significantly higher rates among females, Hispanics, and African Americans compared to Whites.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Comparison",
-      "Constraints",
-      "African American",
-      "Poverty Trap Mechanism"
-    ],
-    "keywords": [
-      "African American",
-      "Comparison",
-      "Constraints",
-      "Definition",
-      "Effects",
-      "Mechanism",
-      "Poverty Trap Mechanism",
-      "poverty"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "poverty trap",
-    "title": "poverty trap",
-    "slug": "poverty-trap",
-    "lang": "en",
-    "url": "/en/entity/poverty-trap/",
-    "intro": "[poverty trap|poverty trap] [poverty trap] refers to a situation where economic gains from work are diminished by additional costs.",
+    "url": "/en/entity/open-interval/",
+    "intro": "[open interval|open interval] is a mathematical concept describing a set of values between two endpoints without including the endpoints.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Causes",
       "Effects",
+      "Effects on Local Maxima",
+      "Effects on Local Minimum",
+      "Local Maxima Causes"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Local Maxima",
+      "Effects on Local Minimum",
+      "Local Maxima Causes",
+      "Mechanism",
+      "open interval"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "opposite sign",
+    "title": "opposite sign",
+    "slug": "opposite-sign",
+    "lang": "en",
+    "url": "/en/entity/opposite-sign/",
+    "intro": "[opposite sign|opposite sign] The difference of squares is a special product resulting from multiplying a binomial by another binomial with the same terms but the opposite sign.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Constraints",
+      "Special Product",
+      "Special Product Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Special Product",
+      "Special Product Mechanism",
+      "opposite sign"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "ordered pair",
+    "title": "ordered pair",
+    "slug": "ordered-pair",
+    "lang": "en",
+    "url": "/en/entity/ordered-pair/",
+    "intro": "[ordered pair|ordered pair] is a mathematical concept representing two values, typically an x-coordinate and y-coordinate, used to locate a point in a coordinate system.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Each Pair",
+      "Input Value"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Each Pair",
+      "Input Value",
+      "Mechanism",
+      "ordered pair"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "outer function",
+    "title": "outer function",
+    "slug": "outer-function",
+    "lang": "en",
+    "url": "/en/entity/outer-function/",
+    "intro": "[outer function|outer function] The outer function receives the output from the inner function as its input.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Input Value",
+      "Input Value Causes",
+      "Input Value Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Effects on Input Value",
+      "Input Value Causes",
+      "Input Value Mechanism",
+      "Mechanism",
+      "outer function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "parallel line",
+    "title": "parallel line",
+    "slug": "parallel-line",
+    "lang": "en",
+    "url": "/en/entity/parallel-line/",
+    "intro": "[parallel line|parallel line] are defined by equations written in slope-intercept form.",
+    "section_titles": [
+      "Definition",
+      "Causes",
+      "Effects",
       "Comparison",
+      "Comparison with Unlike Parallel"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Comparison with Unlike Parallel",
+      "Definition",
+      "Effects",
+      "parallel line"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "parent function",
+    "title": "parent function",
+    "slug": "parent-function",
+    "lang": "en",
+    "url": "/en/entity/parent-function/",
+    "intro": "[parent function|parent function] The parent function refers to the base form of a function before any transformations are applied.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Comparison",
+      "Applications",
+      "Examples",
+      "Adding Constant",
+      "Vertical Shift"
+    ],
+    "keywords": [
+      "Adding Constant",
+      "Applications",
+      "Comparison",
+      "Definition",
+      "Examples",
+      "Mechanism",
+      "Vertical Shift",
+      "parent function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "percent grade",
+    "title": "percent grade",
+    "slug": "percent-grade",
+    "lang": "en",
+    "url": "/en/entity/percent-grade/",
+    "intro": "[percent grade|percent grade] A percent grade represents the proportion of points earned in an assignment or assessment.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Grade Point",
+      "Grade Point Causes"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Grade Point",
+      "Grade Point Causes",
+      "Mechanism",
+      "percent grade"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "perfect square",
+    "title": "perfect square",
+    "slug": "perfect-square",
+    "lang": "en",
+    "url": "/en/entity/perfect-square/",
+    "intro": "[perfect square|perfect square] [perfect square] refers to a number or expression that is the square of an integer or another expression.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Constraints",
+      "Examples of Square Difference"
+    ],
+    "keywords": [
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Examples of Square Difference",
+      "Mechanism",
+      "perfect square"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "perfect square trinomial",
+    "title": "perfect square trinomial",
+    "slug": "perfect-square-trinomial",
+    "lang": "en",
+    "url": "/en/entity/perfect-square-trinomial/",
+    "intro": "[perfect square trinomial|perfect square trinomial] [perfect square trinomial] is a trinomial that can be written as the square of a binomial.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
       "Constraints"
     ],
     "keywords": [
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "perfect square trinomial"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "periodic function",
+    "title": "periodic function",
+    "slug": "periodic-function",
+    "lang": "en",
+    "url": "/en/entity/periodic-function/",
+    "intro": "[periodic function|periodic function] is a function that repeats its values in regular intervals or periods.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
       "Causes",
+      "Effects",
+      "Function Equal",
+      "Sun Motion",
+      "Sun Motion Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Function Equal",
+      "Mechanism",
+      "Sun Motion",
+      "Sun Motion Mechanism",
+      "periodic function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "phase shift",
+    "title": "phase shift",
+    "slug": "phase-shift",
+    "lang": "en",
+    "url": "/en/entity/phase-shift/",
+    "intro": "[phase shift|phase shift] refers to a shift in phase, measured in units.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Sinusoidal Function Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Sinusoidal Function Mechanism",
+      "phase shift"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "piecewise function",
+    "title": "piecewise function",
+    "slug": "piecewise-function",
+    "lang": "en",
+    "url": "/en/entity/piecewise-function/",
+    "intro": "A piecewise function is a function in which more than one formula is used to define the output over different pieces of the domain.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Given Piecewise Mechanism"
+    ],
+    "keywords": [
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Given Piecewise Mechanism",
+      "Mechanism",
+      "piecewise function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "point p",
+    "title": "point p",
+    "slug": "point-p",
+    "lang": "en",
+    "url": "/en/entity/point-p/",
+    "intro": "[point p|point p] The definition of point p is its role as the initial point of a vector v, which is characterized by its coordinates (x1, y1).",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Initial Point",
+      "Initial Point Mechanism",
+      "Terminal Point"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Initial Point",
+      "Initial Point Mechanism",
+      "Mechanism",
+      "Terminal Point",
+      "point p"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "point-slope formula",
+    "title": "point-slope formula",
+    "slug": "point-slope-formula",
+    "lang": "en",
+    "url": "/en/entity/point-slope-formula/",
+    "intro": "[point-slope formula|point-slope formula] is a method for finding the equation of a line when the slope and a point on the line are known.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Given Point Mechanism",
+      "Next Step",
+      "Use Slope"
+    ],
+    "keywords": [
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Given Point Mechanism",
+      "Mechanism",
+      "Next Step",
+      "Use Slope",
+      "point-slope formula"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "polynomial expression",
+    "title": "polynomial expression",
+    "slug": "polynomial-expression",
+    "lang": "en",
+    "url": "/en/entity/polynomial-expression/",
+    "intro": "[polynomial expression|polynomial expression] A polynomial expression is a mathematical equation that contains variables and exponents.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Given Polynomial",
+      "Given Polynomial Causes",
+      "Polynomial Equation"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Given Polynomial",
+      "Given Polynomial Causes",
+      "Mechanism",
+      "Polynomial Equation",
+      "polynomial expression"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "polynomial function",
+    "title": "polynomial function",
+    "slug": "polynomial-function",
+    "lang": "en",
+    "url": "/en/entity/polynomial-function/",
+    "intro": "[polynomial function|polynomial function] is defined by its degree and leading coefficient.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "polynomial function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "positive constant",
+    "title": "positive constant",
+    "slug": "positive-constant",
+    "lang": "en",
+    "url": "/en/entity/positive-constant/",
+    "intro": "[positive constant|positive constant] A hyperbola is defined as the set of points in a plane where the difference of distances from two fixed points, known as foci, is a positive constant.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Exponential Function Mechanism",
+      "Point Set"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Exponential Function Mechanism",
+      "Mechanism",
+      "Point Set",
+      "positive constant"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "positive integer",
+    "title": "positive integer",
+    "slug": "positive-integer",
+    "lang": "en",
+    "url": "/en/entity/positive-integer/",
+    "intro": "A factorial represents the product of a positive integer and all smaller positive integers.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Comparison with Principal Th"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Comparison with Principal Th",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "positive integer"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "positive value",
+    "title": "positive value",
+    "slug": "positive-value",
+    "lang": "en",
+    "url": "/en/entity/positive-value/",
+    "intro": "[positive value|positive value] The mechanism involves solving by writing two equations.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Mechanism",
+      "positive value"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "possible outcome",
+    "title": "possible outcome",
+    "slug": "possible-outcome",
+    "lang": "en",
+    "url": "/en/entity/possible-outcome/",
+    "intro": "[possible outcome|possible outcome] The mechanism involves constructing a probability model that enumerates each possible outcome and links it to its associated probability.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Probability Model Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Mechanism",
+      "Probability Model Mechanism",
+      "possible outcome"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "power function",
+    "title": "power function",
+    "slug": "power-function",
+    "lang": "en",
+    "url": "/en/entity/power-function/",
+    "intro": "[power function|power function] is a mathematical function where a variable is raised to a constant real number exponent, expressed as f(x) = kx^n, where k is a coefficient and n is the exponent.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Real Number"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Real Number",
+      "power function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "preceding term",
+    "title": "preceding term",
+    "slug": "preceding-term",
+    "lang": "en",
+    "url": "/en/entity/preceding-term/",
+    "intro": "[preceding term|preceding term] is a recursive formula that defines each term of a sequence using the preceding term(s).",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Constraints",
+      "Recursive Formula",
+      "Recursive Formula Mechanism"
+    ],
+    "keywords": [
       "Comparison",
       "Constraints",
       "Definition",
       "Effects",
       "Mechanism",
-      "poverty trap"
+      "Recursive Formula",
+      "Recursive Formula Mechanism",
+      "preceding term"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "present discounted value",
-    "title": "present discounted value",
-    "slug": "present-discounted-value",
+    "entity_id": "pythagorean theorem",
+    "title": "pythagorean theorem",
+    "slug": "pythagorean-theorem",
     "lang": "en",
-    "url": "/en/entity/present-discounted-value/",
-    "intro": "[present discounted value|present discounted value] is a widely used analytical tool outside the world of finance.",
+    "url": "/en/entity/pythagorean-theorem/",
+    "intro": "[pythagorean theorem|pythagorean theorem] is based on a right triangle where a and b represent the lengths of the legs adjacent to the right angle, and c denotes the hypotenuse.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Causes",
-      "Comparison",
-      "Comparison with Physical Capital",
-      "Effects on Physical Capital"
+      "Effects",
+      "Examples",
+      "Distance Formula"
     ],
     "keywords": [
       "Causes",
-      "Comparison",
-      "Comparison with Physical Capital",
       "Definition",
-      "Effects on Physical Capital",
+      "Distance Formula",
+      "Effects",
+      "Examples",
       "Mechanism",
-      "present discounted value"
+      "pythagorean theorem"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "price ceiling",
-    "title": "price ceiling",
-    "slug": "price-ceiling",
+    "entity_id": "quadrant ii",
+    "title": "quadrant ii",
+    "slug": "quadrant-ii",
     "lang": "en",
-    "url": "/en/entity/price-ceiling/",
-    "intro": "[price ceiling|price ceiling] refers to a legal maximum price set for some good or service, which determines the highest amount one pays.",
+    "url": "/en/entity/quadrant-ii/",
+    "intro": "[quadrant ii|quadrant ii] is a quadrant where the reference angle is calculated as θ' ≈ π − 1.8235 ≈ 1.3181.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Reference Angle",
+      "Reference Angle",
+      "Reference Angle Causes"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Reference Angle",
+      "Mechanism",
+      "Reference Angle",
+      "Reference Angle Causes",
+      "quadrant ii"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "quadratic formula",
+    "title": "quadratic formula",
+    "slug": "quadratic-formula",
+    "lang": "en",
+    "url": "/en/entity/quadratic-formula/",
+    "intro": "[quadratic formula|quadratic formula] is a formula that will solve all quadratic equations.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Equation Cannot Mechanism",
+      "Quadratic Equation"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Equation Cannot Mechanism",
+      "Mechanism",
+      "Quadratic Equation",
+      "quadratic formula"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "quadratic function",
+    "title": "quadratic function",
+    "slug": "quadratic-function",
+    "lang": "en",
+    "url": "/en/entity/quadratic-function/",
+    "intro": "[quadratic function|quadratic function] [quadratic function] is a polynomial function characterized by its degree of two.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Effects",
       "Examples",
-      "Constraints",
-      "Legal Maximum"
+      "Effects on Determine Quadratic",
+      "Polynomial Function"
     ],
     "keywords": [
-      "Constraints",
+      "Definition",
+      "Effects",
+      "Effects on Determine Quadratic",
+      "Examples",
+      "Mechanism",
+      "Polynomial Function",
+      "quadratic function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "radian measure",
+    "title": "radian measure",
+    "slug": "radian-measure",
+    "lang": "en",
+    "url": "/en/entity/radian-measure/",
+    "intro": "[radian measure|radian measure] is a unitless measure representing the ratio of a circle's circumference to its radius.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Each Output Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Each Output Mechanism",
+      "Effects",
+      "Mechanism",
+      "radian measure"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "radical function",
+    "title": "radical function",
+    "slug": "radical-function",
+    "lang": "en",
+    "url": "/en/entity/radical-function/",
+    "intro": "[radical function|radical function] is a function defined by a radical expression.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Radical Domain",
+      "Objective Find Mechanism",
+      "Radical Domain Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Radical Domain",
+      "Mechanism",
+      "Objective Find Mechanism",
+      "Radical Domain Mechanism",
+      "radical function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "radius r",
+    "title": "radius r",
+    "slug": "radius-r",
+    "lang": "en",
+    "url": "/en/entity/radius-r/",
+    "intro": "[radius r|radius r] is a measure of distance from the center to the edge of a circle or sphere.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Radiu Circle",
+      "Radiu Circle Mechanism",
+      "Sphere Volume"
+    ],
+    "keywords": [
       "Definition",
       "Effects",
       "Examples",
-      "Legal Maximum",
       "Mechanism",
-      "price ceiling"
+      "Radiu Circle",
+      "Radiu Circle Mechanism",
+      "Sphere Volume",
+      "radius r"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "price elasticity",
-    "title": "price elasticity",
-    "slug": "price-elasticity",
+    "entity_id": "rational equation",
+    "title": "rational equation",
+    "slug": "rational-equation",
     "lang": "en",
-    "url": "/en/entity/price-elasticity/",
-    "intro": "Cross-price elasticity of demand measures the percentage change in quantity demanded of a good relative to the percentage change in the price of a related good.",
-    "section_titles": [
-      "Mechanism",
-      "Causes",
-      "Effects",
-      "Percentage Change",
-      "Cross Price Mechanism",
-      "Percent Change"
-    ],
-    "keywords": [
-      "Causes",
-      "Cross Price Mechanism",
-      "Effects",
-      "Mechanism",
-      "Percent Change",
-      "Percentage Change",
-      "price elasticity"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "price floor",
-    "title": "price floor",
-    "slug": "price-floor",
-    "lang": "en",
-    "url": "/en/entity/price-floor/",
-    "intro": "[price floor|price floor] A price floor represents the legally mandated minimum price for a good or service.",
+    "url": "/en/entity/rational-equation/",
+    "intro": "[rational equation|rational equation] is a mathematical equation containing rational expressions.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Causes",
-      "Effects",
-      "Constraints",
-      "Falling Below Constraints",
-      "Lowest Price"
+      "Effects"
     ],
     "keywords": [
       "Causes",
-      "Constraints",
       "Definition",
       "Effects",
-      "Falling Below Constraints",
-      "Lowest Price",
       "Mechanism",
-      "price floor"
+      "rational equation"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "producer surplu",
-    "title": "producer surplu",
-    "slug": "producer-surplu",
+    "entity_id": "rational function",
+    "title": "rational function",
+    "slug": "rational-function",
     "lang": "en",
-    "url": "/en/entity/producer-surplu/",
-    "intro": "[producer surplu|producer surplu] [producer surplu] with trade is represented as the area of a triangle formed by specific points.",
+    "url": "/en/entity/rational-function/",
+    "intro": "A rational function is a function that can be written as the quotient of two polynomial functions P ( x ) and Q ( x ).",
     "section_titles": [
+      "Definition",
       "Mechanism",
-      "Comparison",
+      "Effects",
       "Examples",
-      "Point Trade Mechanism",
-      "Examples of Point Trade",
-      "Comparison with Equilibrium Quantity"
+      "Effects on Likewise Rational",
+      "Given Rational Mechanism",
+      "Likewise Rational Mechanism"
     ],
     "keywords": [
-      "Comparison",
-      "Comparison with Equilibrium Quantity",
+      "Definition",
+      "Effects",
+      "Effects on Likewise Rational",
       "Examples",
-      "Examples of Point Trade",
+      "Given Rational Mechanism",
+      "Likewise Rational Mechanism",
       "Mechanism",
-      "Point Trade Mechanism",
-      "producer surplu"
+      "rational function"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "production possibilities frontier",
-    "title": "production possibilities frontier",
-    "slug": "production-possibilities-frontier",
+    "entity_id": "rational zero theorem",
+    "title": "rational zero theorem",
+    "slug": "rational-zero-theorem",
     "lang": "en",
-    "url": "/en/entity/production-possibilities-frontier/",
-    "intro": "[production possibilities frontier|production possibilities frontier] The production possibilities frontier is a diagram representing the maximum output combinations of two goods an economy can achieve given its resources and technology.",
+    "url": "/en/entity/rational-zero-theorem/",
+    "intro": "[rational zero theorem|rational zero theorem] states that for a polynomial with integer coefficients, every rational zero has the form p/q where p is a factor of the constant term and q is a factor of the leading coefficient.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Causes",
       "Effects",
-      "Constraints",
-      "Consumption Budget"
+      "Every Rational",
+      "Find Rational Causes",
+      "Polynomial Function Mechanism"
     ],
     "keywords": [
       "Causes",
-      "Constraints",
-      "Consumption Budget",
       "Definition",
       "Effects",
+      "Every Rational",
+      "Find Rational Causes",
       "Mechanism",
-      "production possibilities frontier"
+      "Polynomial Function Mechanism",
+      "rational zero theorem"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "productive efficiency",
-    "title": "productive efficiency",
-    "slug": "productive-efficiency",
+    "entity_id": "real-world application",
+    "title": "real-world application",
+    "slug": "real-world-application",
     "lang": "en",
-    "url": "/en/entity/productive-efficiency/",
-    "intro": "[productive efficiency|productive efficiency] refers to the state where, given the available inputs and technology, it is impossible to produce more of one good without reducing another.",
+    "url": "/en/entity/real-world-application/",
+    "intro": "[real-world application|real-world application] A linear equation models the real-world application by representing the cost structure.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Linear Equation",
+      "Linear Equation Causes",
+      "Linear Equation Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Effects on Linear Equation",
+      "Linear Equation Causes",
+      "Linear Equation Mechanism",
+      "Mechanism",
+      "real-world application"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "reasonable domain",
+    "title": "reasonable domain",
+    "slug": "reasonable-domain",
+    "lang": "en",
+    "url": "/en/entity/reasonable-domain/",
+    "intro": "[reasonable domain|reasonable domain] The domain represents the set of input values for which the function is defined.",
     "section_titles": [
       "Definition",
       "Mechanism",
+      "Causes",
       "Effects",
-      "Constraints",
-      "Allocative Efficiency Mechanism",
-      "Effects on Perfect Competition",
-      "Effects on Allocative Efficiency"
+      "Find Reasonable Mechanism",
+      "Input Value",
+      "Quadratic Formula Causes"
     ],
     "keywords": [
-      "Allocative Efficiency Mechanism",
-      "Constraints",
+      "Causes",
       "Definition",
       "Effects",
-      "Effects on Allocative Efficiency",
-      "Effects on Perfect Competition",
+      "Find Reasonable Mechanism",
+      "Input Value",
       "Mechanism",
-      "productive efficiency"
+      "Quadratic Formula Causes",
+      "reasonable domain"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "restricting import",
-    "title": "restricting import",
-    "slug": "restricting-import",
+    "entity_id": "reciprocal identity",
+    "title": "reciprocal identity",
+    "slug": "reciprocal-identity",
     "lang": "en",
-    "url": "/en/entity/restricting-import/",
-    "intro": "[restricting import|restricting import] refers to the practice of limiting the flow of goods into a country.",
+    "url": "/en/entity/reciprocal-identity/",
+    "intro": "[reciprocal identity|reciprocal identity] The reciprocal identity defines cotangent as 1 divided by tangent.",
     "section_titles": [
       "Definition",
       "Mechanism",
@@ -1973,41 +3983,259 @@
       "Definition",
       "Effects",
       "Mechanism",
-      "restricting import"
+      "reciprocal identity"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "ricardian equivalence",
-    "title": "ricardian equivalence",
-    "slug": "ricardian-equivalence",
+    "entity_id": "regression line",
+    "title": "regression line",
+    "slug": "regression-line",
     "lang": "en",
-    "url": "/en/entity/ricardian-equivalence/",
-    "intro": "[ricardian equivalence|ricardian equivalence] [ricardian equivalence] refers to the idea that private saving adjusts to offset any changes in the government budget.",
+    "url": "/en/entity/regression-line/",
+    "intro": "[regression line|regression line] is a line that represents the best fit for data points in a scatter plot.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Effects on Data Given",
+      "Scatter Plot"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Effects on Data Given",
+      "Examples",
+      "Mechanism",
+      "Scatter Plot",
+      "regression line"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "restricted domain",
+    "title": "restricted domain",
+    "slug": "restricted-domain",
+    "lang": "en",
+    "url": "/en/entity/restricted-domain/",
+    "intro": "[restricted domain|restricted domain] The restricted domain refers to a set of conventional choices that are somewhat arbitrary but possess important, helpful characteristics.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Constraints",
+      "Conventional Choice",
+      "Somewhat Arbitrary",
+      "Toolkit Function Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Constraints",
+      "Conventional Choice",
+      "Definition",
+      "Mechanism",
+      "Somewhat Arbitrary",
+      "Toolkit Function Mechanism",
+      "restricted domain"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "richter scale",
+    "title": "richter scale",
+    "slug": "richter-scale",
+    "lang": "en",
+    "url": "/en/entity/richter-scale/",
+    "intro": "[richter scale|richter scale] is a base-ten logarithmic scale used to measure the magnitudes of earthquakes.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison",
+      "Earthquake Magnitude Mechanism",
+      "Effects on Loma Prieta",
+      "Effects on San Francisco"
+    ],
+    "keywords": [
+      "Comparison",
+      "Definition",
+      "Earthquake Magnitude Mechanism",
+      "Effects",
+      "Effects on Loma Prieta",
+      "Effects on San Francisco",
+      "Mechanism",
+      "richter scale"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "right angle",
+    "title": "right angle",
+    "slug": "right-angle",
+    "lang": "en",
+    "url": "/en/entity/right-angle/",
+    "intro": "[right angle|right angle] is defined by two adjacent sides forming a 90-degree angle.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Causes",
       "Effects",
-      "Offset Exactly"
+      "Pythagorean Theorem Causes",
+      "Side Adjacent",
+      "Side Adjacent Mechanism"
     ],
     "keywords": [
       "Causes",
       "Definition",
       "Effects",
       "Mechanism",
-      "Offset Exactly",
-      "ricardian equivalence"
+      "Pythagorean Theorem Causes",
+      "Side Adjacent",
+      "Side Adjacent Mechanism",
+      "right angle"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "scarcity",
-    "title": "scarcity",
-    "slug": "scarcity",
+    "entity_id": "scalar multiple",
+    "title": "scalar multiple",
+    "slug": "scalar-multiple",
     "lang": "en",
-    "url": "/en/entity/scarcity/",
-    "intro": "scarcity refers to situations where human wants for goods and services surpass the available supply.",
+    "url": "/en/entity/scalar-multiple/",
+    "intro": "[scalar multiple|scalar multiple] A scalar multiple is a single entry in a matrix resulting from multiplying a matrix element by a scalar.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Effects on Matrix Entry",
+      "Matrix Entry"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Effects on Matrix Entry",
+      "Matrix Entry",
+      "Mechanism",
+      "scalar multiple"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "scalar multiplication",
+    "title": "scalar multiplication",
+    "slug": "scalar-multiplication",
+    "lang": "en",
+    "url": "/en/entity/scalar-multiplication/",
+    "intro": "[scalar multiplication|scalar multiplication] is a mathematical operation where a scalar is multiplied by each element of a matrix or vector, resulting in a new matrix or vector with scaled elements.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Matrix Entry",
+      "Matrix Entry",
+      "Scalar Multiple"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Matrix Entry",
+      "Matrix Entry",
+      "Mechanism",
+      "Scalar Multiple",
+      "scalar multiplication"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "section opener",
+    "title": "section opener",
+    "slug": "section-opener",
+    "lang": "en",
+    "url": "/en/entity/section-opener/",
+    "intro": "[section opener|section opener] presents an example where the parameter is time, t.",
+    "section_titles": [
+      "Definition",
+      "Effects",
+      "Radical Function"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Radical Function",
+      "section opener"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "set-builder notation",
+    "title": "set-builder notation",
+    "slug": "set-builder-notation",
+    "lang": "en",
+    "url": "/en/entity/set-builder-notation/",
+    "intro": "[set-builder notation|set-builder notation] Set-builder notation is a method for specifying a set of elements that satisfy a certain condition.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Element Set",
+      "Set Builder"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Element Set",
+      "Mechanism",
+      "Set Builder",
+      "set-builder notation"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "shorthand method",
+    "title": "shorthand method",
+    "slug": "shorthand-method",
+    "lang": "en",
+    "url": "/en/entity/shorthand-method/",
+    "intro": "[shorthand method|shorthand method] [shorthand method] refers to a method of writing numbers using notation that represents very small or very large values.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Examples of Synthetic Division",
+      "Function Notation",
+      "Very Small"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Examples",
+      "Examples of Synthetic Division",
+      "Function Notation",
+      "Mechanism",
+      "Very Small",
+      "shorthand method"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "simplified expression",
+    "title": "simplified expression",
+    "slug": "simplified-expression",
+    "lang": "en",
+    "url": "/en/entity/simplified-expression/",
+    "intro": "The task is to determine whether the simplified expression [simplified expression|simplified expression] is rational or irrational.",
     "section_titles": [
       "Definition",
       "Mechanism",
@@ -2019,49 +4247,227 @@
       "Definition",
       "Effects",
       "Mechanism",
-      "scarcity"
+      "simplified expression"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "short run",
-    "title": "short run",
-    "slug": "short-run",
+    "entity_id": "sine value",
+    "title": "sine value",
+    "slug": "sine-value",
     "lang": "en",
-    "url": "/en/entity/short-run/",
-    "intro": "[short run|short run] refers to a period of time in which at least some factors of production are fixed.",
+    "url": "/en/entity/sine-value/",
+    "intro": "[sine value|sine value] The sine value corresponds to the y-coordinate on the unit circle.",
     "section_titles": [
       "Definition",
-      "Mechanism",
+      "Causes",
       "Effects",
       "Constraints",
-      "Effects on Long-run Average"
+      "Effects on Each Solution",
+      "Unit Circle",
+      "Unit Circle Causes"
     ],
     "keywords": [
+      "Causes",
       "Constraints",
       "Definition",
       "Effects",
-      "Effects on Long-run Average",
-      "Mechanism",
-      "short run"
+      "Effects on Each Solution",
+      "Unit Circle",
+      "Unit Circle Causes",
+      "sine value"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "stronger dollar",
-    "title": "stronger dollar",
-    "slug": "stronger-dollar",
+    "entity_id": "sinusoidal function",
+    "title": "sinusoidal function",
+    "slug": "sinusoidal-function",
     "lang": "en",
-    "url": "/en/entity/stronger-dollar/",
-    "intro": "[stronger dollar|stronger dollar] refers to a situation where the U.S.",
+    "url": "/en/entity/sinusoidal-function/",
+    "intro": "[sinusoidal function|sinusoidal function] is a mathematical function that describes periodic oscillations.",
     "section_titles": [
       "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Given Sinusoidal Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Given Sinusoidal Mechanism",
+      "Mechanism",
+      "sinusoidal function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "slope formula",
+    "title": "slope formula",
+    "slug": "slope-formula",
+    "lang": "en",
+    "url": "/en/entity/slope-formula/",
+    "intro": "[slope formula|slope formula] is a mathematical formula used to calculate the slope of a line between two points.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Line Slope",
+      "Linear Slope"
+    ],
+    "keywords": [
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Line Slope",
+      "Linear Slope",
+      "Mechanism",
+      "slope formula"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "slope intercept form",
+    "title": "slope intercept form",
+    "slug": "slope-intercept-form",
+    "lang": "en",
+    "url": "/en/entity/slope-intercept-form/",
+    "intro": "[slope intercept form|slope intercept form] The mechanism of slope intercept form involves expressing equations by rearranging them to isolate the y-variable.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Mechanism",
+      "slope intercept form"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "special angle",
+    "title": "special angle",
+    "slug": "special-angle",
+    "lang": "en",
+    "url": "/en/entity/special-angle/",
+    "intro": "[special angle|special angle] To evaluate trigonometric functions of a special angle, side lengths are used as the basis for calculation.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Examples"
+    ],
+    "keywords": [
+      "Causes",
+      "Examples",
+      "Mechanism",
+      "special angle"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "square inch",
+    "title": "square inch",
+    "slug": "square-inch",
+    "lang": "en",
+    "url": "/en/entity/square-inch/",
+    "intro": "[square inch|square inch] is a unit of area representing one inch by one inch.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Atmospheric Pressure",
+      "Atmospheric Pressure Mechanism",
+      "Pound Per Mechanism"
+    ],
+    "keywords": [
+      "Atmospheric Pressure",
+      "Atmospheric Pressure Mechanism",
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Pound Per Mechanism",
+      "square inch"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "square root function",
+    "title": "square root function",
+    "slug": "square-root-function",
+    "lang": "en",
+    "url": "/en/entity/square-root-function/",
+    "intro": "[square root function|square root function] is the inverse of the squaring function, similar to how subtraction is the inverse of addition.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Each Input",
+      "Effects on Each Output",
+      "Function Inverse",
+      "Toolkit Square Mechanism"
+    ],
+    "keywords": [
+      "Definition",
+      "Each Input",
+      "Effects",
+      "Effects on Each Output",
+      "Function Inverse",
+      "Mechanism",
+      "Toolkit Square Mechanism",
+      "square root function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "square root property",
+    "title": "square root property",
+    "slug": "square-root-property",
+    "lang": "en",
+    "url": "/en/entity/square-root-property/",
+    "intro": "[square root property|square root property] [square root property] refers to applying it to solve quadratic equations.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Constraints",
+      "Quadratic Equation",
+      "Quadratic Equation Constraints"
+    ],
+    "keywords": [
+      "Causes",
+      "Constraints",
+      "Definition",
+      "Mechanism",
+      "Quadratic Equation",
+      "Quadratic Equation Constraints",
+      "square root property"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "squares formula",
+    "title": "squares formula",
+    "slug": "squares-formula",
+    "lang": "en",
+    "url": "/en/entity/squares-formula/",
+    "intro": "[squares formula|squares formula] is a mathematical identity representing the product of a binomial difference and sum, expressed as a² − b² = (a − b)(a + b).",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
       "Causes",
       "Effects",
       "Comparison",
       "Examples",
-      "Investment Abroad",
-      "People Working"
+      "Grouping Process Mechanism"
     ],
     "keywords": [
       "Causes",
@@ -2069,174 +4475,339 @@
       "Definition",
       "Effects",
       "Examples",
-      "Investment Abroad",
-      "People Working",
-      "stronger dollar"
+      "Grouping Process Mechanism",
+      "Mechanism",
+      "squares formula"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "supply side",
-    "title": "supply side",
-    "slug": "supply-side",
+    "entity_id": "standard form",
+    "title": "standard form",
+    "slug": "standard-form",
     "lang": "en",
-    "url": "/en/entity/supply-side/",
-    "intro": "[supply side|supply side] refers to entities in the foreign exchange market seeking to convert earnings from U.S.",
+    "url": "/en/entity/standard-form/",
+    "intro": "[standard form|standard form] The standard form is useful for determining how the graph is transformed from the graph of y = x 2.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Line Equation Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Line Equation Mechanism",
+      "Mechanism",
+      "standard form"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "standard form equation",
+    "title": "standard form equation",
+    "slug": "standard-form-equation",
+    "lang": "en",
+    "url": "/en/entity/standard-form-equation/",
+    "intro": "[standard form equation|standard form equation] The standard form equation represents the ellipse's equation in a structured format.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Causes",
       "Effects",
       "Comparison",
-      "Constraints",
-      "Bilateral Monopoly"
+      "Applications",
+      "Examples"
     ],
     "keywords": [
-      "Bilateral Monopoly",
+      "Applications",
       "Causes",
       "Comparison",
-      "Constraints",
       "Definition",
       "Effects",
+      "Examples",
       "Mechanism",
-      "supply side"
+      "standard form equation"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "taxation",
-    "title": "taxation",
-    "slug": "taxation",
+    "entity_id": "straight path",
+    "title": "straight path",
+    "slug": "straight-path",
     "lang": "en",
-    "url": "/en/entity/taxation/",
-    "intro": "taxation Taxation is a core component of fiscal policy, which involves government decisions on spending, borrowing, and taxation.",
+    "url": "/en/entity/straight-path/",
+    "intro": "[straight path|straight path] Linear speed refers to the rate at which an object moves along a straight path.",
     "section_titles": [
       "Definition",
+      "Mechanism",
       "Causes",
       "Effects",
-      "Fiscal Policy",
-      "Fiscal Policy Mechanism",
-      "Macroeconomic Policy"
+      "Effects on Resultant Vector",
+      "Linear Speed",
+      "Steady Rate Mechanism"
     ],
     "keywords": [
       "Causes",
       "Definition",
       "Effects",
-      "Fiscal Policy",
-      "Fiscal Policy Mechanism",
-      "Macroeconomic Policy",
-      "taxation"
+      "Effects on Resultant Vector",
+      "Linear Speed",
+      "Mechanism",
+      "Steady Rate Mechanism",
+      "straight path"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "trade balance",
-    "title": "trade balance",
-    "slug": "trade-balance",
+    "entity_id": "stretch factor",
+    "title": "stretch factor",
+    "slug": "stretch-factor",
     "lang": "en",
-    "url": "/en/entity/trade-balance/",
-    "intro": "[trade balance|trade balance] refers to the difference between exports and imports.",
-    "section_titles": [
-      "Definition",
-      "Causes",
-      "Effects",
-      "Merchandise Trade Mechanism",
-      "Merchandise Trade"
-    ],
-    "keywords": [
-      "Causes",
-      "Definition",
-      "Effects",
-      "Merchandise Trade",
-      "Merchandise Trade Mechanism",
-      "trade balance"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "trade policy",
-    "title": "trade policy",
-    "slug": "trade-policy",
-    "lang": "en",
-    "url": "/en/entity/trade-policy/",
-    "intro": "[trade policy|trade policy] affects the ability of countries to set independent trade rules outside free trade associations.",
-    "section_titles": [
-      "Causes",
-      "Effects",
-      "Constraints",
-      "Free Trade Constraints",
-      "Effects on Free Trade"
-    ],
-    "keywords": [
-      "Causes",
-      "Constraints",
-      "Effects",
-      "Effects on Free Trade",
-      "Free Trade Constraints",
-      "trade policy"
-    ],
-    "render_mode": "normal"
-  },
-  {
-    "entity_id": "tradeoff",
-    "title": "tradeoff",
-    "slug": "tradeoff",
-    "lang": "en",
-    "url": "/en/entity/tradeoff/",
-    "intro": "tradeoff A tradeoff arises for all countries, whether high-income or low-income, and whether their economies are market-oriented or command-oriented.",
+    "url": "/en/entity/stretch-factor/",
+    "intro": "[stretch factor|stretch factor] is a scalar value that determines the vertical scaling of a function.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Effects",
       "Examples",
-      "Supply Curve Mechanism",
-      "Examples of Indifference Curve"
+      "Also Reflection",
+      "Stretch Based",
+      "Vertical Stretch"
     ],
     "keywords": [
+      "Also Reflection",
       "Definition",
       "Effects",
       "Examples",
-      "Examples of Indifference Curve",
       "Mechanism",
-      "Supply Curve Mechanism",
-      "tradeoff"
+      "Stretch Based",
+      "Vertical Stretch",
+      "stretch factor"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "unemployment",
-    "title": "unemployment",
-    "slug": "unemployment",
+    "entity_id": "subsequent term",
+    "title": "subsequent term",
+    "slug": "subsequent-term",
     "lang": "en",
-    "url": "/en/entity/unemployment/",
-    "intro": "unemployment refers to the state of being without a job during periods of recession and depression, when unemployment is high.",
-    "section_titles": [
-      "Definition",
-      "Mechanism",
-      "Effects",
-      "Constraints"
-    ],
-    "keywords": [
-      "Constraints",
-      "Definition",
-      "Effects",
-      "Mechanism",
-      "unemployment"
-    ],
-    "render_mode": "rich"
-  },
-  {
-    "entity_id": "voting cycle",
-    "title": "voting cycle",
-    "slug": "voting-cycle",
-    "lang": "en",
-    "url": "/en/entity/voting-cycle/",
-    "intro": "[voting cycle|voting cycle] occurs in a situation with at least three choices.",
+    "url": "/en/entity/subsequent-term/",
+    "intro": "[subsequent term|subsequent term] is the value added to a term in an arithmetic sequence to produce the subsequent term.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Causes",
       "Effects",
+      "Comparison",
+      "Applications",
+      "Number Added"
+    ],
+    "keywords": [
+      "Applications",
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Number Added",
+      "subsequent term"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "surface area s",
+    "title": "surface area s",
+    "slug": "surface-area-s",
+    "lang": "en",
+    "url": "/en/entity/surface-area-s/",
+    "intro": "[surface area s|surface area s] [surface area s] is calculated using the formula S = 2 π r ( r + h ) for a right circular cylinder.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Mechanism",
+      "surface area s"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "synthetic division",
+    "title": "synthetic division",
+    "slug": "synthetic-division",
+    "lang": "en",
+    "url": "/en/entity/synthetic-division/",
+    "intro": "[synthetic division|synthetic division] is a shortcut method employed when dividing a polynomial by a binomial in the form x − k, where k is a real number.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "synthetic division"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "terminal side",
+    "title": "terminal side",
+    "slug": "terminal-side",
+    "lang": "en",
+    "url": "/en/entity/terminal-side/",
+    "intro": "[terminal side|terminal side] is the side of an angle where the rotation ends.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Reference Angle",
+      "Same Terminal",
+      "Standard Position Mechanism"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Examples",
+      "Mechanism",
+      "Reference Angle",
+      "Same Terminal",
+      "Standard Position Mechanism",
+      "terminal side"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "three term",
+    "title": "three term",
+    "slug": "three-term",
+    "lang": "en",
+    "url": "/en/entity/three-term/",
+    "intro": "[three term|three term] A trinomial is a three term polynomial.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Comparison",
+      "Applications"
+    ],
+    "keywords": [
+      "Applications",
+      "Causes",
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "three term"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "three-by-three",
+    "title": "three-by-three",
+    "slug": "three-by-three",
+    "lang": "en",
+    "url": "/en/entity/three-by-three/",
+    "intro": "three-by-three refers to a system of three equations with three variables.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Three System",
+      "Three System Mechanism",
+      "Three Variable"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Three System",
+      "Three System Mechanism",
+      "Three Variable",
+      "three-by-three"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "three-by-three system",
+    "title": "three-by-three system",
+    "slug": "three-by-three-system",
+    "lang": "en",
+    "url": "/en/entity/three-by-three-system/",
+    "intro": "[three-by-three system|three-by-three system] A mathematical framework representing solutions as ordered triples { ( x , y , z ) } through elimination of variables to achieve upper triangular form, enabling back-substitution for variable solution.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Ordered Triple",
+      "Three System",
+      "Three System Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "Ordered Triple",
+      "Three System",
+      "Three System Mechanism",
+      "three-by-three system"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "time t",
+    "title": "time t",
+    "slug": "time-t",
+    "lang": "en",
+    "url": "/en/entity/time-t/",
+    "intro": "[time t|time t] represents time in the projectile motion equation h(t) = −4.9t² + 18t + 40 and the investment growth formula A(t) = a e^(rt).",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Decay Rate Mechanism",
+      "Interest Percentage Mechanism",
+      "Time Height"
+    ],
+    "keywords": [
+      "Decay Rate Mechanism",
+      "Definition",
+      "Effects",
+      "Examples",
+      "Interest Percentage Mechanism",
+      "Mechanism",
+      "Time Height",
+      "time t"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "total distance",
+    "title": "total distance",
+    "slug": "total-distance",
+    "lang": "en",
+    "url": "/en/entity/total-distance/",
+    "intro": "[total distance|total distance] refers to the cumulative measurement of the path traveled.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
       "Applications",
       "Examples"
     ],
@@ -2244,37 +4815,440 @@
       "Applications",
       "Causes",
       "Definition",
-      "Effects",
       "Examples",
       "Mechanism",
-      "voting cycle"
+      "total distance"
     ],
     "render_mode": "rich"
   },
   {
-    "entity_id": "zero elasticity",
-    "title": "zero elasticity",
-    "slug": "zero-elasticity",
+    "entity_id": "trigonometric equation",
+    "title": "trigonometric equation",
+    "slug": "trigonometric-equation",
     "lang": "en",
-    "url": "/en/entity/zero-elasticity/",
-    "intro": "[zero elasticity|zero elasticity] refers to the extreme case where a percentage change in price, no matter how large, results in zero change in quantity.",
+    "url": "/en/entity/trigonometric-equation/",
+    "intro": "[trigonometric equation|trigonometric equation] A trigonometric equation involves solving for an angle using trigonometric functions.",
     "section_titles": [
       "Definition",
       "Mechanism",
       "Effects",
+      "Examples",
+      "Given Trigonometric Mechanism",
+      "Solve Exactly",
+      "Solve Trigonometric"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Examples",
+      "Given Trigonometric Mechanism",
+      "Mechanism",
+      "Solve Exactly",
+      "Solve Trigonometric",
+      "trigonometric equation"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "trigonometric expression",
+    "title": "trigonometric expression",
+    "slug": "trigonometric-expression",
+    "lang": "en",
+    "url": "/en/entity/trigonometric-expression/",
+    "intro": "[trigonometric expression|trigonometric expression] A trigonometric expression can be represented in multiple ways.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Effects on Maximum Value",
+      "Square Difference Mechanism",
+      "Trigonometric Identity"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Effects on Maximum Value",
+      "Examples",
+      "Mechanism",
+      "Square Difference Mechanism",
+      "Trigonometric Identity",
+      "trigonometric expression"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "trigonometric function",
+    "title": "trigonometric function",
+    "slug": "trigonometric-function",
+    "lang": "en",
+    "url": "/en/entity/trigonometric-function/",
+    "intro": "[trigonometric function|trigonometric function] The maximum value of the trigonometric function occurs when θ equals π/2 plus or minus 2kπ.",
+    "section_titles": [
+      "Effects",
+      "Examples",
+      "Constraints",
+      "Effects on Maximum Value"
+    ],
+    "keywords": [
+      "Constraints",
+      "Effects",
+      "Effects on Maximum Value",
+      "Examples",
+      "trigonometric function"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "true statement",
+    "title": "true statement",
+    "slug": "true-statement",
+    "lang": "en",
+    "url": "/en/entity/true-statement/",
+    "intro": "[true statement|true statement] The true statement 0 = 0 indicates a dependent system with infinitely many solutions.",
+    "section_titles": [
+      "Definition",
+      "Causes",
+      "Effects",
+      "Examples",
+      "Dependent System",
+      "Effects on Original Equation",
+      "Real Value"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Dependent System",
+      "Effects",
+      "Effects on Original Equation",
+      "Examples",
+      "Real Value",
+      "true statement"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "two expression",
+    "title": "two expression",
+    "slug": "two-expression",
+    "lang": "en",
+    "url": "/en/entity/two-expression/",
+    "intro": "[two expression|two expression] These values are identified through results derived from mathematical principles.",
+    "section_titles": [
+      "Effects",
+      "Examples",
+      "Constraints",
+      "Effects on Equation True"
+    ],
+    "keywords": [
+      "Constraints",
+      "Effects",
+      "Effects on Equation True",
+      "Examples",
+      "two expression"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "two function",
+    "title": "two function",
+    "slug": "two-function",
+    "lang": "en",
+    "url": "/en/entity/two-function/",
+    "intro": "[two function|two function] Function composition differs from multiplication, as demonstrated by the evidence that in most cases f ( g ( x ) ) ≠ f ( x ) g ( x ).",
+    "section_titles": [
+      "Effects",
+      "Constraints",
+      "Confuse Function Constraints",
+      "Effects on Confuse Function"
+    ],
+    "keywords": [
+      "Confuse Function Constraints",
+      "Constraints",
+      "Effects",
+      "Effects on Confuse Function",
+      "two function"
+    ],
+    "render_mode": "normal"
+  },
+  {
+    "entity_id": "upper limit",
+    "title": "upper limit",
+    "slug": "upper-limit",
+    "lang": "en",
+    "url": "/en/entity/upper-limit/",
+    "intro": "[upper limit|upper limit] denotes the final value in a summation index, denoting the highest index value for the summation process.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Constraints",
+      "Logistic Regression",
+      "Logistic Regression Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Logistic Regression",
+      "Logistic Regression Mechanism",
+      "Mechanism",
+      "upper limit"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "upper triangular form",
+    "title": "upper triangular form",
+    "slug": "upper-triangular-form",
+    "lang": "en",
+    "url": "/en/entity/upper-triangular-form/",
+    "intro": "[upper triangular form|upper triangular form] The goal is to eliminate one variable at a time to achieve upper triangular form, which is the ideal form for a three-by-three system.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Examples",
+      "Effects on Ordered Triple",
+      "Ideal Form",
+      "Ordered Triple"
+    ],
+    "keywords": [
+      "Definition",
+      "Effects",
+      "Effects on Ordered Triple",
+      "Examples",
+      "Ideal Form",
+      "Mechanism",
+      "Ordered Triple",
+      "upper triangular form"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "variable cost",
+    "title": "variable cost",
+    "slug": "variable-cost",
+    "lang": "en",
+    "url": "/en/entity/variable-cost/",
+    "intro": "[variable cost|variable cost] refers to costs that change with the level of production.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
       "Applications",
       "Examples",
-      "Effects on Constant Unitary"
+      "Marginal Cost",
+      "Monthly Service Mechanism"
     ],
     "keywords": [
       "Applications",
+      "Causes",
       "Definition",
-      "Effects",
-      "Effects on Constant Unitary",
       "Examples",
+      "Marginal Cost",
       "Mechanism",
-      "zero elasticity"
+      "Monthly Service Mechanism",
+      "variable cost"
     ],
     "render_mode": "rich"
+  },
+  {
+    "entity_id": "variable term",
+    "title": "variable term",
+    "slug": "variable-term",
+    "lang": "en",
+    "url": "/en/entity/variable-term/",
+    "intro": "[variable term|variable term] is raised to the reciprocal of the exponent to eliminate the exponent on the variable term.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Mechanism",
+      "variable term"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "vertical line",
+    "title": "vertical line",
+    "slug": "vertical-line",
+    "lang": "en",
+    "url": "/en/entity/vertical-line/",
+    "intro": "[vertical line|vertical line] The vertical line has length 2y, and since the sides are all equal, we can also conclude that r = 2y or y = 1/2 r.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Effects",
+      "Comparison"
+    ],
+    "keywords": [
+      "Comparison",
+      "Definition",
+      "Effects",
+      "Mechanism",
+      "vertical line"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "vertical line test",
+    "title": "vertical line test",
+    "slug": "vertical-line-test",
+    "lang": "en",
+    "url": "/en/entity/vertical-line-test/",
+    "intro": "[vertical line test|vertical line test] The vertical line test is a method used in the following exercises to determine which graphs represent functions.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Constraints",
+      "Graph Each Constraints"
+    ],
+    "keywords": [
+      "Causes",
+      "Constraints",
+      "Definition",
+      "Effects",
+      "Graph Each Constraints",
+      "Mechanism",
+      "vertical line test"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "vertical reflection",
+    "title": "vertical reflection",
+    "slug": "vertical-reflection",
+    "lang": "en",
+    "url": "/en/entity/vertical-reflection/",
+    "intro": "[vertical reflection|vertical reflection] is a transformation that negates the output values of a function, creating a mirror image across the x-axis.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Each Output",
+      "Original Output"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Each Output",
+      "Effects",
+      "Mechanism",
+      "Original Output",
+      "vertical reflection"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "vertical stretch",
+    "title": "vertical stretch",
+    "slug": "vertical-stretch",
+    "lang": "en",
+    "url": "/en/entity/vertical-stretch/",
+    "intro": "[vertical stretch|vertical stretch] refers to a transformation where the graph of a function is scaled vertically by a specified factor.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Determine Vertical Mechanism",
+      "Effects on Determine Vertical",
+      "Horizontal Reflection"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Determine Vertical Mechanism",
+      "Effects",
+      "Effects on Determine Vertical",
+      "Horizontal Reflection",
+      "Mechanism",
+      "vertical stretch"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "viewing window",
+    "title": "viewing window",
+    "slug": "viewing-window",
+    "lang": "en",
+    "url": "/en/entity/viewing-window/",
+    "intro": "[viewing window|viewing window] refers to the range of x-values displayed on a graphing utility when graphing functions.",
+    "section_titles": [
+      "Definition",
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on Corresponding Range",
+      "Graph Sin Mechanism",
+      "Graphing Utility"
+    ],
+    "keywords": [
+      "Causes",
+      "Definition",
+      "Effects",
+      "Effects on Corresponding Range",
+      "Graph Sin Mechanism",
+      "Graphing Utility",
+      "Mechanism",
+      "viewing window"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "x coordinate",
+    "title": "x coordinate",
+    "slug": "x-coordinate",
+    "lang": "en",
+    "url": "/en/entity/x-coordinate/",
+    "intro": "[x coordinate|x coordinate] To determine new coordinates for shifted functions, subtract c from the x coordinate.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects",
+      "Effects on New Coordinate",
+      "New Coordinate Causes",
+      "New Coordinate Mechanism"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Effects on New Coordinate",
+      "Mechanism",
+      "New Coordinate Causes",
+      "New Coordinate Mechanism",
+      "x coordinate"
+    ],
+    "render_mode": "rich"
+  },
+  {
+    "entity_id": "y value",
+    "title": "y value",
+    "slug": "y-value",
+    "lang": "en",
+    "url": "/en/entity/y-value/",
+    "intro": "[y value|y value] The inverse of a function is found by swapping the x-values and y-values in its ordered pairs.",
+    "section_titles": [
+      "Mechanism",
+      "Causes",
+      "Effects"
+    ],
+    "keywords": [
+      "Causes",
+      "Effects",
+      "Mechanism",
+      "y value"
+    ],
+    "render_mode": "minimal"
   }
 ]

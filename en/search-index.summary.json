@@ -1,15 +1,15 @@
 {
   "ok": true,
   "script": "search_index_builder_v1.py",
-  "input_file": "src/content/ssot/en/openstax_econ_2e/entity_pages.linked.v1.jsonl",
-  "out_file": "site/en/search-index.json",
+  "input_file": "src\\content\\ssot\\en\\Algebra_and_Trigonometry__cnx-org-col11758\\entity_pages.concept_filtered.plainlinked.v1.jsonl",
+  "out_file": "site\\en\\search-index.json",
   "lang": "en",
-  "total_index_rows": 89,
+  "total_index_rows": 202,
   "skipped_rows": 0,
   "render_mode_counts": {
-    "rich": 86,
-    "minimal": 2,
-    "normal": 1
+    "rich": 194,
+    "normal": 4,
+    "minimal": 4
   },
-  "created_at": "2026-04-29T22:21:57.569375"
+  "created_at": "2026-05-03T10:56:03.407053"
 }

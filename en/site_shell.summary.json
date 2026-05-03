@@ -7,13 +7,12 @@
   "source_index": "",
   "created": [],
   "updated": [
+    "site\\en\\index.html",
     "site\\en\\about\\index.html",
     "site\\en\\privacy\\index.html",
     "site\\en\\contact\\index.html"
   ],
-  "preserved": [
-    "site\\en\\index.html"
-  ],
+  "preserved": [],
   "copied": [],
   "errors": [],
   "pages": [
@@ -22,5 +21,5 @@
     "/en/privacy/",
     "/en/contact/"
   ],
-  "created_at": "2026-04-30T04:52:12.513086"
+  "created_at": "2026-05-03T10:53:12.433241"
 }
