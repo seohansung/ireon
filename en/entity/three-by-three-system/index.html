@@ -1,0 +1,283 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>three-by-three system | Ireon</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="[three-by-three system|three-by-three system] A mathematical framework representing solutions as ordered triples { ( x , y , z ) } through elimination of v">
+  <link rel="canonical" href="/en/entity/three-by-three-system/">
+  <style>
+    :root {
+      --bg: #f7f7f4;
+      --paper: #ffffff;
+      --ink: #181818;
+      --muted: #666666;
+      --line: #e5e2da;
+      --accent: #263f73;
+      --soft: #eef2ff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.65;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(38, 63, 115, 0.25);
+    }
+
+    a:hover {
+      border-bottom-color: var(--accent);
+    }
+
+    .site-header {
+      border-bottom: 1px solid var(--line);
+      background: rgba(255, 255, 255, 0.82);
+      backdrop-filter: blur(8px);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .site-header-inner {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 14px 20px;
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      align-items: center;
+    }
+
+    .brand {
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      color: var(--ink);
+      border: 0;
+    }
+
+    .nav-link {
+      color: var(--muted);
+      border: 0;
+      font-size: 14px;
+      margin-left: 14px;
+    }
+
+    .page {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 36px 20px 80px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 280px;
+      gap: 28px;
+    }
+
+    .hero {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 30px;
+      margin-bottom: 20px;
+      box-shadow: 0 12px 40px rgba(0,0,0,0.04);
+    }
+
+    .eyebrow {
+      color: var(--muted);
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 8px;
+    }
+
+    h1 {
+      margin: 0 0 12px;
+      font-size: clamp(34px, 5vw, 58px);
+      line-height: 1.03;
+      letter-spacing: -0.055em;
+    }
+
+    .intro {
+      margin: 0;
+      font-size: 18px;
+      color: #333;
+      max-width: 760px;
+    }
+
+    .section-card {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 24px;
+      margin-bottom: 16px;
+    }
+
+    .section-meta {
+      display: inline-block;
+      font-size: 12px;
+      color: var(--accent);
+      background: var(--soft);
+      border-radius: 999px;
+      padding: 4px 10px;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    h2 {
+      margin: 0 0 10px;
+      font-size: 24px;
+      letter-spacing: -0.03em;
+      line-height: 1.2;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 76px;
+      height: max-content;
+    }
+
+    .related-card,
+    .toc-card {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 18px;
+      margin-bottom: 16px;
+    }
+
+    .related-card h2,
+    .toc-card h2 {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 18px;
+    }
+
+    li {
+      margin: 7px 0;
+    }
+
+    .footer {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 30px 20px 50px;
+      color: var(--muted);
+      border-top: 1px solid var(--line);
+      font-size: 14px;
+    }
+
+    @media (max-width: 860px) {
+      .page {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        position: static;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="brand" href="/en/">Ireon</a>
+      <div>
+        <a class="nav-link" href="/en/">All concepts</a>
+        <a class="nav-link" href="/en/about/">About</a>
+        <a class="nav-link" href="/en/privacy/">Privacy</a>
+        <a class="nav-link" href="/en/contact/">Contact</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="page">
+    <article>
+      <header class="hero">
+        <div class="eyebrow">rich entity page</div>
+        <h1>three-by-three system</h1>
+        <p class="intro">[three-by-three system|three-by-three system] A mathematical framework representing solutions as ordered triples { ( x , y , z ) } through elimination of variables to achieve upper triangular form, enabling back-substitution for variable solution.</p>
+      </header>
+
+      <section class="section-card" data-role="definition">
+  <div class="section-meta">definition</div>
+  <h2>Definition</h2>
+  <p><a href="/en/entity/three-by-three">three-by-three</a> system A mathematical framework representing solutions as ordered triples { ( x , y , z ) } through <a href="/en/entity/elimination">elimination</a> of variables to achieve <a href="/en/entity/upper-triangular-form">upper triangular form</a>, enabling back-substitution for variable solution.</p>
+</section>
+
+<section class="section-card" data-role="mechanism">
+  <div class="section-meta">mechanism</div>
+  <h2>Mechanism</h2>
+  <p><a href="/en/entity/three-by-three">three-by-three</a> system The three-by-three system employs a process of eliminating variables sequentially to transform the system into <a href="/en/entity/upper-triangular-form">upper triangular form</a>. This structured approach allows for efficient back-substitution, ultimately yielding the solution set as an ordered triple (x, y, z).</p>
+</section>
+
+<section class="section-card" data-role="causes">
+  <div class="section-meta">causes</div>
+  <h2>Causes</h2>
+  <p>three-by-three system involves eliminating variables sequentially to achieve upper triangular form, enabling back-substitution for solving the system.</p>
+</section>
+
+<section class="section-card" data-role="effects">
+  <div class="section-meta">effects</div>
+  <h2>Effects</h2>
+  <p>three-by-three system The three-by-three system requires eliminating <a href="/en/entity/one-variable">one variable</a> at a time to achieve upper triangular form, enabling straightforward back-substitution for solving (x, y, z). This method is more efficient for two-by-two systems with fewer steps, but the three-by-three system involves more complex processes. Eliminating variables in a three-by-three system directly impacts the solution&#x27;s structure as an ordered triple. The process affects the time needed to solve the system, increasing complexity compared to simpler systems. Variable <a href="/en/entity/elimination">elimination</a> in this system ensures the final form allows for systematic solution derivation.</p>
+</section>
+
+<section class="section-card" data-role="other">
+  <div class="section-meta">other</div>
+  <h2>Ordered Triple</h2>
+  <p>three-by-three system is a method that represents solutions as ordered triples (x, y, z). It uses row operations to eliminate variables, resulting in an upper triangular matrix. This structure enables back-substitution to solve the system step-by-step.</p>
+</section>
+
+<section class="section-card" data-role="other">
+  <div class="section-meta">other</div>
+  <h2>Three System</h2>
+  <p>The three-by-three system is defined by its solution set, which consists of an ordered triple { ( x , y , z ) } . This structure represents the three variables involved in the system. Each solution is uniquely identified by the ordered arrangement of these variables.</p>
+</section>
+
+<section class="section-card" data-role="other">
+  <div class="section-meta">other</div>
+  <h2>Three System Mechanism</h2>
+  <p>three-by-three system The three-by-three system requires solving for an ordered triple { ( x , y , z ) } as its solution set. This structure ensures each variable is uniquely determined within the system. The ordered nature of the triple reflects the system&#x27;s requirement for precise coordination among variables.</p>
+</section>
+    </article>
+
+    <aside class="sidebar">
+      <div class="toc-card">
+  <h2>Sections</h2>
+  <ul>
+    <li>Definition <span style='color:#777'>(definition)</span></li><li>Mechanism <span style='color:#777'>(mechanism)</span></li><li>Causes <span style='color:#777'>(causes)</span></li><li>Effects <span style='color:#777'>(effects)</span></li><li>Ordered Triple <span style='color:#777'>(other)</span></li><li>Three System <span style='color:#777'>(other)</span></li><li>Three System Mechanism <span style='color:#777'>(other)</span></li>
+  </ul>
+</div>
+      <aside class="related-card">
+  <h2>Related concepts</h2>
+  <ul>
+    <li><a href="/en/entity/elimination/">elimination</a></li>
+<li><a href="/en/entity/one-variable/">one variable</a></li>
+<li><a href="/en/entity/three-by-three/">three-by-three</a></li>
+<li><a href="/en/entity/upper-triangular-form/">upper triangular form</a></li>
+  </ul>
+</aside>
+    </aside>
+  </main>
+
+  <footer class="footer">
+    Generated by Ireon static entity renderer.
+  </footer>
+</body>
+</html>
