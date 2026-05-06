@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>initial guess | Ireon</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="[initial guess|initial guess] Newton&#x27;s method defines each subsequent approximation in terms of the previous one using the same formula.">
+  <link rel="canonical" href="/en/entity/initial-guess/">
+  <style>
+    :root {
+      --bg: #f7f7f4;
+      --paper: #ffffff;
+      --ink: #181818;
+      --muted: #666666;
+      --line: #e5e2da;
+      --accent: #263f73;
+      --soft: #eef2ff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.65;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(38, 63, 115, 0.25);
+    }
+
+    a:hover {
+      border-bottom-color: var(--accent);
+    }
+
+    .site-header {
+      border-bottom: 1px solid var(--line);
+      background: rgba(255, 255, 255, 0.82);
+      backdrop-filter: blur(8px);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .site-header-inner {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 14px 20px;
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      align-items: center;
+    }
+
+    .brand {
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      color: var(--ink);
+      border: 0;
+    }
+
+    .nav-link {
+      color: var(--muted);
+      border: 0;
+      font-size: 14px;
+      margin-left: 14px;
+    }
+
+    .page {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 36px 20px 80px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 280px;
+      gap: 28px;
+    }
+
+    .hero {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 30px;
+      margin-bottom: 20px;
+      box-shadow: 0 12px 40px rgba(0,0,0,0.04);
+    }
+
+    .eyebrow {
+      color: var(--muted);
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 8px;
+    }
+
+    h1 {
+      margin: 0 0 12px;
+      font-size: clamp(34px, 5vw, 58px);
+      line-height: 1.03;
+      letter-spacing: -0.055em;
+    }
+
+    .intro {
+      margin: 0;
+      font-size: 18px;
+      color: #333;
+      max-width: 760px;
+    }
+
+    .section-card {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 24px;
+      margin-bottom: 16px;
+    }
+
+    .section-meta {
+      display: inline-block;
+      font-size: 12px;
+      color: var(--accent);
+      background: var(--soft);
+      border-radius: 999px;
+      padding: 4px 10px;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    h2 {
+      margin: 0 0 10px;
+      font-size: 24px;
+      letter-spacing: -0.03em;
+      line-height: 1.2;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 76px;
+      height: max-content;
+    }
+
+    .related-card,
+    .toc-card {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 18px;
+      margin-bottom: 16px;
+    }
+
+    .related-card h2,
+    .toc-card h2 {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 18px;
+    }
+
+    li {
+      margin: 7px 0;
+    }
+
+    .footer {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 30px 20px 50px;
+      color: var(--muted);
+      border-top: 1px solid var(--line);
+      font-size: 14px;
+    }
+
+    @media (max-width: 860px) {
+      .page {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        position: static;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="brand" href="/en/">Ireon</a>
+      <div>
+        <a class="nav-link" href="/en/">All concepts</a>
+        <a class="nav-link" href="/en/about/">About</a>
+        <a class="nav-link" href="/en/privacy/">Privacy</a>
+        <a class="nav-link" href="/en/contact/">Contact</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="page">
+    <article>
+      <header class="hero">
+        <div class="eyebrow">rich entity page</div>
+        <h1>initial guess</h1>
+        <p class="intro">[initial guess|initial guess] Newton&#x27;s method defines each subsequent approximation in terms of the previous one using the same formula.</p>
+      </header>
+
+      <section class="section-card" data-role="definition">
+  <div class="section-meta">definition</div>
+  <h2>Definition</h2>
+  <p>initial guess <a href="/en/entity/newton-s-method">Newton&#x27;s method</a> defines each subsequent approximation in terms of the previous one using the same formula. The initial guess must not be the exact root. When applying the method, the approximation is calculated based on the function&#x27;s value and derivative at the current estimate. The process iteratively refines the guess until convergence. Each iteration relies on the prior approximation to generate the next one.</p>
+</section>
+
+<section class="section-card" data-role="mechanism">
+  <div class="section-meta">mechanism</div>
+  <h2>Mechanism</h2>
+  <p>initial guess In Example 4.49, the initial guess xq produces a list of numbers that converges to a finite value through the function F. Example 4.48 demonstrates that an initial guess xg leads to successive approximations oscillating <a href="/en/entity/between-two">between two</a> values without converging to a root. Both examples show how different initial guesses affect the behavior of the function&#x27;s approximations. The resulting list in Example 4.49 contrasts with the alternating pattern in Example 4.48, highlighting variations in convergence outcomes.</p>
+</section>
+
+<section class="section-card" data-role="causes">
+  <div class="section-meta">causes</div>
+  <h2>Causes</h2>
+  <p>initial guess In Example 4.49, the initial guess xq and function F generate a list of numbers that approach a finite value. The resulting sequence demonstrates how the function&#x27;s behavior influences the convergence of the list. This example illustrates the relationship between the initial guess and the function&#x27;s output in achieving a finite limit.</p>
+</section>
+
+<section class="section-card" data-role="effects">
+  <div class="section-meta">effects</div>
+  <h2>Effects</h2>
+  <p>initial guess The entity or sub-topic influences the behavior of successive approximations in numerical methods. In Example 4.48, an initial guess xg leads to alternating values <a href="/en/entity/between-two">between two</a> points, preventing convergence. Example 4.49 demonstrates a scenario where the resulting list of numbers converges to a finite value with an initial guess xq. These examples illustrate how different initial guesses can result in distinct outcomes. The function&#x27;s properties determine whether the approximations approach a root or oscillate between values.</p>
+</section>
+
+<section class="section-card" data-role="other">
+  <div class="section-meta">other</div>
+  <h2>Choose Initial</h2>
+  <p>The entity initial guess is defined by its exact root, which must be excluded from the initial guess. The initial guess is chosen to avoid the exact root. The entity initial guess requires an initial guess that is not the exact root.</p>
+</section>
+
+<section class="section-card" data-role="other">
+  <div class="section-meta">other</div>
+  <h2>Effects on Function Example</h2>
+  <p>initial guess In Example 4.49, the function F with initial guess xq produces a list of numbers that approach a finite value. Example 4.48 shows a function and initial guess xg where successive approximations alternate <a href="/en/entity/between-two">between two</a> values without converging to a root. These examples demonstrate how different initial guesses can result in distinct behaviors of the function&#x27;s approximations.</p>
+</section>
+
+<section class="section-card" data-role="other">
+  <div class="section-meta">other</div>
+  <h2>Newton Method</h2>
+  <p>initial guess The Newton method is a numerical approximation technique that refines each guess based on the previous one. It uses the formula derived from the function&#x27;s derivative to calculate the next approximation. This method is particularly effective when the initial guess is close to the actual root. The process iteratively improves the estimate by applying the same formula repeatedly. Each iteration depends on the function&#x27;s behavior at the current approximation point.</p>
+</section>
+    </article>
+
+    <aside class="sidebar">
+      <div class="toc-card">
+  <h2>Sections</h2>
+  <ul>
+    <li>Definition <span style='color:#777'>(definition)</span></li><li>Mechanism <span style='color:#777'>(mechanism)</span></li><li>Causes <span style='color:#777'>(causes)</span></li><li>Effects <span style='color:#777'>(effects)</span></li><li>Choose Initial <span style='color:#777'>(other)</span></li><li>Effects on Function Example <span style='color:#777'>(other)</span></li><li>Newton Method <span style='color:#777'>(other)</span></li>
+  </ul>
+</div>
+      <aside class="related-card">
+  <h2>Related concepts</h2>
+  <ul>
+    <li><a href="/en/entity/between-two/">between two</a></li>
+<li><a href="/en/entity/newton-s-method/">newton&#x27;s method</a></li>
+  </ul>
+</aside>
+    </aside>
+  </main>
+
+  <footer class="footer">
+    Generated by Ireon static entity renderer.
+  </footer>
+</body>
+</html>
