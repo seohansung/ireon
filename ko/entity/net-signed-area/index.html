@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <title>net signed area | Ireon</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="net signed area는 f(x)와 x축 사이의 적분으로, b ∫ f(x)dx = A, - Ap 형태로 표현됩니다. 이 값은 정적분의 구성 요소에 따라 양수, 음수 또는 0일 수 있습니다. 피적분 함수, 적분 변수 및 적분 한계는 이 개념의 핵심 요소입니다.">
+  <link rel="canonical" href="/ko/entity/net-signed-area/">
+  <script src="/assets/search.multilang.js"></script>
+  <script src="/assets/search.multilang.ui.js"></script>
+  <link rel="alternate" hreflang="en" href="/en/entity/net_signed_area/">
+  <link rel="alternate" hreflang="ko" href="/ko/entity/net-signed-area/">
+  <link rel="alternate" hreflang="es" href="/es/entity/net-signed-area/">
+  <link rel="alternate" hreflang="fr" href="/fr/entity/net-signed-area/">
+  <link rel="alternate" hreflang="id" href="/id/entity/net-signed-area/">
+  <link rel="alternate" hreflang="pt" href="/pt/entity/net-signed-area/">
+  <style>
+    :root {
+      --bg: #f7f7f4;
+      --paper: #ffffff;
+      --ink: #181818;
+      --muted: #666666;
+      --line: #e5e2da;
+      --accent: #263f73;
+      --soft: #eef2ff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.65;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(38, 63, 115, 0.25);
+    }
+
+    a:hover {
+      border-bottom-color: var(--accent);
+    }
+
+    .site-header {
+      border-bottom: 1px solid var(--line);
+      background: rgba(255, 255, 255, 0.82);
+      backdrop-filter: blur(8px);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .site-header-inner {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 14px 20px;
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      align-items: center;
+    }
+
+    .brand {
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      color: var(--ink);
+      border: 0;
+    }
+
+    .nav-link {
+      color: var(--muted);
+      border: 0;
+      font-size: 14px;
+      margin-left: 14px;
+    }
+
+    .page {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 36px 20px 80px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 280px;
+      gap: 28px;
+    }
+
+    .hero {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 30px;
+      margin-bottom: 20px;
+      box-shadow: 0 12px 40px rgba(0,0,0,0.04);
+    }
+
+    .eyebrow {
+      color: var(--muted);
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 8px;
+    }
+
+    h1 {
+      margin: 0 0 12px;
+      font-size: clamp(34px, 5vw, 58px);
+      line-height: 1.03;
+      letter-spacing: -0.055em;
+    }
+
+    .intro {
+      margin: 0;
+      font-size: 18px;
+      color: #333;
+      max-width: 760px;
+    }
+
+    .section-card {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 24px;
+      margin-bottom: 16px;
+    }
+
+    .section-meta {
+      display: inline-block;
+      font-size: 12px;
+      color: var(--accent);
+      background: var(--soft);
+      border-radius: 999px;
+      padding: 4px 10px;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    h2 {
+      margin: 0 0 10px;
+      font-size: 24px;
+      letter-spacing: -0.03em;
+      line-height: 1.2;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 76px;
+      height: max-content;
+    }
+
+    .related-card,
+    .toc-card {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 18px;
+      margin-bottom: 16px;
+    }
+
+    .related-card h2,
+    .toc-card h2 {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 18px;
+    }
+
+    li {
+      margin: 7px 0;
+    }
+
+    .footer {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 30px 20px 50px;
+      color: var(--muted);
+      border-top: 1px solid var(--line);
+      font-size: 14px;
+    }
+
+    @media (max-width: 860px) {
+      .page {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        position: static;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="brand" href="/ko/">Ireon</a>
+      <div>
+        <a class="nav-link" href="/ko/">All concepts</a>
+        <a class="nav-link" href="/ko/about/">About</a>
+        <a class="nav-link" href="/ko/privacy/">Privacy</a>
+        <a class="nav-link" href="/ko/contact/">Contact</a>
+        <a class="nav-link" href="/en/entity/net_signed_area/">EN</a> <a class="nav-link" href="/ko/entity/net-signed-area/">KO</a> <a class="nav-link" href="/es/entity/net-signed-area/">ES</a> <a class="nav-link" href="/fr/entity/net-signed-area/">FR</a> <a class="nav-link" href="/id/entity/net-signed-area/">ID</a> <a class="nav-link" href="/pt/entity/net-signed-area/">PT</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="page">
+    <article>
+      <header class="hero">
+        <div class="eyebrow">rich entity page · KO</div>
+        <h1>net signed area</h1>
+        <p class="intro">net signed area는 f(x)와 x축 사이의 적분으로, b ∫ f(x)dx = A, - Ap 형태로 표현됩니다. 이 값은 정적분의 구성 요소에 따라 양수, 음수 또는 0일 수 있습니다. 피적분 함수, 적분 변수 및 적분 한계는 이 개념의 핵심 요소입니다.</p>
+      </header>
+
+      <section class="section-card" data-role="definition">
+  <div class="section-meta">definition</div>
+  <h2>정의</h2>
+  <p>net signed area는 f(x)와 x축 사이의 적분으로, b ∫ f(x)dx = A, - Ap 형태로 표현됩니다. 이 값은 정적분의 구성 요소에 따라 양수, 음수 또는 0일 수 있습니다. 피적분 함수, 적분 변수 및 적분 한계는 이 개념의 핵심 요소입니다.</p>
+</section>
+
+<section class="section-card" data-role="mechanism">
+  <div class="section-meta">mechanism</div>
+  <h2>기작</h2>
+  <p>net signed area는 축 위쪽 지역과 아래쪽 지역을 더함으로써 총 면적을 계산합니다. 이 접근법은 정적분 계산에서 아래쪽 지역을 뺄 것인지와는 대비되는 방식입니다. 그래픽적으로는 모든 지역을 양의 기여로 간주함으로써 이해를 단순화합니다.</p>
+</section>
+
+<section class="section-card" data-role="effects">
+  <div class="section-meta">effects</div>
+  <h2>영향</h2>
+  <p>net signed area는 속도-시간 그래프 아래의 네트워크 서명 영역을 나타내며, 이는 자동차의 총 이동 거리를 계산합니다. 이 계산은 속도 함수를 시간에 대해 통합하여 이루어지며, 총 이동 거리는 240 단위입니다. 이 방법은 양수 및 음수 속도 모두를 고려하여, 총 이동 거리의 정확한 측정을 보장합니다.</p>
+</section>
+
+<section class="section-card" data-role="comparison">
+  <div class="section-meta">comparison</div>
+  <h2>비교</h2>
+  <p>net signed area는 축 아래 영역을 어떻게 계산하는지가 총 면적과 차이납니다. 총 면적은 축 위와 아래의 모든 영역을 더하지만, net signed area는 축 아래 영역을 뺍니다. 그래픽적으로 이 구분은 계산 시 뺄셈 단계를 피할 수 있어 net signed area를 더 쉽게 계산할 수 있도록 합니다. 핵심적인 차이점은 축 아래 영역이 더해지는지 아니면 뺄셈되는지에 있으며, 이 차이는 최종 결과에 영향을 미칩니다. net signed area는 총 크기 대신 순수한 값을 제공합니다.</p>
+</section>
+
+<section class="section-card" data-role="constraints">
+  <div class="section-meta">constraints</div>
+  <h2>제약 조건</h2>
+  <p>net signed area 넷 서명된 면적은 면적이 항상 양수임에도 불구하고 음수 값을 반환할 수 있습니다. 특정 조건에서 정적분은 음수 값을 생성할 수 있습니다. 이는 함수의 출력이 구간 내에서 대부분 음수일 때 발생합니다.</p>
+</section>
+    </article>
+
+    <aside class="sidebar">
+      <div class="toc-card">
+  <h2>Sections</h2>
+  <ul>
+    <li>정의 <span style='color:#777'>(definition)</span></li><li>기작 <span style='color:#777'>(mechanism)</span></li><li>영향 <span style='color:#777'>(effects)</span></li><li>비교 <span style='color:#777'>(comparison)</span></li><li>제약 조건 <span style='color:#777'>(constraints)</span></li>
+  </ul>
+</div>
+      <aside class="related-card">
+  <h2>Related concepts</h2>
+  <ul>
+    <li><a href="/ko/entity/velocity-function/">velocity function</a></li>
+<li><a href="/ko/entity/total-distance/">total distance</a></li>
+  </ul>
+</aside>
+    </aside>
+  </main>
+
+  <footer class="footer">
+    Generated by Ireon multilingual static entity renderer.
+    Sections: 5/5.
+  </footer>
+</body>
+</html>

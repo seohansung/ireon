@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <title>net signed area | Ireon</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="net signed area adalah integrasi antara f(x) dan sumbu-x, dinyatakan sebagai ∫baf(x)dx = A, - Ap. Nilainya dapat positif, negatif, atau nol, tergantung pad">
+  <link rel="canonical" href="/id/entity/net-signed-area/">
+  <script src="/assets/search.multilang.js"></script>
+  <script src="/assets/search.multilang.ui.js"></script>
+  <link rel="alternate" hreflang="en" href="/en/entity/net_signed_area/">
+  <link rel="alternate" hreflang="ko" href="/ko/entity/net-signed-area/">
+  <link rel="alternate" hreflang="es" href="/es/entity/net-signed-area/">
+  <link rel="alternate" hreflang="fr" href="/fr/entity/net-signed-area/">
+  <link rel="alternate" hreflang="id" href="/id/entity/net-signed-area/">
+  <link rel="alternate" hreflang="pt" href="/pt/entity/net-signed-area/">
+  <style>
+    :root {
+      --bg: #f7f7f4;
+      --paper: #ffffff;
+      --ink: #181818;
+      --muted: #666666;
+      --line: #e5e2da;
+      --accent: #263f73;
+      --soft: #eef2ff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.65;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(38, 63, 115, 0.25);
+    }
+
+    a:hover {
+      border-bottom-color: var(--accent);
+    }
+
+    .site-header {
+      border-bottom: 1px solid var(--line);
+      background: rgba(255, 255, 255, 0.82);
+      backdrop-filter: blur(8px);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .site-header-inner {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 14px 20px;
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      align-items: center;
+    }
+
+    .brand {
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      color: var(--ink);
+      border: 0;
+    }
+
+    .nav-link {
+      color: var(--muted);
+      border: 0;
+      font-size: 14px;
+      margin-left: 14px;
+    }
+
+    .page {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 36px 20px 80px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 280px;
+      gap: 28px;
+    }
+
+    .hero {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 30px;
+      margin-bottom: 20px;
+      box-shadow: 0 12px 40px rgba(0,0,0,0.04);
+    }
+
+    .eyebrow {
+      color: var(--muted);
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 8px;
+    }
+
+    h1 {
+      margin: 0 0 12px;
+      font-size: clamp(34px, 5vw, 58px);
+      line-height: 1.03;
+      letter-spacing: -0.055em;
+    }
+
+    .intro {
+      margin: 0;
+      font-size: 18px;
+      color: #333;
+      max-width: 760px;
+    }
+
+    .section-card {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 24px;
+      margin-bottom: 16px;
+    }
+
+    .section-meta {
+      display: inline-block;
+      font-size: 12px;
+      color: var(--accent);
+      background: var(--soft);
+      border-radius: 999px;
+      padding: 4px 10px;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    h2 {
+      margin: 0 0 10px;
+      font-size: 24px;
+      letter-spacing: -0.03em;
+      line-height: 1.2;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .sidebar {
+      position: sticky;
+      top: 76px;
+      height: max-content;
+    }
+
+    .related-card,
+    .toc-card {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 18px;
+      margin-bottom: 16px;
+    }
+
+    .related-card h2,
+    .toc-card h2 {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 18px;
+    }
+
+    li {
+      margin: 7px 0;
+    }
+
+    .footer {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 30px 20px 50px;
+      color: var(--muted);
+      border-top: 1px solid var(--line);
+      font-size: 14px;
+    }
+
+    @media (max-width: 860px) {
+      .page {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        position: static;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a class="brand" href="/id/">Ireon</a>
+      <div>
+        <a class="nav-link" href="/id/">All concepts</a>
+        <a class="nav-link" href="/id/about/">About</a>
+        <a class="nav-link" href="/id/privacy/">Privacy</a>
+        <a class="nav-link" href="/id/contact/">Contact</a>
+        <a class="nav-link" href="/en/entity/net_signed_area/">EN</a> <a class="nav-link" href="/ko/entity/net-signed-area/">KO</a> <a class="nav-link" href="/es/entity/net-signed-area/">ES</a> <a class="nav-link" href="/fr/entity/net-signed-area/">FR</a> <a class="nav-link" href="/id/entity/net-signed-area/">ID</a> <a class="nav-link" href="/pt/entity/net-signed-area/">PT</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="page">
+    <article>
+      <header class="hero">
+        <div class="eyebrow">rich entity page · ID</div>
+        <h1>net signed area</h1>
+        <p class="intro">net signed area adalah integrasi antara f(x) dan sumbu-x, dinyatakan sebagai ∫baf(x)dx = A, - Ap. Nilainya dapat positif, negatif, atau nol, tergantung pada bagian-bagian dari integral tentu. Integran, variabel integrasi</p>
+      </header>
+
+      <section class="section-card" data-role="definition">
+  <div class="section-meta">definition</div>
+  <h2>Definisi</h2>
+  <p>net signed area adalah integrasi antara f(x) dan sumbu-x, dinyatakan sebagai ∫baf(x)dx = A, - Ap. Nilainya dapat positif, negatif, atau nol, tergantung pada bagian-bagian dari integral tentu. Integran, variabel integrasi, dan batas integrasi adalah elemen utama dari konsep ini.</p>
+</section>
+
+<section class="section-card" data-role="mechanism">
+  <div class="section-meta">mechanism</div>
+  <h2>Mekanisme</h2>
+  <p>net signed area menghitung total area dengan menambahkan daerah di atas sumbu dan daerah di bawahnya. Pendekatan ini berbeda dengan mengurangkan daerah di bawah sumbu, seperti yang terlihat dalam perhitungan net signed area. Secara grafis, metode ini menyederhanakan pemahaman dengan menganggap semua daerah sebagai kontribusi positif.</p>
+</section>
+
+<section class="section-card" data-role="effects">
+  <div class="section-meta">effects</div>
+  <h2>Efek</h2>
+  <p>Luas tanda berikutnya mewakili luas tanda berikutnya di bawah grafik kecepatan-waktu, yang menghitung jarak total yang ditempuh mobil. Perhitungan ini melibatkan proses integrasi fungsi kecepatan terhadap waktu, menghasilkan jarak total sebesar 240 satuan. Metode ini mempertimbangkan baik kecepatan positif maupun negatif, memastikan pengukuran jarak total yang akurat.</p>
+</section>
+
+<section class="section-card" data-role="comparison">
+  <div class="section-meta">comparison</div>
+  <h2>Perbandingan</h2>
+  <p>net signed area berbeda dari luas total karena cara menghitung daerah di bawah sumbu. Sementara luas total menambahkan semua daerah di atas dan di bawah sumbu, net signed area mengurangi daerah di bawah sumbu. Secara grafis, perbedaan ini membuat net signed area lebih mudah dihitung karena menghindari langkah pengurangan. Perbedaan utama terletak pada apakah daerah di bawah sumbu ditambahkan atau dikurangi. Perbedaan ini mempengaruhi hasil akhir, dengan net signed area memberikan nilai bersih daripada besaran total.</p>
+</section>
+
+<section class="section-card" data-role="constraints">
+  <div class="section-meta">constraints</div>
+  <h2>Ketentuan</h2>
+  <p>net signed area Nilai net signed area dapat negatif meskipun area itu sendiri selalu positif. Integral tentu dapat menghasilkan bilangan negatif dalam kondisi tertentu. Hal ini terjadi ketika output fungsi secara dominan negatif dalam interval tertentu.</p>
+</section>
+    </article>
+
+    <aside class="sidebar">
+      <div class="toc-card">
+  <h2>Sections</h2>
+  <ul>
+    <li>Definisi <span style='color:#777'>(definition)</span></li><li>Mekanisme <span style='color:#777'>(mechanism)</span></li><li>Efek <span style='color:#777'>(effects)</span></li><li>Perbandingan <span style='color:#777'>(comparison)</span></li><li>Ketentuan <span style='color:#777'>(constraints)</span></li>
+  </ul>
+</div>
+      <aside class="related-card">
+  <h2>Related concepts</h2>
+  <ul>
+    <li><a href="/id/entity/velocity-function/">velocity function</a></li>
+<li><a href="/id/entity/total-distance/">total distance</a></li>
+  </ul>
+</aside>
+    </aside>
+  </main>
+
+  <footer class="footer">
+    Generated by Ireon multilingual static entity renderer.
+    Sections: 5/5.
+  </footer>
+</body>
+</html>

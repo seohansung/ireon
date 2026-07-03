@@ -1,1795 +1,2352 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/absolute-advantage/</loc>
+    <loc>/en/entity/absolute-extrema/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/absolute-extrema/</loc>
+    <loc>/en/entity/absolute-value-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/absolute-value-function/</loc>
+    <loc>/en/entity/algebraic-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/aggregate-demand/</loc>
+    <loc>/en/entity/area-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/aggregate-production-function/</loc>
+    <loc>/en/entity/average-value/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/aggregate-supply/</loc>
+    <loc>/en/entity/cell-phone/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/algebraic-equation/</loc>
+    <loc>/en/entity/chain-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/algebraic-function/</loc>
+    <loc>/en/entity/closed-bounded-interval/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/algebraic-operation/</loc>
+    <loc>/en/entity/closed-interval/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/angle-measure/</loc>
+    <loc>/en/entity/composite-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/angular-speed/</loc>
+    <loc>/en/entity/constant-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/annual-percentage-yield/</loc>
+    <loc>/en/entity/constant-multiple-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/any-function/</loc>
+    <loc>/en/entity/cosine-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/area-formula/</loc>
+    <loc>/en/entity/cost-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/at-least-one/</loc>
+    <loc>/en/entity/cubic-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/automatic-stabilizer/</loc>
+    <loc>/en/entity/cylindrical-shell/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/average-value/</loc>
+    <loc>/en/entity/density-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/balanced-budget/</loc>
+    <loc>/en/entity/dependent-variable/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/bank-regulation/</loc>
+    <loc>/en/entity/difference-quotient/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/base-b/</loc>
+    <loc>/en/entity/differentiable-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/base-e/</loc>
+    <loc>/en/entity/differential-equation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/base-year/</loc>
+    <loc>/en/entity/differentiation-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/basic-function/</loc>
+    <loc>/en/entity/differentiation-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/between-two/</loc>
+    <loc>/en/entity/disk-method/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/bilateral-monopoly/</loc>
+    <loc>/en/entity/even-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/binomial-theorem/</loc>
+    <loc>/en/entity/exact-value/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/building-block/</loc>
+    <loc>/en/entity/exponential-decay/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/business/</loc>
+    <loc>/en/entity/exponential-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/carrying-capacity/</loc>
+    <loc>/en/entity/exponential-growth/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/cartesian-form/</loc>
+    <loc>/en/entity/extended-power-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/cell-phone/</loc>
+    <loc>/en/entity/extreme-value-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/celsius-temperature/</loc>
+    <loc>/en/entity/formal-definition/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/central-angle/</loc>
+    <loc>/en/entity/fundamental-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/chain-rule/</loc>
+    <loc>/en/entity/geometric-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/closed-bounded-interval/</loc>
+    <loc>/en/entity/graphing-calculator/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/closed-interval/</loc>
+    <loc>/en/entity/graphing-utility/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/common-base/</loc>
+    <loc>/en/entity/horizontal-asymptote/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/common-logarithm/</loc>
+    <loc>/en/entity/horizontal-line-test/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/common-ratio/</loc>
+    <loc>/en/entity/horizontal-line/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/comparative-advantage/</loc>
+    <loc>/en/entity/horizontal-tangent/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/composite-function/</loc>
+    <loc>/en/entity/hyperbolic-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/concavity/</loc>
+    <loc>/en/entity/increasing-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/consecutive-term/</loc>
+    <loc>/en/entity/indefinite-integral/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/constant-c/</loc>
+    <loc>/en/entity/independent-variable/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/constant-function/</loc>
+    <loc>/en/entity/indeterminate-form/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/constant-multiple-rule/</loc>
+    <loc>/en/entity/infinite-limit/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/constant-ratio/</loc>
+    <loc>/en/entity/initial-condition/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/constant-speed/</loc>
+    <loc>/en/entity/initial-guess/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/constant-term/</loc>
+    <loc>/en/entity/initial-value-problem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/coordinate-pair/</loc>
+    <loc>/en/entity/instantaneous-velocity/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/corollary/</loc>
+    <loc>/en/entity/integration-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/corporate-governance/</loc>
+    <loc>/en/entity/inverse-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/corresponding-output-value/</loc>
+    <loc>/en/entity/inverse-hyperbolic-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/corresponding-range/</loc>
+    <loc>/en/entity/inverse-tangent-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/cosine-function/</loc>
+    <loc>/en/entity/inverse-trigonometric-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/cost-function/</loc>
+    <loc>/en/entity/iterative-process/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/counterclockwise-direction/</loc>
+    <loc>/en/entity/jump-discontinuity/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/cross/</loc>
+    <loc>/en/entity/l-h6pital-s-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/cube-root/</loc>
+    <loc>/en/entity/l-h6pital/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/cubic-function/</loc>
+    <loc>/en/entity/leading-coefficient/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/currency/</loc>
+    <loc>/en/entity/left-endpoint-approximation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/cylindrical-shell/</loc>
+    <loc>/en/entity/left-endpoint/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/deadweight-loss/</loc>
+    <loc>/en/entity/leibniz-s-notation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/decibels-d/</loc>
+    <loc>/en/entity/limit-definition/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/decreasing-function/</loc>
+    <loc>/en/entity/limit-law/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/demand-and-supply/</loc>
+    <loc>/en/entity/line-tangent/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/density-function/</loc>
+    <loc>/en/entity/linear-approximation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/dependent-variable/</loc>
+    <loc>/en/entity/linear-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/depression/</loc>
+    <loc>/en/entity/local-extremum/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/difference-quotient/</loc>
+    <loc>/en/entity/local-minimum/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/differentiable-function/</loc>
+    <loc>/en/entity/logarithmic-differentiation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/differential-equation/</loc>
+    <loc>/en/entity/logarithmic-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/differentiation-formula/</loc>
+    <loc>/en/entity/lower-limit/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/differentiation-rule/</loc>
+    <loc>/en/entity/lower-sum/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/directed-line-segment/</loc>
+    <loc>/en/entity/maximum-area/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/disk-method/</loc>
+    <loc>/en/entity/mean-value-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/distance-formula/</loc>
+    <loc>/en/entity/natural-exponential-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/distributive-property/</loc>
+    <loc>/en/entity/natural-logarithm-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/dollar-value/</loc>
+    <loc>/en/entity/natural-logarithm/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/double-angle/</loc>
+    <loc>/en/entity/natural-logarithmic-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/economic-growth/</loc>
+    <loc>/en/entity/net-signed-area/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/efficiency/</loc>
+    <loc>/en/entity/newton-s-method/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/elasticity/</loc>
+    <loc>/en/entity/oblique-asymptote/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/election/</loc>
+    <loc>/en/entity/odd-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/elimination/</loc>
+    <loc>/en/entity/one-sided-limit/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/end-behavior/</loc>
+    <loc>/en/entity/one-to-one-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/equal-increment/</loc>
+    <loc>/en/entity/open-interval/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/equation-form/</loc>
+    <loc>/en/entity/percentage-error/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/equivalent-expression/</loc>
+    <loc>/en/entity/piecewise-defined-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/even-function/</loc>
+    <loc>/en/entity/point-slope-equation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/even-integer/</loc>
+    <loc>/en/entity/points-p/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/even-root/</loc>
+    <loc>/en/entity/population-growth/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/even-those/</loc>
+    <loc>/en/entity/position-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/exact-value/</loc>
+    <loc>/en/entity/positive-integer/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/exactly-one-element/</loc>
+    <loc>/en/entity/power-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/exchange-rate-policy/</loc>
+    <loc>/en/entity/power-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/exchange-rate/</loc>
+    <loc>/en/entity/problem-solving-strategy/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/excluded-value/</loc>
+    <loc>/en/entity/product-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/expenditure/</loc>
+    <loc>/en/entity/profit-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/exponential-decay-function/</loc>
+    <loc>/en/entity/pythagorean-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/exponential-decay/</loc>
+    <loc>/en/entity/quadratic-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/exponential-expression/</loc>
+    <loc>/en/entity/quotient-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/exponential-form/</loc>
+    <loc>/en/entity/rational-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/exponential-function/</loc>
+    <loc>/en/entity/relative-error/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/exponential-growth-model/</loc>
+    <loc>/en/entity/revenue-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/exponential-growth/</loc>
+    <loc>/en/entity/riemann-sum/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/exponential/</loc>
+    <loc>/en/entity/right-endpoint-approximation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/extended-power-rule/</loc>
+    <loc>/en/entity/right-endpoint/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/extreme-value-theorem/</loc>
+    <loc>/en/entity/right-triangle/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/f-t/</loc>
+    <loc>/en/entity/rolle-s-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/f-x/</loc>
+    <loc>/en/entity/sigma-notation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/factored-form/</loc>
+    <loc>/en/entity/squeeze-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/fahrenheit-temperature/</loc>
+    <loc>/en/entity/straight-line/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/ferris-wheel/</loc>
+    <loc>/en/entity/symmetry-principle/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/fibonacci-sequence/</loc>
+    <loc>/en/entity/t-year/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/financial-capital/</loc>
+    <loc>/en/entity/tangent-line/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/finding-domain/</loc>
+    <loc>/en/entity/total-distance/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/first-derivative-test/</loc>
+    <loc>/en/entity/total-mass/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/first-derivative/</loc>
+    <loc>/en/entity/transcendental-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/first-function/</loc>
+    <loc>/en/entity/trigonometric-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/first-quadrant/</loc>
+    <loc>/en/entity/upper-limit/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/first-step/</loc>
+    <loc>/en/entity/value-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/fiscal-policy/</loc>
+    <loc>/en/entity/velocity-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/five-unit/</loc>
+    <loc>/en/entity/vertical-asymptote/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/fixed-input/</loc>
+    <loc>/en/entity/vertical-line/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/fixed-line/</loc>
+    <loc>/en/entity/weight-density/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/foreign-direct-investment/</loc>
+    <loc>/en/entity/x-intercept/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/form-f-x/</loc>
+    <loc>/en/entity/x-item/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/formal-definition/</loc>
+    <loc>/en/entity/x-value/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/function-composition/</loc>
+    <loc>/en/entity/xy-plane/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/function-f-x/</loc>
+    <loc>/en/entity/y-value/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/function-notation/</loc>
+    <loc>/es/entity/absolute-extrema/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/function-value/</loc>
+    <loc>/es/entity/area-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/fundamental-theorem/</loc>
+    <loc>/es/entity/average-value/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/geometric-formula/</loc>
+    <loc>/es/entity/cell-phone/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/given-point/</loc>
+    <loc>/es/entity/chain-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/globalization/</loc>
+    <loc>/es/entity/closed-bounded-interval/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/government-borrowing/</loc>
+    <loc>/es/entity/composite-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/government-spending/</loc>
+    <loc>/es/entity/constant-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/grade-point-average/</loc>
+    <loc>/es/entity/constant-multiple-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/graphing-calculator/</loc>
+    <loc>/es/entity/cosine-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/graphing-utility/</loc>
+    <loc>/es/entity/cost-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/gross-domestic-product/</loc>
+    <loc>/es/entity/cubic-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/gross-national-product/</loc>
+    <loc>/es/entity/cylindrical-shell/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/ground-speed/</loc>
+    <loc>/es/entity/density-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/highest-exponent/</loc>
+    <loc>/es/entity/dependent-variable/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/highest-power/</loc>
+    <loc>/es/entity/difference-quotient/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/horizontal-asymptote/</loc>
+    <loc>/es/entity/differentiable-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/horizontal-compression/</loc>
+    <loc>/es/entity/differential-equation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/horizontal-distance/</loc>
+    <loc>/es/entity/differentiation-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/horizontal-line-test/</loc>
+    <loc>/es/entity/differentiation-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/horizontal-line/</loc>
+    <loc>/es/entity/disk-method/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/horizontal-shift/</loc>
+    <loc>/es/entity/even-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/horizontal-stretch/</loc>
+    <loc>/es/entity/exact-value/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/horizontal-tangent/</loc>
+    <loc>/es/entity/exponential-decay/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/hyperbolic-function/</loc>
+    <loc>/es/entity/exponential-growth/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/immigration/</loc>
+    <loc>/es/entity/extended-power-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/income-elasticity/</loc>
+    <loc>/es/entity/extreme-value-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/increasing-function/</loc>
+    <loc>/es/entity/formal-definition/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/indefinite-integral/</loc>
+    <loc>/es/entity/funcion-algebraica/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/independent-variable/</loc>
+    <loc>/es/entity/funcion-cuadratica/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/indeterminate-form/</loc>
+    <loc>/es/entity/funcion-de-valor-absoluto/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/indifference-curve/</loc>
+    <loc>/es/entity/funcion-exponencial-natural/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/industry-structure/</loc>
+    <loc>/es/entity/funcion-exponencial/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/infinite-limit/</loc>
+    <loc>/es/entity/funcion-hiperbolica-inversa/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/infinite-sequence/</loc>
+    <loc>/es/entity/funcion-hiperbolica/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/infinity/</loc>
+    <loc>/es/entity/funcion-inversa/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/inflation/</loc>
+    <loc>/es/entity/funcion-lineal/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/initial-condition/</loc>
+    <loc>/es/entity/funcion-logaritmica-natural/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/initial-guess/</loc>
+    <loc>/es/entity/funcion-logaritmica/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/initial-or-starting-value/</loc>
+    <loc>/es/entity/funcion-logaritmo-natural/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/initial-value-problem/</loc>
+    <loc>/es/entity/funcion-potencial/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/initial-value/</loc>
+    <loc>/es/entity/funcion-racional/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/inner-function/</loc>
+    <loc>/es/entity/funcion-trascendental/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/input-quantity/</loc>
+    <loc>/es/entity/funcion-trigonometrica-inversa/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/inside-function/</loc>
+    <loc>/es/entity/funcion-trigonometrica/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/instantaneous-velocity/</loc>
+    <loc>/es/entity/fundamental-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/insurance/</loc>
+    <loc>/es/entity/geometric-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/integration-formula/</loc>
+    <loc>/es/entity/graphing-calculator/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/intermediate-zone/</loc>
+    <loc>/es/entity/graphing-utility/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/international-trade/</loc>
+    <loc>/es/entity/horizontal-asymptote/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/interval-j/</loc>
+    <loc>/es/entity/horizontal-line-test/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/interval-notation/</loc>
+    <loc>/es/entity/horizontal-line/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/intra/</loc>
+    <loc>/es/entity/horizontal-tangent/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/inverse-function/</loc>
+    <loc>/es/entity/increasing-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/inverse-hyperbolic-function/</loc>
+    <loc>/es/entity/indefinite-integral/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/inverse-sine/</loc>
+    <loc>/es/entity/independent-variable/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/inverse-tangent-function/</loc>
+    <loc>/es/entity/indeterminate-form/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/inverse-trigonometric-function/</loc>
+    <loc>/es/entity/initial-condition/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/inverse-variation/</loc>
+    <loc>/es/entity/initial-guess/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/investment-account/</loc>
+    <loc>/es/entity/initial-value-problem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/iterative-process/</loc>
+    <loc>/es/entity/instantaneous-velocity/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/jim-f-x/</loc>
+    <loc>/es/entity/integration-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/jim-f/</loc>
+    <loc>/es/entity/intervalo-abierto/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/jump-discontinuity/</loc>
+    <loc>/es/entity/intervalo-cerrado/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/keynesian-perspective/</loc>
+    <loc>/es/entity/inverse-tangent-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/l-h6pital-s-rule/</loc>
+    <loc>/es/entity/iterative-process/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/l-h6pital/</loc>
+    <loc>/es/entity/jump-discontinuity/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/labor-market/</loc>
+    <loc>/es/entity/l-h6pital-s-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/labor-productivity/</loc>
+    <loc>/es/entity/l-h6pital/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/labor-supply/</loc>
+    <loc>/es/entity/leading-coefficient/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/leading-coefficient/</loc>
+    <loc>/es/entity/left-endpoint-approximation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/leading-term/</loc>
+    <loc>/es/entity/left-endpoint/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/least-possible-degree/</loc>
+    <loc>/es/entity/leibniz-s-notation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/left-endpoint-approximation/</loc>
+    <loc>/es/entity/limit-definition/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/left-endpoint/</loc>
+    <loc>/es/entity/limit-law/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/leibniz-s-notation/</loc>
+    <loc>/es/entity/limite-infinito/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/limit-definition/</loc>
+    <loc>/es/entity/limite-superior/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/limit-law/</loc>
+    <loc>/es/entity/line-tangent/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/line-tangent/</loc>
+    <loc>/es/entity/linear-approximation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/linear-approximation/</loc>
+    <loc>/es/entity/local-extremum/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/linear-function/</loc>
+    <loc>/es/entity/local-minimum/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/linear-regression/</loc>
+    <loc>/es/entity/logarithmic-differentiation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/linear-speed/</loc>
+    <loc>/es/entity/lower-limit/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/linear/</loc>
+    <loc>/es/entity/lower-sum/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/local-extrema/</loc>
+    <loc>/es/entity/maximum-area/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/local-extremum/</loc>
+    <loc>/es/entity/mean-value-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/local-maxima/</loc>
+    <loc>/es/entity/natural-logarithm/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/local-maximum/</loc>
+    <loc>/es/entity/net-signed-area/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/local-minimum/</loc>
+    <loc>/es/entity/newton-s-method/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/logarithm-function/</loc>
+    <loc>/es/entity/oblique-asymptote/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/logarithmic-differentiation/</loc>
+    <loc>/es/entity/odd-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/logarithmic-function/</loc>
+    <loc>/es/entity/one-sided-limit/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/logarithmic-model/</loc>
+    <loc>/es/entity/one-to-one-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/long-division/</loc>
+    <loc>/es/entity/percentage-error/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/long-run/</loc>
+    <loc>/es/entity/piecewise-defined-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/low-risk/</loc>
+    <loc>/es/entity/point-slope-equation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/lower-limit/</loc>
+    <loc>/es/entity/points-p/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/lower-sum/</loc>
+    <loc>/es/entity/population-growth/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/lowest-point/</loc>
+    <loc>/es/entity/position-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/macroeconomic-perspective/</loc>
+    <loc>/es/entity/positive-integer/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/march-2013/</loc>
+    <loc>/es/entity/power-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/marginal-utility/</loc>
+    <loc>/es/entity/problem-solving-strategy/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/matrix-multiplication/</loc>
+    <loc>/es/entity/product-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/maximum-area/</loc>
+    <loc>/es/entity/profit-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/maximum-or-minimum-value/</loc>
+    <loc>/es/entity/pythagorean-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/maximum-value/</loc>
+    <loc>/es/entity/quotient-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/mean-value-theorem/</loc>
+    <loc>/es/entity/relative-error/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/mirror-image/</loc>
+    <loc>/es/entity/revenue-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/monetary-policy/</loc>
+    <loc>/es/entity/riemann-sum/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/monopolistic-competition/</loc>
+    <loc>/es/entity/right-endpoint-approximation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/monopoly/</loc>
+    <loc>/es/entity/right-endpoint/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/more-than-one/</loc>
+    <loc>/es/entity/right-triangle/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/multiply-row/</loc>
+    <loc>/es/entity/rolle-s-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/natural-exponential-function/</loc>
+    <loc>/es/entity/sigma-notation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/natural-logarithm-function/</loc>
+    <loc>/es/entity/squeeze-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/natural-logarithm/</loc>
+    <loc>/es/entity/straight-line/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/natural-logarithmic-function/</loc>
+    <loc>/es/entity/symmetry-principle/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/negative-angle/</loc>
+    <loc>/es/entity/t-year/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/negative-reciprocal/</loc>
+    <loc>/es/entity/tangent-line/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/negative-value/</loc>
+    <loc>/es/entity/total-distance/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/neoclassical-perspective/</loc>
+    <loc>/es/entity/total-mass/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/net-signed-area/</loc>
+    <loc>/es/entity/value-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/newton-s-method/</loc>
+    <loc>/es/entity/velocity-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/no-restriction/</loc>
+    <loc>/es/entity/vertical-asymptote/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/no-solution/</loc>
+    <loc>/es/entity/vertical-line/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/non-negative-integer/</loc>
+    <loc>/es/entity/weight-density/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/o0/</loc>
+    <loc>/es/entity/x-intercept/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/oblique-asymptote/</loc>
+    <loc>/es/entity/x-item/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/odd-function/</loc>
+    <loc>/es/entity/x-value/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/oligopoly/</loc>
+    <loc>/es/entity/xy-plane/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-equation/</loc>
+    <loc>/es/entity/y-value/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-function/</loc>
+    <loc>/fr/entity/absolute-extrema/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-half/</loc>
+    <loc>/fr/entity/area-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-hour/</loc>
+    <loc>/fr/entity/average-value/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-line/</loc>
+    <loc>/fr/entity/cell-phone/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-method/</loc>
+    <loc>/fr/entity/chain-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-more-unit/</loc>
+    <loc>/fr/entity/closed-bounded-interval/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-quantity/</loc>
+    <loc>/fr/entity/composite-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-reason/</loc>
+    <loc>/fr/entity/constant-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-side/</loc>
+    <loc>/fr/entity/constant-multiple-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-sided-limit/</loc>
+    <loc>/fr/entity/cosine-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-to-one-function/</loc>
+    <loc>/fr/entity/cost-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-unit/</loc>
+    <loc>/fr/entity/cubic-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-variable/</loc>
+    <loc>/fr/entity/cylindrical-shell/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/one-year/</loc>
+    <loc>/fr/entity/density-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/open-interval/</loc>
+    <loc>/fr/entity/dependent-variable/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/opposite-sign/</loc>
+    <loc>/fr/entity/difference-quotient/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/ordered-pair/</loc>
+    <loc>/fr/entity/differentiable-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/original-function/</loc>
+    <loc>/fr/entity/differential-equation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/outer-function/</loc>
+    <loc>/fr/entity/differentiation-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/output-value/</loc>
+    <loc>/fr/entity/differentiation-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/parallel-line/</loc>
+    <loc>/fr/entity/disk-method/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/parent-function/</loc>
+    <loc>/fr/entity/even-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/perceived-demand-curve/</loc>
+    <loc>/fr/entity/exact-value/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/percent-grade/</loc>
+    <loc>/fr/entity/exponential-decay/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/percentage-error/</loc>
+    <loc>/fr/entity/exponential-growth/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/perfect-competition/</loc>
+    <loc>/fr/entity/extended-power-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/perfect-square-trinomial/</loc>
+    <loc>/fr/entity/extreme-value-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/perfect-square/</loc>
+    <loc>/fr/entity/fonction-algebrique/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/periodic-function/</loc>
+    <loc>/fr/entity/fonction-exponentielle-naturelle/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/phase-shift/</loc>
+    <loc>/fr/entity/fonction-exponentielle/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/phillips-curve/</loc>
+    <loc>/fr/entity/fonction-hyperbolique/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/piecewise-defined-function/</loc>
+    <loc>/fr/entity/fonction-inverse-hyperbolique/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/piecewise-function/</loc>
+    <loc>/fr/entity/fonction-inverse-trigonometrique/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/point-c/</loc>
+    <loc>/fr/entity/fonction-lineaire/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/point-p/</loc>
+    <loc>/fr/entity/fonction-logarithme-naturel/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/point-slope-equation/</loc>
+    <loc>/fr/entity/fonction-logarithmique-naturelle/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/point-slope-formula/</loc>
+    <loc>/fr/entity/fonction-logarithmique/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/points-p/</loc>
+    <loc>/fr/entity/fonction-puissance/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/policy-implication/</loc>
+    <loc>/fr/entity/fonction-quadratique/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/pollution/</loc>
+    <loc>/fr/entity/fonction-rationnelle/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/polynomial-expression/</loc>
+    <loc>/fr/entity/fonction-reciproque/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/polynomial-function/</loc>
+    <loc>/fr/entity/fonction-transcendante/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/population-growth/</loc>
+    <loc>/fr/entity/fonction-trigonometrique/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/pork-barrel-spending/</loc>
+    <loc>/fr/entity/fonction-valeur-absolue/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/position-function/</loc>
+    <loc>/fr/entity/formal-definition/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/positive-constant/</loc>
+    <loc>/fr/entity/fundamental-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/positive-integer/</loc>
+    <loc>/fr/entity/geometric-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/positive-value/</loc>
+    <loc>/fr/entity/graphing-calculator/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/possible-outcome/</loc>
+    <loc>/fr/entity/graphing-utility/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/poverty-trap/</loc>
+    <loc>/fr/entity/horizontal-asymptote/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/poverty/</loc>
+    <loc>/fr/entity/horizontal-line-test/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/power-function/</loc>
+    <loc>/fr/entity/horizontal-line/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/power-rule/</loc>
+    <loc>/fr/entity/horizontal-tangent/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/preceding-term/</loc>
+    <loc>/fr/entity/increasing-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/present-discounted-value/</loc>
+    <loc>/fr/entity/indefinite-integral/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/previous-example/</loc>
+    <loc>/fr/entity/independent-variable/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/price-ceiling/</loc>
+    <loc>/fr/entity/indeterminate-form/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/price-elasticity/</loc>
+    <loc>/fr/entity/initial-condition/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/price-floor/</loc>
+    <loc>/fr/entity/initial-guess/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/problem-solving-strategy/</loc>
+    <loc>/fr/entity/initial-value-problem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/producer-surplu/</loc>
+    <loc>/fr/entity/instantaneous-velocity/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/product-rule/</loc>
+    <loc>/fr/entity/integration-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/production-possibilities-frontier/</loc>
+    <loc>/fr/entity/intervalle-ferme/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/productive-efficiency/</loc>
+    <loc>/fr/entity/intervalle-ouvert/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/profit-function/</loc>
+    <loc>/fr/entity/inverse-tangent-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/pythagorean-theorem/</loc>
+    <loc>/fr/entity/iterative-process/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/pythagorean/</loc>
+    <loc>/fr/entity/jump-discontinuity/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/quadrant-ii/</loc>
+    <loc>/fr/entity/l-h6pital-s-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/quadratic-formula/</loc>
+    <loc>/fr/entity/l-h6pital/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/quadratic-function/</loc>
+    <loc>/fr/entity/leading-coefficient/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/quotient-rule/</loc>
+    <loc>/fr/entity/left-endpoint-approximation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/radian-measure/</loc>
+    <loc>/fr/entity/left-endpoint/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/radical-function/</loc>
+    <loc>/fr/entity/leibniz-s-notation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/radius-r/</loc>
+    <loc>/fr/entity/ligne-droite/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/rational-equation/</loc>
+    <loc>/fr/entity/limit-definition/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/rational-function-f-x/</loc>
+    <loc>/fr/entity/limit-law/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/rational-function/</loc>
+    <loc>/fr/entity/limite-infinie/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/rational-zero-theorem/</loc>
+    <loc>/fr/entity/line-tangent/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/real-number-l/</loc>
+    <loc>/fr/entity/linear-approximation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/real-world-application/</loc>
+    <loc>/fr/entity/local-extremum/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/reasonable-domain/</loc>
+    <loc>/fr/entity/local-minimum/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/reciprocal-identity/</loc>
+    <loc>/fr/entity/logarithmic-differentiation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/region-r/</loc>
+    <loc>/fr/entity/lower-limit/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/regression-line/</loc>
+    <loc>/fr/entity/lower-sum/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/relative-error/</loc>
+    <loc>/fr/entity/maximum-area/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/restricted-domain/</loc>
+    <loc>/fr/entity/mean-value-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/restricting-import/</loc>
+    <loc>/fr/entity/natural-logarithm/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/revenue-function/</loc>
+    <loc>/fr/entity/net-signed-area/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/revolving-q/</loc>
+    <loc>/fr/entity/newton-s-method/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/revolving-r/</loc>
+    <loc>/fr/entity/oblique-asymptote/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/ricardian-equivalence/</loc>
+    <loc>/fr/entity/odd-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/richter-scale/</loc>
+    <loc>/fr/entity/one-sided-limit/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/riemann-sum/</loc>
+    <loc>/fr/entity/one-to-one-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/right-angle/</loc>
+    <loc>/fr/entity/percentage-error/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/right-endpoint-approximation/</loc>
+    <loc>/fr/entity/piecewise-defined-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/right-endpoint/</loc>
+    <loc>/fr/entity/point-slope-equation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/right-triangle/</loc>
+    <loc>/fr/entity/points-p/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/rolle-s-theorem/</loc>
+    <loc>/fr/entity/population-growth/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/rolle/</loc>
+    <loc>/fr/entity/position-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/scalar-multiple/</loc>
+    <loc>/fr/entity/positive-integer/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/scalar-multiplication/</loc>
+    <loc>/fr/entity/power-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/scarcity/</loc>
+    <loc>/fr/entity/problem-solving-strategy/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/second-derivative-test/</loc>
+    <loc>/fr/entity/product-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/second-derivative/</loc>
+    <loc>/fr/entity/profit-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/second-function/</loc>
+    <loc>/fr/entity/pythagorean-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/section-opener/</loc>
+    <loc>/fr/entity/quotient-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/set-builder-notation/</loc>
+    <loc>/fr/entity/relative-error/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/short-run/</loc>
+    <loc>/fr/entity/revenue-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/shorthand-method/</loc>
+    <loc>/fr/entity/riemann-sum/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/sigma-notation/</loc>
+    <loc>/fr/entity/right-endpoint-approximation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/simplified-expression/</loc>
+    <loc>/fr/entity/right-endpoint/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/sine-value/</loc>
+    <loc>/fr/entity/right-triangle/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/sinusoidal-function/</loc>
+    <loc>/fr/entity/rolle-s-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/slope-formula/</loc>
+    <loc>/fr/entity/sigma-notation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/slope-intercept-form/</loc>
+    <loc>/fr/entity/squeeze-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/some-constant-c/</loc>
+    <loc>/fr/entity/symmetry-principle/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/special-angle/</loc>
+    <loc>/fr/entity/t-year/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/special-case/</loc>
+    <loc>/fr/entity/tangent-line/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/specific-function/</loc>
+    <loc>/fr/entity/total-distance/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/square-inch/</loc>
+    <loc>/fr/entity/total-mass/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/square-root-function/</loc>
+    <loc>/fr/entity/upper-limit/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/square-root-property/</loc>
+    <loc>/fr/entity/value-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/squares-formula/</loc>
+    <loc>/fr/entity/velocity-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/squeeze-theorem/</loc>
+    <loc>/fr/entity/vertical-asymptote/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/standard-form-equation/</loc>
+    <loc>/fr/entity/vertical-line/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/standard-form/</loc>
+    <loc>/fr/entity/weight-density/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/straight-line/</loc>
+    <loc>/fr/entity/x-intercept/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/straight-path/</loc>
+    <loc>/fr/entity/x-item/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/stretch-factor/</loc>
+    <loc>/fr/entity/x-value/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/stronger-dollar/</loc>
+    <loc>/fr/entity/xy-plane/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/subsequent-term/</loc>
+    <loc>/fr/entity/y-value/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/supply-side/</loc>
+    <loc>/id/entity/absolute-extrema/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/surface-area-s/</loc>
+    <loc>/id/entity/area-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/symmetry-principle/</loc>
+    <loc>/id/entity/average-value/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/synthetic-division/</loc>
+    <loc>/id/entity/cell-phone/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/t-year/</loc>
+    <loc>/id/entity/chain-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/tangent-line/</loc>
+    <loc>/id/entity/closed-bounded-interval/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/taxation/</loc>
+    <loc>/id/entity/composite-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/terminal-side/</loc>
+    <loc>/id/entity/constant-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/three-by-three-system/</loc>
+    <loc>/id/entity/constant-multiple-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/three-by-three/</loc>
+    <loc>/id/entity/cosine-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/three-term/</loc>
+    <loc>/id/entity/cost-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/three-unit/</loc>
+    <loc>/id/entity/cubic-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/time-t/</loc>
+    <loc>/id/entity/cylindrical-shell/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/time/</loc>
+    <loc>/id/entity/density-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/total-distance/</loc>
+    <loc>/id/entity/dependent-variable/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/total-mass/</loc>
+    <loc>/id/entity/difference-quotient/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/trade-balance/</loc>
+    <loc>/id/entity/differentiable-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/trade-policy/</loc>
+    <loc>/id/entity/differential-equation/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/tradeoff/</loc>
+    <loc>/id/entity/differentiation-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/transcendental-function/</loc>
+    <loc>/id/entity/differentiation-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/trigonometric-equation/</loc>
+    <loc>/id/entity/disk-method/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/trigonometric-expression/</loc>
+    <loc>/id/entity/even-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/trigonometric-function/</loc>
+    <loc>/id/entity/exact-value/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/true-statement/</loc>
+    <loc>/id/entity/exponential-decay/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/two-curve/</loc>
+    <loc>/id/entity/exponential-growth/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/two-expression/</loc>
+    <loc>/id/entity/extended-power-rule/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/two-function/</loc>
+    <loc>/id/entity/extreme-value-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/two-line/</loc>
+    <loc>/id/entity/formal-definition/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/two-triangle/</loc>
+    <loc>/id/entity/fundamental-theorem/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/unemployment/</loc>
+    <loc>/id/entity/fungsi-aljabar/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/upper-limit/</loc>
+    <loc>/id/entity/fungsi-eksponensial-alami/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/upper-triangular-form/</loc>
+    <loc>/id/entity/fungsi-eksponensial/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/value-theorem/</loc>
+    <loc>/id/entity/fungsi-hiperbolik-invers/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/variable-cost/</loc>
+    <loc>/id/entity/fungsi-hiperbolik/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/variable-term/</loc>
+    <loc>/id/entity/fungsi-invers-trigonometri/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/velocity-function/</loc>
+    <loc>/id/entity/fungsi-invers/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/vertical-asymptote/</loc>
+    <loc>/id/entity/fungsi-kuadratik/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/vertical-axi/</loc>
+    <loc>/id/entity/fungsi-linear/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/vertical-line-test/</loc>
+    <loc>/id/entity/fungsi-logaritma-natural/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/vertical-line/</loc>
+    <loc>/id/entity/fungsi-logaritma/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/vertical-reflection/</loc>
+    <loc>/id/entity/fungsi-nilai-mutlak/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/vertical-stretch/</loc>
+    <loc>/id/entity/fungsi-pangkat/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/viewing-window/</loc>
+    <loc>/id/entity/fungsi-rasional/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/voting-cycle/</loc>
+    <loc>/id/entity/fungsi-transenden/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/weight-density/</loc>
+    <loc>/id/entity/fungsi-trigonometri/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/x-axi/</loc>
+    <loc>/id/entity/geometric-formula/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/x-coordinate/</loc>
+    <loc>/id/entity/graphing-calculator/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/x-intercept/</loc>
+    <loc>/id/entity/graphing-utility/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/x-item/</loc>
+    <loc>/id/entity/horizontal-asymptote/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/x-value/</loc>
+    <loc>/id/entity/horizontal-line-test/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/x1/</loc>
+    <loc>/id/entity/horizontal-line/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/xy-plane/</loc>
+    <loc>/id/entity/horizontal-tangent/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/y-f-x/</loc>
+    <loc>/id/entity/increasing-function/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/y-value/</loc>
+    <loc>/id/entity/indefinite-integral/</loc>
   </url>
-
   <url>
-    <loc>https://ireonwiki.com/en/entity/zero-elasticity/</loc>
+    <loc>/id/entity/independent-variable/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/indeterminate-form/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/initial-condition/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/initial-guess/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/initial-value-problem/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/instantaneous-velocity/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/integration-formula/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/interval-terbuka/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/interval-tertutup/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/inverse-tangent-function/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/iterative-process/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/jump-discontinuity/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/l-h6pital-s-rule/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/l-h6pital/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/leading-coefficient/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/left-endpoint-approximation/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/left-endpoint/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/leibniz-s-notation/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/limit-definition/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/limit-law/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/limit-tak-hingga/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/line-tangent/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/linear-approximation/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/local-extremum/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/local-minimum/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/logarithmic-differentiation/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/lower-limit/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/lower-sum/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/maximum-area/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/mean-value-theorem/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/natural-logarithm/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/net-signed-area/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/newton-s-method/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/oblique-asymptote/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/odd-function/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/one-sided-limit/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/one-to-one-function/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/percentage-error/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/piecewise-defined-function/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/point-slope-equation/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/points-p/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/population-growth/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/position-function/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/positive-integer/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/power-rule/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/problem-solving-strategy/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/product-rule/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/profit-function/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/pythagorean-theorem/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/quotient-rule/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/relative-error/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/revenue-function/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/riemann-sum/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/right-endpoint-approximation/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/right-endpoint/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/right-triangle/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/rolle-s-theorem/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/sigma-notation/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/squeeze-theorem/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/straight-line/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/symmetry-principle/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/t-year/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/tangent-line/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/total-distance/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/total-mass/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/upper-limit/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/value-theorem/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/velocity-function/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/vertical-asymptote/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/vertical-line/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/weight-density/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/x-intercept/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/x-item/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/x-value/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/xy-plane/</loc>
+  </url>
+  <url>
+    <loc>/id/entity/y-value/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/absolute-extrema/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/area-formula/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/average-value/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/cell-phone/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/chain-rule/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/closed-bounded-interval/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/composite-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/constant-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/constant-multiple-rule/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/cosine-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/cost-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/cubic-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/cylindrical-shell/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/density-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/dependent-variable/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/difference-quotient/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/differentiable-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/differential-equation/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/differentiation-formula/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/differentiation-rule/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/disk-method/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/even-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/exact-value/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/exponential-decay/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/exponential-growth/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/extended-power-rule/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/extreme-value-theorem/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/formal-definition/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/fundamental-theorem/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/geometric-formula/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/graphing-calculator/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/graphing-utility/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/horizontal-asymptote/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/horizontal-line-test/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/horizontal-line/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/horizontal-tangent/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/increasing-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/indefinite-integral/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/independent-variable/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/indeterminate-form/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/initial-condition/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/initial-guess/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/initial-value-problem/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/instantaneous-velocity/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/integration-formula/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/inverse-tangent-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/iterative-process/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/jump-discontinuity/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/l-h6pital-s-rule/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/l-h6pital/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/leading-coefficient/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/left-endpoint-approximation/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/left-endpoint/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/leibniz-s-notation/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/limit-definition/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/limit-law/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/line-tangent/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/linear-approximation/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/local-extremum/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/local-minimum/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/logarithmic-differentiation/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/lower-limit/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/lower-sum/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/maximum-area/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/mean-value-theorem/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/natural-logarithm/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/net-signed-area/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/newton-s-method/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/oblique-asymptote/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/odd-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/one-sided-limit/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/one-to-one-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/percentage-error/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/piecewise-defined-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/point-slope-equation/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/points-p/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/population-growth/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/position-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/positive-integer/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/power-rule/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/problem-solving-strategy/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/product-rule/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/profit-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/pythagorean-theorem/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/quotient-rule/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/relative-error/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/revenue-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/riemann-sum/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/right-endpoint-approximation/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/right-endpoint/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/right-triangle/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/rolle-s-theorem/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/sigma-notation/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/squeeze-theorem/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/straight-line/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/symmetry-principle/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/t-year/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/tangent-line/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/total-distance/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/total-mass/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/upper-limit/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/value-theorem/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/velocity-function/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/vertical-asymptote/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/vertical-line/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/weight-density/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/x-intercept/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/x-item/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/x-value/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/xy-plane/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/y-value/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/거듭제곱-함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/닫힌구간/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/대수적-함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/로그-함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/무한한-극한/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/삼각함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/선형-함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/쌍곡선-함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/역삼각함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/역쌍곡선-함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/역함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/열린구간/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/유리-함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/이차-함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/자연-지수-함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/자연로그-함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/절댓값-함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/지수-함수/</loc>
+  </url>
+  <url>
+    <loc>/ko/entity/초월-함수/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/absolute-extrema/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/area-formula/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/average-value/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/cell-phone/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/chain-rule/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/closed-bounded-interval/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/composite-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/constant-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/constant-multiple-rule/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/cosine-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/cost-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/cubic-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/cylindrical-shell/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/density-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/dependent-variable/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/difference-quotient/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/differentiable-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/differential-equation/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/differentiation-formula/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/differentiation-rule/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/disk-method/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/even-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/exact-value/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/exponential-decay/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/exponential-growth/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/extended-power-rule/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/extreme-value-theorem/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/formal-definition/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-algebrica/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-exponencial-natural/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-exponencial/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-hiperbolica-inversa/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-hiperbolica/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-inversa-trigonometrica/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-inversa/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-linear/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-logaritmica-natural/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-logaritmica/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-logaritmo-natural/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-potencia/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-quadratica/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-racional/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-transcendente/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-trigonometrica/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/funcao-valor-absoluto/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/fundamental-theorem/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/geometric-formula/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/graphing-calculator/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/graphing-utility/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/horizontal-asymptote/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/horizontal-line-test/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/horizontal-line/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/horizontal-tangent/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/increasing-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/indefinite-integral/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/independent-variable/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/indeterminate-form/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/initial-condition/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/initial-guess/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/initial-value-problem/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/instantaneous-velocity/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/integration-formula/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/intervalo-aberto/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/intervalo-fechado/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/inverse-tangent-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/iterative-process/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/jump-discontinuity/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/l-h6pital-s-rule/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/l-h6pital/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/leading-coefficient/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/left-endpoint-approximation/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/left-endpoint/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/leibniz-s-notation/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/limit-definition/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/limit-law/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/limite-infinito/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/line-tangent/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/linear-approximation/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/local-extremum/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/local-minimum/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/logarithmic-differentiation/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/lower-limit/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/lower-sum/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/maximum-area/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/mean-value-theorem/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/natural-logarithm/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/net-signed-area/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/newton-s-method/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/no-maximo/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/oblique-asymptote/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/odd-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/one-sided-limit/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/one-to-one-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/percentage-error/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/piecewise-defined-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/point-slope-equation/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/points-p/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/population-growth/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/positive-integer/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/power-rule/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/problem-solving-strategy/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/product-rule/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/profit-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/pythagorean-theorem/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/quotient-rule/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/relative-error/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/revenue-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/riemann-sum/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/right-endpoint-approximation/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/right-endpoint/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/right-triangle/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/rolle-s-theorem/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/sigma-notation/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/squeeze-theorem/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/straight-line/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/symmetry-principle/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/t-year/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/tangent-line/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/total-distance/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/total-mass/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/value-theorem/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/velocity-function/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/vertical-asymptote/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/vertical-line/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/weight-density/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/x-intercept/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/x-item/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/x-value/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/xy-plane/</loc>
+  </url>
+  <url>
+    <loc>/pt/entity/y-value/</loc>
   </url>
 </urlset>
