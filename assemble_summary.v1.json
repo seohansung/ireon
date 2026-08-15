@@ -1,0 +1,31 @@
+{
+  "schema_version": "day282.assemble_launch_site_dir.v1",
+  "ireon_deploy_source": "C:\\Users\\user\\Desktop\\ireon-deploy",
+  "day282_shell_source": "C:\\Users\\user\\Desktop\\filostory\\reports\\knowledge_reconstruction\\day282_url_migration\\site_shell_v2",
+  "out": "C:\\Users\\user\\Desktop\\filostory\\_staging_day282\\site",
+  "copied": {
+    "root_files": [
+      "index.html",
+      "googlee078359b18a6a514.html",
+      "assets/"
+    ],
+    "legacy_langs": [
+      "es",
+      "fr",
+      "id",
+      "ko",
+      "pt"
+    ],
+    "en_from_day282": true,
+    "sitemap": true
+  },
+  "en_html_count": 87,
+  "legacy_html_counts": {
+    "es": 132,
+    "fr": 132,
+    "id": 131,
+    "ko": 131,
+    "pt": 131
+  },
+  "note": "en/ replaced entirely with day282 slug-based Active Calculus shell (85 entities: 32 live-ready + 53 planned stubs). es/fr/id/ko/pt legacy 131-page OpenStax-corpus trees carried forward unchanged pending Phase 4 multilingual re-coverage."
+}

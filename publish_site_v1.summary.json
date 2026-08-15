@@ -1,0 +1,68 @@
+{
+  "ok": false,
+  "script": "publish_site_v1.py",
+  "site_dir": "C:/Users/user/Desktop/filostory/_staging_day282/site",
+  "deploy_dir": "C:/Users/user/Desktop/ireon-deploy",
+  "domain": "ireonwiki.com",
+  "remote": "https://github.com/seohansung/ireon.git",
+  "required_files": {
+    "index_html": true,
+    "sitemap_xml": true,
+    "assets": true,
+    "en": true,
+    "cname": true
+  },
+  "legacy_entity_present": false,
+  "copied_files": 755,
+  "copied_dirs": 7,
+  "cleaned": true,
+  "removed_items": [
+    "C:\\Users\\user\\Desktop\\ireon-deploy\\assets",
+    "C:\\Users\\user\\Desktop\\ireon-deploy\\CNAME",
+    "C:\\Users\\user\\Desktop\\ireon-deploy\\en",
+    "C:\\Users\\user\\Desktop\\ireon-deploy\\es",
+    "C:\\Users\\user\\Desktop\\ireon-deploy\\fr",
+    "C:\\Users\\user\\Desktop\\ireon-deploy\\googlee078359b18a6a514.html",
+    "C:\\Users\\user\\Desktop\\ireon-deploy\\id",
+    "C:\\Users\\user\\Desktop\\ireon-deploy\\index.html",
+    "C:\\Users\\user\\Desktop\\ireon-deploy\\ko",
+    "C:\\Users\\user\\Desktop\\ireon-deploy\\pt",
+    "C:\\Users\\user\\Desktop\\ireon-deploy\\publish_site_v1.summary.json",
+    "C:\\Users\\user\\Desktop\\ireon-deploy\\sitemap.xml"
+  ],
+  "skipped_items": [
+    "C:\\Users\\user\\Desktop\\ireon-deploy\\.git"
+  ],
+  "git_results": [
+    {
+      "cmd": "git remote",
+      "returncode": 0,
+      "stdout": "origin",
+      "stderr": "",
+      "ok": true
+    },
+    {
+      "cmd": "git remote set-url origin https://github.com/seohansung/ireon.git",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true
+    },
+    {
+      "cmd": "git branch -M main",
+      "returncode": 0,
+      "stdout": "",
+      "stderr": "",
+      "ok": true
+    }
+  ],
+  "commit_created": false,
+  "push_ok": false,
+  "commit_message": "deploy: day282 slug-based URL migration (32 live-ready Active Calculus entities + 53 planned stubs); es/fr/id/ko/pt legacy multilingual trees preserved unchanged",
+  "summary_files": [],
+  "warnings": [],
+  "errors": [
+    "'NoneType' object has no attribute 'strip'"
+  ],
+  "created_at": "2026-08-15T19:21:58"
+}
